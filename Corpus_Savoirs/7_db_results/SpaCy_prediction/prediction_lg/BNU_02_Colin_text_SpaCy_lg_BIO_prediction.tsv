@@ -1,0 +1,12396 @@
+TOKEN	PREDICTION	GOLD	VALIDITY
+Les	O	O	1
+réserves	O	O	1
+précieuses	O	O	1
+de	O	O	1
+la	O	O	1
+Bibliothèque	B-LOC	O	O
+nationale	I-LOC	O	O
+et	I-LOC	O	O
+universitaire	I-LOC	B-LOC	O
+de	I-LOC	O	O
+Strasbourg	I-LOC	O	O
+conservent	O	O	1
+un	O	O	1
+remarquable	O	O	1
+fonds	O	B-PER	O
+de	O	I-PER	O
+plus	O	O	1
+de	O	O	1
+10	O	O	1
+000	O	O	1
+papyrus	O	O	1
+et	O	O	1
+ostraca,	O	O	1
+qui	O	O	1
+portent	O	O	1
+des	O	O	1
+textes	O	O	1
+écrits	O	O	1
+dans	O	O	1
+la	O	O	1
+plupart	O	O	1
+des	O	O	1
+langues	O	O	1
+utilisées,	O	O	1
+de	O	O	1
+façon	O	O	1
+régulière	O	O	1
+ou	O	O	1
+anecdotique,	O	O	1
+dans	O	O	1
+l’	O	O	1
+Égypte	O	O	1
+ancienne	O	O	1
+:	O	O	1
+égyptien	O	O	1
+hiéroglyphique,	O	O	1
+hiératique,	O	O	1
+démotique	O	O	1
+et	O	O	1
+copte,	O	O	1
+grec,	O	O	1
+latin,	O	O	1
+pehlvi,	O	O	1
+araméen,	O	O	1
+hébreu	O	O	1
+et	O	O	1
+arabe	O	O	1
+A.	O	O	1
+Martin,	O	O	1
+P.	O	O	1
+Heilporn,	O	O	1
+«	O	O	1
+La	O	O	1
+collection	O	O	1
+de	O	O	1
+papyrus	O	O	1
+de	O	O	1
+la	O	O	1
+Bibliothèque	B-LOC	O	O
+nationale	I-LOC	O	O
+et	I-LOC	O	O
+universitaire	I-LOC	O	O
+de	I-LOC	O	O
+Strasbourg	I-LOC	O	O
+»,	I-LOC	O	O
+in	I-LOC	O	O
+W.	I-LOC	O	O
+Clarysse,	I-LOC	B-PER	O
+H.	I-LOC	O	O
+Verreth	I-LOC	O	O
+(éd.),	O	O	1
+Papyrus	O	O	1
+Collections	O	O	1
+World	O	O	1
+Wide,	O	O	1
+9-10	O	O	1
+March	O	O	1
+2000	O	O	1
+(Bruxelles	O	O	1
+-	O	O	1
+Leuven),	O	O	1
+Bruxelles,	O	O	1
+2000,	O	O	1
+p.	O	O	1
+77-80	O	O	1
+.	O	O	1
+À	O	O	1
+l’Institut	O	O	1
+d’égyptologie	O	O	1
+de	O	O	1
+l’université,	O	O	1
+d’autre	O	O	1
+part,	O	O	1
+une	O	O	1
+collection	O	O	1
+d’objets	O	O	1
+authentiques,	O	O	1
+davantage	O	O	1
+tournée	O	O	1
+vers	O	O	1
+l’archéologie	O	O	1
+et	O	O	1
+l’histoire	O	O	1
+de	O	O	1
+l’art,	O	O	1
+offre	O	O	1
+aux	O	O	1
+professeurs	O	O	1
+et	O	O	1
+aux	O	O	1
+étudiants	O	O	1
+un	O	O	1
+champ	O	O	1
+de	O	O	1
+recherche	O	O	1
+et	O	O	1
+d’expérimentation	O	O	1
+exceptionnel,	O	O	1
+car	O	O	1
+elle	O	O	1
+contient	O	O	1
+un	O	O	1
+échantillonnage	O	O	1
+de	O	O	1
+tous	O	O	1
+les	O	O	1
+types	O	O	1
+d’artefacts	O	O	1
+susceptibles	O	O	1
+de	O	O	1
+se	O	O	1
+présenter	O	O	1
+à	O	O	1
+l’archéologue	O	O	1
+sur	O	O	1
+un	O	O	1
+chantier	O	O	1
+égyptien	O	O	1
+P.	B-PER	O	O
+Bucher,	I-PER	O	O
+J.	I-PER	O	O
+Leclant,	I-PER	O	O
+«	O	O	1
+La	O	O	1
+collection	O	O	1
+de	O	O	1
+l’Institut	O	O	1
+d’égyptologie	O	O	1
+de	O	O	1
+l’Université	O	O	1
+de	O	O	1
+Strasbourg	B-LOC	O	O
+»,	I-LOC	O	O
+Bulletin	I-LOC	O	O
+de	O	O	1
+la	O	B-PER	O
+société	O	I-PER	O
+académique	O	O	1
+du	O	O	1
+Bas-Rhin	B-LOC	O	O
+pour	O	O	1
+le	O	O	1
+progrès	O	O	1
+des	O	O	1
+sciences,	O	O	1
+des	O	O	1
+lettres,	O	O	1
+des	O	O	1
+arts	O	O	1
+et	O	O	1
+de	O	O	1
+la	O	O	1
+vie	O	O	1
+économique,	O	O	1
+75-78,	O	O	1
+1953-1956,	O	O	1
+p.	O	O	1
+100-109	O	O	1
+.	O	O	1
+Pourquoi	O	O	1
+et	O	O	1
+comment	O	O	1
+ces	O	O	1
+trésors	O	O	1
+inestimables	O	O	1
+ont-ils	O	O	1
+abouti	O	O	1
+entre	O	O	1
+les	O	O	1
+murs	O	O	1
+de	O	O	1
+ces	O	O	1
+deux	O	O	1
+institutions	O	O	1
+universitaires,	O	O	1
+parmi	O	O	1
+les	O	O	1
+dispositifs	O	O	1
+de	O	O	1
+rayonnement	O	O	1
+culturel	O	O	1
+déployés	O	O	1
+dans	O	O	1
+l’	O	O	1
+Alsace	B-LOC	O	O
+-	O	O	1
+Lorraine	B-LOC	O	O
+de	O	O	1
+Guillaume	B-PER	O	O
+II	I-PER	O	O
+?	O	O	1
+Naguère,	O	O	1
+les	O	O	1
+conditions	O	O	1
+d’acquisition	O	O	1
+de	O	O	1
+la	O	O	1
+collection	O	O	1
+de	O	O	1
+papyrus	O	O	1
+de	O	O	1
+la	O	O	1
+Kaiserliche	O	O	1
+Universitäts-	O	O	1
+und	O	O	1
+Landesbibliothek	O	O	1
+(KULB,	O	O	1
+future	O	O	1
+BNU)	B-LOC	O	O
+étaient	O	O	1
+seulement	O	O	1
+connues	O	O	1
+à	O	O	1
+partir	O	O	1
+de	O	O	1
+1902,	O	O	1
+lorsqu’un	O	O	1
+incident	O	O	1
+diplomatique	O	O	1
+interne	O	O	1
+à	O	O	1
+l’Empire	O	O	1
+allemand	O	O	1
+mit	O	O	1
+le	O	O	1
+gouvernement	O	O	1
+du	O	O	1
+Reichsland	B-LOC	O	O
+aux	O	O	1
+prises	O	O	1
+avec	O	O	1
+le	O	O	1
+ministre	O	O	1
+des	O	O	1
+Affaires	O	O	1
+étrangères	O	O	1
+du	O	O	1
+royaume	O	O	1
+de	O	O	1
+Prusse.	B-PER	O	O
+Ce	O	O	1
+dernier,	O	O	1
+en	O	O	1
+effet,	O	O	1
+fit	O	O	1
+pression	O	O	1
+sur	O	O	1
+le	O	O	1
+gouverneur	O	O	1
+de	O	O	1
+l’	O	O	1
+Alsace	B-LOC	O	O
+-	O	B-PER	O
+Lorraine	B-LOC	O	O
+en	O	O	1
+lui	O	O	1
+demandant	O	O	1
+de	O	O	1
+«	O	O	1
+conseiller	O	O	1
+»	O	O	1
+aux	O	O	1
+autorités	O	O	1
+de	O	O	1
+la	O	O	1
+bibliothèque	O	O	1
+strasbourgeoise	O	O	1
+de	O	O	1
+participer	O	O	1
+à	O	O	1
+un	O	O	1
+«	O	O	1
+cartel	O	O	1
+des	O	O	1
+papyrus	O	O	1
+allemand	O	O	1
+»	O	O	1
+(Deutsches	O	O	1
+Papyruskartell)	B-LOC	O	O
+destiné	O	O	1
+à	O	O	1
+mutualiser	O	O	1
+les	O	O	1
+moyens	O	O	1
+financiers	O	O	1
+des	O	O	1
+institutions	O	O	1
+allemandes	O	O	1
+soucieuses	O	O	1
+d’acheter	O	O	1
+des	O	O	1
+papyrus	O	O	1
+grecs	O	O	1
+en	O	O	1
+Égypte	B-LOC	O	O
+.	O	O	1
+Une	O	O	1
+étude	O	O	1
+a	O	O	1
+montré	O	O	1
+que	O	O	1
+la	O	O	1
+démarche	O	O	1
+des	O	O	1
+autorités	O	O	1
+prussiennes	O	O	1
+avait	O	O	1
+pour	O	O	1
+but	O	O	1
+de	O	O	1
+mettre	O	O	1
+un	O	O	1
+terme	O	O	1
+à	O	O	1
+la	O	O	1
+concurrence	O	O	1
+de	O	O	1
+Strasbourg	O	O	1
+,	O	O	1
+qui	O	O	1
+contrariait	O	O	1
+les	O	O	1
+projets	O	O	1
+de	O	O	1
+la	O	O	1
+commission	O	O	1
+d’acquisition	O	O	1
+de	O	O	1
+papyrus	O	O	1
+grecs	O	O	1
+littéraires	O	O	1
+des	O	O	1
+Musées	B-LOC	O	O
+royaux	O	O	1
+de	O	O	1
+Berlin	B-LOC	O	O
+en	O	O	1
+détournant	O	O	1
+une	O	O	1
+partie	O	O	1
+de	O	O	1
+l’offre	O	O	1
+et,	O	O	1
+craignait-on,	O	O	1
+en	O	O	1
+poussant	O	O	1
+à	O	O	1
+la	O	O	1
+hausse	O	O	1
+les	O	O	1
+prix	O	O	1
+exigés	O	O	1
+par	O	O	1
+les	O	O	1
+antiquaires	O	O	1
+O.	B-PER	O	O
+Primavesi,	I-PER	O	O
+«	O	O	1
+Zur	B-PER	O	O
+Geschichte	I-PER	O	O
+des	O	O	1
+Deutschen	O	O	1
+Papyruskartells	O	O	1
+»,	O	O	1
+ZPE	O	O	1
+114,	O	O	1
+1996,	O	O	1
+p.	O	O	1
+173-177	O	O	1
+;	O	O	1
+180-183,	O	O	1
+Dok.	O	O	1
+1-4	O	O	1
+.	O	O	1
+Il	O	O	1
+est	O	O	1
+vrai	O	O	1
+que	O	O	1
+deux	O	O	1
+professeurs	O	O	1
+de	O	O	1
+l’université	O	B-PER	O
+de	O	I-PER	O
+Strasbourg,	B-LOC	O	O
+Wilhelm	B-PER	O	O
+Spiegelberg	I-PER	O	O
+(égyptologue)	O	O	1
+et	O	O	1
+Richard	B-PER	O	O
+Reitzenstein	I-PER	O	O
+(philologue	O	O	1
+classique)	O	O	1
+avaient	O	O	1
+récemment	O	O	1
+acquis	O	O	1
+une	O	O	1
+excellente	O	O	1
+expérience	O	O	1
+du	O	O	1
+marché	O	O	1
+des	O	O	1
+antiquités,	O	O	1
+en	O	O	1
+partant	O	O	1
+eux-mêmes	O	O	1
+à	O	O	1
+la	O	O	1
+chasse	O	O	1
+aux	O	O	1
+papyrus	O	O	1
+sur	O	O	1
+le	O	O	1
+terrain	O	O	1
+égyptien.	O	O	1
+Les	O	O	1
+résultats	O	O	1
+scientifiques	O	B-PER	O
+de	O	I-PER	O
+leur	O	I-PER	O
+voyage	O	O	1
+avaient	O	O	1
+été	O	O	1
+très	O	O	1
+remarqués,	O	O	1
+comme	O	O	1
+en	O	O	1
+témoigne	O	O	1
+la	O	O	1
+parution,	O	O	1
+le	O	O	1
+1er	O	O	1
+décembre	O	O	1
+1901,	O	O	1
+d’un	O	O	1
+long	O	O	1
+article	O	O	1
+du	O	O	1
+Strassburger	O	O	1
+Post	O	O	1
+consacré	O	O	1
+aux	O	O	1
+trésors	O	O	1
+papyrologiques	O	O	1
+dont	O	O	1
+ils	O	O	1
+avaient	O	O	1
+ainsi	O	O	1
+pourvu	O	O	1
+les	O	O	1
+collections	O	O	1
+de	O	O	1
+la	O	O	1
+KULB.	B-LOC	O	O
+Cependant,	I-LOC	O	O
+les	O	O	1
+circonstances	O	O	1
+de	O	O	1
+leur	O	B-PER	O
+voyage	O	O	1
+fondateur	O	O	1
+sont	O	O	1
+restées	O	O	1
+largement	O	O	1
+inconnues	O	O	1
+jusqu’à	O	O	1
+aujourd’hui.	O	O	1
+En	O	O	1
+1961,	O	O	1
+le	O	O	1
+papyrologue	O	O	1
+strasbourgeois	O	O	1
+Jacques	B-PER	O	O
+Schwartz	I-PER	O	O
+écrivait	O	O	1
+:	O	O	1
+«	O	O	1
+Malgré	O	O	1
+tous	O	O	1
+mes	O	O	1
+efforts,	O	O	1
+il	O	O	1
+m’a	O	O	1
+été	O	O	1
+impossible	O	O	1
+de	O	O	1
+retrouver,	O	O	1
+ni	O	O	1
+dans	O	O	1
+les	O	O	1
+archives	O	O	1
+de	O	O	1
+l’université	O	O	1
+ni	O	O	1
+dans	O	O	1
+ce	O	O	1
+qui	O	O	1
+subsiste	O	O	1
+des	O	O	1
+archives	O	O	1
+d’	O	O	1
+Alsace	B-LOC	O	O
+-	O	O	1
+Lorraine	B-LOC	O	O
+,	O	O	1
+aucune	O	O	1
+autre	O	O	1
+indication	O	O	1
+sur	O	O	1
+les	O	O	1
+circonstances	O	O	1
+d’achat	O	O	1
+des	O	O	1
+papyrus	O	O	1
+»	O	O	1
+J.	B-PER	O	O
+Schwartz,	I-PER	O	O
+Les	O	O	1
+archives	O	B-LOC	O
+de	O	O	1
+Sarapion	O	B-LOC	O
+et	O	O	1
+de	O	O	1
+ses	O	O	1
+fils,	O	O	1
+Le	O	O	1
+Caire,	O	O	1
+1961	O	O	1
+(BdÉ	O	O	1
+29),	O	O	1
+p.	O	O	1
+6	O	O	1
+.	O	O	1
+Après	O	O	1
+avoir	O	O	1
+identifié	O	O	1
+dans	O	O	1
+les	O	O	1
+Archives	O	O	1
+départementales	O	O	1
+du	O	O	1
+Bas-Rhin	B-LOC	O	O
+les	O	O	1
+actes	O	O	1
+relatifs	O	O	1
+à	O	O	1
+la	O	O	1
+constitution	O	O	1
+des	O	O	1
+collections	O	O	1
+égyptiennes	O	O	1
+produits	O	O	1
+par	O	O	1
+l’université	O	O	1
+impériale,	O	O	1
+j’ai	O	O	1
+pu	O	O	1
+entamer,	O	O	1
+en	O	O	1
+2008,	O	O	1
+une	O	O	1
+recherche	O	O	1
+sur	O	O	1
+cet	O	O	1
+épisode	O	O	1
+original	O	O	1
+de	O	O	1
+l’histoire	O	B-PER	O
+culturelle	O	I-PER	O
+de	O	O	1
+l’	O	O	1
+Alsace	B-LOC	O	O
+,	O	O	1
+dont	O	O	1
+cet	O	O	1
+article	O	O	1
+livre	O	O	1
+au	O	O	1
+lecteur	O	O	1
+les	O	O	1
+premiers	O	O	1
+résultats.	O	O	1
+Comme	O	O	1
+souvent	O	O	1
+dans	O	O	1
+les	O	O	1
+entreprises	O	O	1
+majeures	O	O	1
+de	O	O	1
+la	O	O	1
+science,	O	O	1
+la	O	O	1
+petite	O	O	1
+histoire	O	O	1
+académique	O	O	1
+d’un	O	O	1
+savant	O	O	1
+et	O	O	1
+la	O	O	1
+grande	O	O	1
+histoire	O	O	1
+du	O	O	1
+développement	O	O	1
+des	O	O	1
+fonds	O	O	1
+égyptiens	O	O	1
+de	O	O	1
+l’université	O	O	1
+et	O	O	1
+de	O	O	1
+la	O	O	1
+bibliothèque	O	O	1
+strasbourgeoises	O	O	1
+se	O	O	1
+tissèrent	O	O	1
+sur	O	O	1
+une	O	O	1
+seule	O	O	1
+et	O	O	1
+même	O	O	1
+trame.	O	O	1
+On	O	O	1
+ne	O	O	1
+saurait	O	O	1
+comprendre	O	O	1
+la	O	O	1
+naissance	O	O	1
+des	O	O	1
+deux	O	O	1
+collections	O	O	1
+sans	O	O	1
+retracer	O	O	1
+le	O	O	1
+parcours	O	O	1
+scientifique	O	O	1
+de	O	O	1
+W.	B-PER	O	O
+Spiegelberg	I-PER	O	O
+,	O	O	1
+du	O	B-LOC	O
+point	O	O	1
+de	O	B-LOC	O
+vue	O	O	1
+très	O	B-LOC	O
+prosaïque	O	O	1
+de	O	B-LOC	O
+la	O	O	1
+construction	O	O	1
+de	O	O	1
+son	O	O	1
+curriculum	O	O	1
+vitae	O	O	1
+au	O	O	1
+moment	O	O	1
+d’entrer	O	O	1
+dans	O	O	1
+la	O	O	1
+carrière.	O	O	1
+Le	O	O	1
+contexte	O	O	1
+académique	O	O	1
+de	O	O	1
+la	O	O	1
+naissance	O	O	1
+des	O	O	1
+collections	O	O	1
+égyptiennes	O	O	1
+de	O	O	1
+Strasbourg	B-LOC	O	O
+L’égyptologie	I-LOC	O	O
+universitaire,	O	O	1
+en	O	O	1
+Alsace	B-LOC	O	O
+,	O	O	1
+est	O	O	1
+née	O	O	1
+de	O	O	1
+la	O	O	1
+rivalité	O	B-LOC	O
+politique,	O	O	1
+militaire	O	O	1
+et	O	O	1
+culturelle	O	O	1
+qui	O	O	1
+opposait	O	O	1
+la	B-LOC	O	O
+France	I-LOC	O	O
+et	O	O	1
+l’	O	O	1
+Allemagne	B-LOC	O	O
+au	O	O	1
+lendemain	O	O	1
+de	O	O	1
+la	O	O	1
+guerre	O	O	1
+de	O	O	1
+1870.	O	O	1
+Le	O	O	1
+20	O	O	1
+février	O	O	1
+1872,	O	O	1
+le	O	O	1
+baron	O	O	1
+Franz	B-PER	O	O
+von	I-PER	O	O
+Roggenbach	O	O	1
+,	O	O	1
+membre	O	O	1
+du	O	O	1
+Reichstag	O	O	1
+et	O	O	1
+organisateur	O	O	1
+de	O	O	1
+la	O	O	1
+refondation	O	O	1
+de	O	O	1
+l’Université	O	O	1
+impériale	O	O	1
+de	O	O	1
+Strasbourg	B-LOC	O	O
+,	O	O	1
+invite	O	O	1
+l’égyptologue	O	O	1
+prussien	O	O	1
+Johannes	O	O	1
+Dümichen	O	O	1
+à	O	O	1
+y	O	O	1
+accepter	O	O	1
+une	O	O	1
+charge	O	O	1
+de	O	O	1
+professeur	O	O	1
+extraordinaire,	O	O	1
+pour	O	O	1
+«	O	O	1
+participer	O	O	1
+à	O	O	1
+l’oeuvre	O	O	1
+d’éducation	O	O	1
+qui	O	O	1
+s’accomplit	O	O	1
+dans	O	O	1
+le	O	O	1
+pays	O	O	1
+frontalier	O	O	1
+allemand	O	O	1
+récemment	O	O	1
+conquis,	O	O	1
+et	O	O	1
+où	O	O	1
+une	O	O	1
+digne	O	O	1
+représentation	O	O	1
+de	O	O	1
+votre	O	O	1
+discipline	O	O	1
+est	O	O	1
+particulièrement	O	O	1
+nécessaire	O	O	1
+à	O	O	1
+cause	O	O	1
+de	O	O	1
+la	O	O	1
+valeur	O	O	1
+que	O	O	1
+l’on	O	O	1
+accorde	O	O	1
+aux	O	O	1
+études	O	O	1
+égyptologiques	O	O	1
+du	O	O	1
+côté	O	O	1
+français	O	O	1
+»	O	O	1
+ADBR	O	O	1
+AL	B-LOC	O	O
+103	O	O	1
+154	O	O	1
+.	O	O	1
+C’est	O	O	1
+donc	O	O	1
+véritablement	O	O	1
+en	O	O	1
+pionnier	O	O	1
+de	O	O	1
+la	O	O	1
+science	O	O	1
+germanique	O	O	1
+sur	O	O	1
+les	O	O	1
+marges	O	O	1
+territoriales	O	O	1
+à	O	O	1
+peine	O	O	1
+conquises	O	O	1
+que	O	O	1
+Dümichen	B-PER	O	O
+est	O	O	1
+invité	O	O	1
+à	O	O	1
+participer	O	O	1
+à	O	O	1
+une	O	O	1
+oeuvre	O	O	1
+de	O	O	1
+civilisation	O	O	1
+de	O	O	1
+la	O	O	1
+population	O	O	1
+alsacienne.	O	O	1
+L’égyptologie	B-LOC	O	O
+est	O	O	1
+érigée	O	O	1
+en	O	O	1
+discipline	O	O	1
+phare,	O	O	1
+pour	O	O	1
+contrebalancer	O	O	1
+le	O	O	1
+prestige	O	O	1
+dont	O	O	1
+jouissaient	O	O	1
+les	O	O	1
+Français	O	O	1
+dans	O	O	1
+ce	O	O	1
+domaine.	O	O	1
+La	O	O	1
+création	O	O	1
+de	O	O	1
+la	O	O	1
+chaire	O	O	1
+d’égyptologie	O	O	1
+n’affichait	O	O	1
+donc	O	O	1
+pas	O	O	1
+la	O	O	1
+moindre	O	O	1
+des	O	O	1
+ambitions	O	O	1
+:	O	O	1
+concurrencer	O	O	1
+le	O	O	1
+Collège	B-LOC	O	O
+de	I-LOC	O	O
+France,	I-LOC	O	O
+dans	O	B-PER	O
+les	O	O	1
+terres	O	O	1
+qui	O	O	1
+venaient	O	O	1
+d’échapper	O	O	1
+à	O	O	1
+ce	O	O	1
+pays.	O	O	1
+Cette	O	O	1
+mission	O	O	1
+très	O	O	1
+valorisante	O	O	1
+attira-t-elle	O	O	1
+sur	O	O	1
+Dümichen	B-LOC	O	O
+la	O	O	1
+jalousie	O	O	1
+de	O	O	1
+certains	O	O	1
+de	O	O	1
+ses	O	O	1
+contemporains	O	O	1
+?	O	O	1
+L’égyptologue	O	O	1
+berlinois	O	O	1
+Adolf	B-PER	O	O
+Erman	I-PER	O	O
+,	O	O	1
+connu	O	O	1
+pour	O	O	1
+sa	O	O	1
+plume	O	O	1
+parfois	O	O	1
+acerbe,	O	O	1
+le	O	O	1
+considérait	O	O	1
+en	O	O	1
+tout	O	O	1
+cas	O	O	1
+comme	O	O	1
+un	O	O	1
+«	O	O	1
+rêveur	O	O	1
+bizarre	O	O	1
+»	O	O	1
+et	O	O	1
+prétendait	O	O	1
+que	O	O	1
+«	O	O	1
+ses	O	O	1
+collègues	O	O	1
+strasbourgeois	O	O	1
+l’appelaient	O	O	1
+‘Dümmlichen’	O	O	1
+(petit	O	O	1
+nigaud)	O	O	1
+»	O	O	1
+A.	O	O	1
+Erman,	O	O	1
+Mein	O	O	1
+Werden	O	O	1
+und	O	O	1
+mein	O	O	1
+Wirken.	O	O	1
+Erinnerungen	O	O	1
+eines	O	O	1
+alten	O	O	1
+Berliner	B-PER	O	O
+Gelehrten,	I-PER	O	O
+Leipzig,	I-PER	O	O
+1929,	O	O	1
+p.	O	O	1
+169	O	O	1
+.	O	O	1
+À	O	O	1
+l’occasion	O	O	1
+de	O	O	1
+l’emménagement	O	O	1
+des	O	O	1
+facultés	O	O	1
+dans	O	O	1
+le	O	O	1
+Kollegiengebäude	B-LOC	O	O
+(actuel	O	O	1
+Palais	B-LOC	O	O
+universitaire),	I-LOC	O	O
+dont	O	O	1
+la	O	O	1
+construction	O	O	1
+s’était	O	O	1
+achevée	O	O	1
+en	O	O	1
+1884,	O	O	1
+Dümichen	O	O	1
+obtint	O	O	1
+un	O	O	1
+budget	O	O	1
+exceptionnel	O	O	1
+de	O	O	1
+1	O	O	1
+800	O	O	1
+marks	O	O	1
+pour	O	O	1
+fonder	O	O	1
+une	O	O	1
+collection	O	O	1
+de	O	O	1
+reproductions	O	O	1
+en	O	O	1
+plâtre	O	O	1
+achetées	O	O	1
+aux	O	O	1
+ateliers	O	O	1
+des	O	O	1
+musées	O	O	1
+de	O	O	1
+Berlin	B-LOC	B-PER	O
+:	O	I-PER	O
+des	O	O	1
+bustes	O	O	1
+de	O	O	1
+pharaons	O	O	1
+et	O	O	1
+des	O	O	1
+copies	O	O	1
+de	O	O	1
+reliefs	O	O	1
+de	O	O	1
+l’ancien	B-LOC	O	O
+Empire	I-LOC	O	O
+furent	O	O	1
+ainsi	O	O	1
+exposés	O	O	1
+au	O	O	1
+premier	O	O	1
+étage	O	O	1
+du	O	O	1
+Palais	B-LOC	O	O
+universitaire,	O	O	1
+dans	O	O	1
+le	O	O	1
+prolongement	O	O	1
+de	O	O	1
+l’exposition	O	O	1
+des	O	B-PER	O
+moulages	O	O	1
+d’oeuvres	O	O	1
+de	O	O	1
+l’Antiquité	O	O	1
+classique	O	O	1
+Straßburger	O	O	1
+Correspondenz,	O	O	1
+n.	O	O	1
+131,	O	O	1
+20	O	O	1
+décembre	O	O	1
+1897	O	O	1
+.	O	O	1
+La	O	O	1
+mort	O	O	1
+du	O	O	1
+savant,	O	O	1
+survenue	O	O	1
+le	O	O	1
+7	O	O	1
+février	O	O	1
+1894,	O	O	1
+semble	O	O	1
+avoir	O	O	1
+plongé	O	O	1
+la	O	O	1
+Faculté	O	O	1
+de	O	O	1
+philosophie	O	O	1
+dans	O	O	1
+un	O	O	1
+certain	O	O	1
+désarroi.	O	O	1
+En	O	O	1
+effet,	O	O	1
+un	O	O	1
+jeune	O	O	1
+homme	O	O	1
+prometteur,	O	O	1
+Wilhelm	B-PER	O	O
+Spiegelberg	I-PER	O	O
+,	O	O	1
+était	O	O	1
+certes	O	O	1
+venu	O	O	1
+depuis	O	O	1
+Hanovre	B-LOC	O	O
+suivre	O	O	1
+les	O	O	1
+enseignements	O	O	1
+de	O	O	1
+Dümichen	B-LOC	O	O
+à	O	O	1
+Strasbourg	B-LOC	O	O
+et	O	O	1
+y	O	O	1
+avait	O	O	1
+obtenu	O	O	1
+sa	O	O	1
+Promotion	O	O	1
+le	O	O	1
+22	O	O	1
+novembre	O	O	1
+1891	O	O	1
+-	O	O	1
+ses	O	O	1
+talents	O	O	1
+naissants	O	O	1
+ne	O	O	1
+doivent	O	O	1
+pas	O	O	1
+avoir	O	O	1
+échappé	O	O	1
+à	O	O	1
+deux	O	O	1
+grandes	O	O	1
+pointures	O	O	1
+scientifiques	O	O	1
+strasbourgeoises,	O	O	1
+Adolf	B-PER	O	O
+Michaelis	I-PER	O	O
+(archéologue)	O	O	1
+et	O	O	1
+Theodor	B-PER	O	O
+Nöldeke	I-PER	O	O
+(sémitisant),	O	O	1
+qui	O	O	1
+paraissent	O	O	1
+l’avoir	O	O	1
+fait	O	O	1
+bénéficier	O	O	1
+d’une	O	B-PER	O
+attention	O	I-PER	O
+bienveillante	O	I-PER	O
+dès	O	O	1
+ses	O	B-PER	O
+débuts.	O	I-PER	O
+Mais	O	O	1
+au	O	B-PER	O
+décès	O	I-PER	O
+du	O	I-PER	O
+maître,	O	O	1
+Spiegelberg	B-PER	O	O
+,	O	B-PER	O
+seulement	O	I-PER	O
+âgé	O	O	1
+de	O	O	1
+23	O	O	1
+ans,	O	O	1
+n’était	O	O	1
+pas	O	O	1
+encore	O	O	1
+«	O	O	1
+habilité	O	O	1
+»	O	O	1
+et	O	O	1
+ne	O	O	1
+détenait	O	O	1
+donc	O	O	1
+pas	O	O	1
+la	O	O	1
+«	O	O	1
+venia	O	O	1
+legendi	O	O	1
+»,	B-LOC	O	O
+le	O	O	1
+droit	O	O	1
+d’enseigner	O	O	1
+à	O	O	1
+l’université.	O	O	1
+En	O	O	1
+outre,	O	O	1
+contrairement	O	O	1
+à	O	O	1
+Dümichen	B-LOC	O	O
+qui	O	O	1
+avait	O	O	1
+longuement	O	O	1
+séjourné	O	O	1
+en	O	O	1
+Égypte	B-LOC	O	O
+,	O	O	1
+Spiegelberg	B-PER	O	O
+ne	O	O	1
+s’y	O	O	1
+était	O	O	1
+encore	O	O	1
+jamais	O	O	1
+rendu	O	O	1
+et	O	O	1
+l’expérience	O	O	1
+du	O	O	1
+terrain	O	O	1
+lui	O	O	1
+faisait	O	O	1
+totalement	O	O	1
+défaut.	O	O	1
+Il	O	O	1
+était	O	O	1
+trop	O	O	1
+tôt	O	O	1
+pour	O	O	1
+songer	O	O	1
+à	O	O	1
+lui	O	O	1
+confier	O	O	1
+l’enseignement	O	O	1
+de	O	O	1
+l’égyptologie.	O	O	1
+En	O	O	1
+nous	O	O	1
+gardant	O	O	1
+de	O	O	1
+tout	O	O	1
+anachronisme,	O	O	1
+rendons	O	O	1
+à	O	O	1
+l’histoire	O	O	1
+son	O	O	1
+incertitude	O	O	1
+:	O	O	1
+en	O	O	1
+1894,	O	O	1
+les	O	O	1
+savants	O	O	1
+de	O	O	1
+la	O	O	1
+Faculté	O	O	1
+de	O	O	1
+philosophie	O	O	1
+ignoraient	O	O	1
+que	O	O	1
+Spiegelberg	B-PER	O	O
+serait	O	O	1
+appelé	O	O	1
+à	O	O	1
+devenir	O	O	1
+un	O	O	1
+des	O	B-PER	O
+géants	O	O	1
+de	O	O	1
+l’égyptologie	O	O	1
+du	O	O	1
+XXe	B-LOC	O	O
+siècle.	O	O	1
+Mais	O	O	1
+ils	O	O	1
+eurent	O	O	1
+manifestement	O	O	1
+la	O	O	1
+clairvoyance	O	O	1
+de	O	O	1
+parier	O	O	1
+sur	O	O	1
+le	O	O	1
+brillant	O	O	1
+jeune	O	O	1
+homme,	O	O	1
+car	O	O	1
+la	O	O	1
+séquence	O	O	1
+rapide	O	O	1
+des	O	O	1
+actes	O	O	1
+enregistrés	O	O	1
+dans	O	O	1
+les	O	O	1
+archives	O	O	1
+de	O	O	1
+l’université,	O	O	1
+à	O	O	1
+partir	O	O	1
+du	O	O	1
+décès	O	O	1
+de	O	B-PER	O
+Dümichen,	B-PER	O	O
+laisse	O	O	1
+entendre	O	O	1
+que	O	O	1
+cet	O	O	1
+événement	O	O	1
+déclencha,	O	O	1
+au	O	O	1
+profit	O	O	1
+du	O	O	1
+candidat	O	O	1
+local	O	O	1
+à	O	O	1
+la	O	O	1
+succession,	O	O	1
+une	O	O	1
+entreprise	O	O	1
+bien	O	O	1
+organisée	O	O	1
+de	O	O	1
+mise	O	O	1
+en	O	O	1
+réserve	O	O	1
+de	O	O	1
+la	O	O	1
+chaire	O	O	1
+d’égyptologie	O	O	1
+et	O	O	1
+de	O	O	1
+renforcement	O	O	1
+du	O	O	1
+dossier	O	O	1
+scientifique	O	O	1
+de	O	O	1
+Spiegelberg	B-PER	O	O
+.	O	O	1
+Énumérons	O	O	1
+les	O	O	1
+grands	O	O	1
+axes	O	O	1
+de	O	O	1
+la	O	O	1
+stratégie	O	O	1
+conduite	O	B-PER	O
+à	O	O	1
+cette	O	O	1
+fin	O	O	1
+par	O	O	1
+la	O	O	1
+Faculté,	B-LOC	O	O
+en	O	O	1
+suivant	O	O	1
+la	O	O	1
+chronologie	O	O	1
+révélée	O	O	1
+par	O	O	1
+le	O	O	1
+journal	O	O	1
+der	O	O	1
+philosophischen	O	O	1
+Facultät	O	O	1
+ADBR	O	O	1
+AL	O	O	1
+103	O	O	1
+862.	O	O	1
+Pour	O	O	1
+alléger	O	O	1
+les	O	O	1
+notes,	O	O	1
+les	O	O	1
+références	O	O	1
+au	O	O	1
+Journal	O	O	1
+de	O	O	1
+la	O	O	1
+Faculté	O	O	1
+de	O	O	1
+philosophie,	O	O	1
+dont	O	O	1
+les	O	O	1
+entrées	O	O	1
+datées	O	O	1
+dans	O	O	1
+l’ordre	O	O	1
+chronologique	O	O	1
+guident	O	O	1
+la	O	O	1
+suite	O	O	1
+de	O	O	1
+l’exposé,	O	O	1
+n’y	O	O	1
+seront	O	O	1
+pas	O	O	1
+systématiquement	O	O	1
+répétées.	O	O	1
+,	O	O	1
+où	O	O	1
+les	O	O	1
+doyens,	O	O	1
+en	O	O	1
+fonction	O	O	1
+pour	O	O	1
+un	O	O	1
+an,	O	O	1
+enregistraient	O	O	1
+sous	O	O	1
+la	O	O	1
+forme	O	O	1
+de	O	O	1
+brèves	O	O	1
+notices	O	O	1
+les	O	O	1
+principaux	O	O	1
+événements	O	O	1
+académiques.	O	O	1
+e	O	O	1
+18	O	O	1
+février	O	O	1
+1894,	O	O	1
+l’administration	O	O	1
+par	O	O	1
+intérim	O	O	1
+de	O	O	1
+la	O	O	1
+«	O	O	1
+collection	O	O	1
+égyptologique	O	O	1
+»	O	O	1
+(c’est-à-dire	B-LOC	O	O
+les	O	O	1
+moulages,	O	O	1
+la	O	O	1
+bibliothèque	O	O	1
+et	O	O	1
+le	O	O	1
+mobilier	O	O	1
+du	O	O	1
+«	O	O	1
+Seminar	B-LOC	O	O
+»)	O	O	1
+est	O	O	1
+confiée	O	O	1
+au	O	O	1
+professeur	O	O	1
+Adolf	B-PER	O	O
+Michaelis.	I-PER	O	O
+28	O	O	1
+avril,	O	O	1
+sur	O	O	1
+proposition	O	O	1
+de	O	O	1
+la	O	O	1
+commission	O	O	1
+chargée	O	O	1
+d’organiser	O	O	1
+la	O	O	1
+succession,	O	O	1
+la	O	O	1
+Faculté	B-LOC	O	O
+décide	O	O	1
+«	O	O	1
+de	O	O	1
+ne	O	O	1
+pas	O	O	1
+faire	O	O	1
+pour	O	O	1
+l’instant	O	O	1
+de	O	O	1
+propositions	O	O	1
+de	O	O	1
+nouvelle	O	O	1
+occupation	O	O	1
+(de	O	O	1
+la	O	O	1
+chaire)	O	O	1
+»	O	O	1
+-	O	O	1
+on	O	O	1
+décide	O	O	1
+donc	O	O	1
+de	O	O	1
+ne	O	O	1
+rien	O	O	1
+décider,	O	O	1
+en	O	O	1
+laissant	O	O	1
+le	O	O	1
+temps	O	O	1
+au	O	O	1
+temps…	O	O	1
+21	O	O	1
+mai,	O	O	1
+Spiegelberg	B-PER	O	O
+dépose	O	O	1
+son	O	O	1
+dossier	O	O	1
+en	O	O	1
+vue	O	O	1
+d’engager	O	O	1
+la	O	O	1
+procédure	O	O	1
+d’habilitation,	O	O	1
+et	O	O	1
+le	O	O	1
+27	O	O	1
+mai	O	O	1
+le	O	O	1
+doyen	O	O	1
+de	O	O	1
+la	O	O	1
+Faculté	O	O	1
+écrit	O	O	1
+à	O	O	1
+Adolf	B-PER	O	O
+Erman,	I-PER	O	O
+professeur	O	O	1
+d’égyptologie	O	O	1
+à	O	O	1
+Berlin	B-LOC	O	O
+,	O	O	1
+pour	O	O	1
+lui	O	O	1
+demander	O	O	1
+d’examiner	O	O	1
+le	O	O	1
+mémoire	O	O	1
+d’habilitation	O	O	1
+du	O	O	1
+candidat.	O	O	1
+Cette	O	O	1
+première	O	O	1
+étape	O	O	1
+franchie	O	O	1
+avec	O	O	1
+succès,	O	O	1
+Spiegelberg	B-PER	O	O
+est	O	O	1
+autorisé	O	O	1
+le	O	O	1
+7	O	O	1
+juillet	O	O	1
+à	O	O	1
+continuer	O	O	1
+l’épreuve,	O	O	1
+qui	O	O	1
+se	O	O	1
+clôturera	O	O	1
+le	O	O	1
+1er	O	O	1
+août	O	O	1
+par	O	O	1
+sa	O	O	1
+leçon	O	O	1
+inaugurale.	O	O	1
+Dès	O	O	1
+cette	O	O	1
+date	O	O	1
+-	O	O	1
+moins	O	O	1
+de	O	O	1
+six	O	O	1
+mois	O	O	1
+après	O	O	1
+le	O	O	1
+décès	O	O	1
+de	O	O	1
+Dümichen,	B-PER	O	O
+Spiegelberg	I-PER	B-PER	O
+est	O	I-PER	O
+titulaire	O	O	1
+de	O	O	1
+la	O	O	1
+«	O	O	1
+venia	O	B-PER	O
+legendi	O	O	1
+»	O	O	1
+et	O	O	1
+habilité	O	O	1
+à	O	O	1
+enseigner	O	O	1
+à	O	O	1
+la	O	O	1
+Faculté	O	O	1
+de	O	O	1
+philosophie	O	O	1
+comme	O	O	1
+«	O	O	1
+Privatdozent	B-PER	O	O
+»,	I-PER	O	O
+c’est-à-dire	O	O	1
+comme	O	O	1
+enseignant	O	O	1
+non	O	O	1
+salarié,	O	O	1
+agrégé	O	O	1
+à	O	O	1
+l’université.	O	O	1
+prévoit	O	O	1
+de	O	O	1
+commencer	O	O	1
+ses	O	O	1
+premières	O	O	1
+leçons	O	O	1
+lors	O	O	1
+du	O	O	1
+semestre	O	O	1
+d’été	O	O	1
+de	O	O	1
+1895,	O	O	1
+d’après	O	O	1
+la	O	O	1
+liste	O	B-PER	O
+des	O	O	1
+enseignements	O	O	1
+semestriels	O	O	1
+publiée	O	O	1
+par	O	O	1
+l’université.	O	O	1
+La	O	O	1
+participation	O	O	1
+régulière	O	O	1
+aux	O	O	1
+programmes	O	O	1
+de	O	O	1
+cours	O	O	1
+est	O	O	1
+en	O	O	1
+effet	O	O	1
+un	O	O	1
+des	O	O	1
+socles	O	O	1
+qui	O	O	1
+renforcent	O	O	1
+l’existence	O	O	1
+sociale	O	O	1
+des	O	O	1
+universitaires	O	O	1
+au	O	O	1
+sein	O	O	1
+d’une	O	O	1
+faculté.	O	O	1
+is	O	O	1
+Spiegelberg	B-PER	O	O
+est	O	O	1
+toujours	O	O	1
+un	O	O	1
+égyptologue	O	O	1
+de	O	O	1
+bibliothèque,	O	O	1
+il	O	O	1
+s’agit	O	O	1
+désormais	O	O	1
+de	O	O	1
+lui	O	O	1
+donner	O	O	1
+la	O	O	1
+carrure	O	O	1
+d’un	O	O	1
+homme	O	O	1
+de	O	O	1
+terrain.	O	O	1
+Dès	O	O	1
+le	O	O	1
+16	O	O	1
+mai	O	O	1
+1895,	O	O	1
+il	O	O	1
+dépose	O	O	1
+une	O	O	1
+demande	O	O	1
+de	O	O	1
+congé	O	O	1
+pour	O	O	1
+entreprendre	O	O	1
+un	O	O	1
+voyage	O	O	1
+en	O	O	1
+Égypte	B-LOC	B-PER	O
+lors	O	O	1
+du	O	O	1
+prochain	O	O	1
+semestre	O	O	1
+d’hiver.	O	O	1
+Grâce	O	O	1
+à	O	O	1
+cette	O	O	1
+démarche,	O	O	1
+ainsi	O	O	1
+qu’à	O	O	1
+une	O	O	1
+demande	O	O	1
+de	O	O	1
+crédit,	O	O	1
+le	O	O	1
+projet	O	O	1
+de	O	O	1
+Spiegelberg	B-PER	O	O
+est	O	O	1
+discuté	O	O	1
+au	O	O	1
+plus	O	O	1
+haut	O	O	1
+niveau	O	O	1
+(recteur,	O	B-PER	O
+curateur)	B-PER	O	O
+et	O	O	1
+son	O	O	1
+nom	O	O	1
+est	O	O	1
+désormais	O	O	1
+associé,	O	O	1
+dans	O	O	1
+l’esprit	O	O	1
+des	O	O	1
+autorités	O	O	1
+de	O	O	1
+l’université,	O	O	1
+à	O	O	1
+une	O	O	1
+expédition	O	O	1
+qui	O	O	1
+représentait	O	O	1
+une	O	O	1
+aventure	O	O	1
+moins	O	O	1
+routinière	O	O	1
+qu’aujourd’hui.	O	O	1
+Une	O	O	1
+fois	O	O	1
+en	O	O	1
+Égypte	B-LOC	O	O
+,	O	O	1
+il	O	O	1
+fait	O	O	1
+à	O	O	1
+Michaelis	B-PER	O	O
+le	O	O	1
+récit	O	O	1
+épistolaire	O	O	1
+de	O	O	1
+ses	O	O	1
+découvertes	O	O	1
+et	O	O	1
+lui	O	O	1
+demande	O	O	1
+d’intercéder	O	O	1
+pour	O	O	1
+obtenir	O	O	1
+une	O	O	1
+rallonge	O	O	1
+de	O	O	1
+crédits.	O	O	1
+Le	O	O	1
+professeur	O	O	1
+d’archéologie	O	O	1
+classique,	O	O	1
+enthousiasmé,	O	O	1
+s’adresse	O	O	1
+au	O	O	1
+curateur,	O	O	1
+puis,	O	O	1
+remontant	O	O	1
+la	O	O	1
+hiérarchie,	O	O	1
+au	O	O	1
+Ministère	B-LOC	O	O
+d’	O	O	1
+Alsace	B-LOC	O	O
+-	O	O	1
+Lorraine	B-LOC	O	O
+,	O	O	1
+en	O	O	1
+louant	O	O	1
+les	O	O	1
+mérites	O	O	1
+du	O	O	1
+jeune	O	O	1
+missionnaire	O	O	1
+:	O	O	1
+«	O	O	1
+Je	O	O	1
+crois	O	O	1
+que	O	O	1
+ces	O	O	1
+résultats	O	O	1
+d’une	O	O	1
+période	O	O	1
+de	O	O	1
+travail	O	O	1
+si	O	O	1
+courte	O	O	1
+font	O	O	1
+un	O	O	1
+grand	O	O	1
+honneur	O	O	1
+au	O	O	1
+zèle	O	O	1
+et	O	O	1
+au	O	O	1
+flair	O	O	1
+du	O	O	1
+Dr.	O	O	1
+Spiegelberg	O	O	1
+»	O	O	1
+ADBR	O	O	1
+AL	O	O	1
+103	O	O	1
+873,	O	O	1
+15	O	O	1
+février	O	O	1
+1896,	O	O	1
+requête	O	O	1
+de	O	O	1
+Michaelis	B-LOC	O	O
+au	O	O	1
+Staatssekretär	O	B-PER	O
+du	O	O	1
+Ministère	O	O	1
+d’Alsace-Lorraine	O	O	1
+.	O	O	1
+retour	O	O	1
+du	O	O	1
+voyage,	O	O	1
+accompli	O	O	1
+pendant	O	O	1
+l’hiver	O	O	1
+1895/96,	B-LOC	O	O
+l’entourage	O	O	1
+de	O	O	1
+Spiegelberg	B-PER	O	O
+organise	O	O	1
+la	O	O	1
+publicité	O	O	1
+des	O	O	1
+résultats	O	O	1
+scientifiques	O	O	1
+et	O	O	1
+patrimoniaux	O	O	1
+de	O	O	1
+l’opération.	O	O	1
+Au	O	O	1
+printemps,	O	B-PER	O
+le	O	I-PER	O
+savant	O	I-PER	O
+ramène	O	O	1
+en	O	O	1
+effet	O	O	1
+d’	O	O	1
+Égypte	B-LOC	O	O
+des	O	B-PER	O
+objets	O	O	1
+authentiques	O	O	1
+et	O	O	1
+des	O	O	1
+photographies,	O	O	1
+auxquels	O	O	1
+s’ajoute	O	O	1
+à	O	O	1
+l’automne	O	O	1
+un	O	O	1
+généreux	O	O	1
+don	O	O	1
+de	O	O	1
+sept	O	O	1
+caisses	O	O	1
+d’antiquités	O	O	1
+que	O	O	1
+l’archéologue	O	O	1
+anglais	O	O	1
+Flinders	B-PER	O	O
+Petrie	I-PER	O	O
+a	O	O	1
+prélevées	O	O	1
+sur	O	O	1
+le	O	O	1
+produit	O	O	1
+des	O	O	1
+fouilles	O	O	1
+qu’il	O	O	1
+vient	O	O	1
+de	O	O	1
+mener,	O	O	1
+avec	O	B-PER	O
+son	O	O	1
+assistant	O	O	1
+James	B-PER	O	O
+Quibell	I-PER	O	O
+,	O	O	1
+à	O	O	1
+Nagada	B-LOC	O	O
+,	O	O	1
+à	O	O	1
+Ballas	O	O	1
+(hiver	O	O	1
+1894/95)	O	O	1
+et	O	O	1
+dans	O	O	1
+les	O	O	1
+environs	O	O	1
+du	O	B-PER	O
+Ramesseum	B-LOC	O	O
+(hiver	O	O	1
+1895/96).	B-PER	O	O
+Spiegelberg	I-PER	O	O
+et	O	O	1
+Petrie	B-PER	O	O
+avaient	O	O	1
+lié	O	O	1
+amitié	O	O	1
+sur	O	O	1
+le	O	O	1
+terrain	O	O	1
+et	O	O	1
+se	O	O	1
+rendaient	O	O	1
+mutuellement	O	O	1
+service	O	O	1
+:	O	O	1
+le	O	O	1
+savant	O	O	1
+allemand,	O	O	1
+excellent	O	O	1
+philologue,	O	O	1
+éditait	O	O	1
+et	O	O	1
+traduisait	O	O	1
+les	O	O	1
+textes	O	O	1
+découverts	O	O	1
+par	O	O	1
+l’archéologue	O	O	1
+britannique,	O	O	1
+qui	O	O	1
+lui	O	O	1
+avait	O	O	1
+promis	O	O	1
+en	O	O	1
+retour	O	O	1
+«	O	O	1
+que	O	O	1
+lors	O	O	1
+du	O	O	1
+partage	O	O	1
+des	O	O	1
+résultats	O	O	1
+des	O	O	1
+fouilles	O	O	1
+de	O	O	1
+Petrie	B-PER	O	O
+-	O	O	1
+menées	O	O	1
+presque	O	O	1
+chaque	O	O	1
+année	O	O	1
+-	O	O	1
+la	O	O	1
+collection	O	O	1
+strasbourgeoise	O	O	1
+devrait	O	O	1
+elle	O	O	1
+aussi	O	O	1
+être	O	O	1
+prise	O	O	1
+en	O	O	1
+considération	O	O	1
+à	O	O	1
+l’avenir	O	O	1
+»	O	O	1
+ADBR	O	O	1
+AL	O	O	1
+103	O	O	1
+873,	O	O	1
+8	O	O	1
+février	O	O	1
+1896,	O	O	1
+requête	O	O	1
+de	O	O	1
+Michaelis	B-LOC	O	O
+au	O	O	1
+Kurator	B-LOC	O	O
+.	O	O	1
+Sous	O	O	1
+la	O	O	1
+responsabilité	O	O	1
+de	O	O	1
+Michaelis,	B-PER	O	O
+toujours	O	O	1
+administrateur	O	O	1
+par	O	O	1
+intérim	O	O	1
+de	O	O	1
+la	O	O	1
+collection	O	O	1
+égyptienne,	O	O	1
+on	O	O	1
+finance	O	O	1
+le	O	O	1
+transport	O	O	1
+des	O	O	1
+oeuvres	O	O	1
+de	O	O	1
+Londres	B-LOC	O	O
+à	O	O	1
+Strasbourg	B-LOC	O	O
+et	O	O	1
+on	O	O	1
+achète	O	O	1
+le	O	O	1
+mobilier	O	O	1
+nécessaire	O	O	1
+à	O	O	1
+la	O	O	1
+bonne	O	O	1
+conservation	O	O	1
+du	O	O	1
+fonds	O	O	1
+et	O	O	1
+à	O	O	1
+son	O	O	1
+utilisation	O	O	1
+comme	O	O	1
+support	O	O	1
+d’enseignement	O	O	1
+pour	O	O	1
+les	O	O	1
+cours.	O	O	1
+Pour	O	O	1
+faire	O	O	1
+passer	O	O	1
+l’addition	O	O	1
+de	O	O	1
+ces	O	O	1
+dépenses	O	O	1
+imprévues	O	O	1
+auprès	O	O	1
+du	O	O	1
+curateur,	O	O	1
+l’archéologue	O	O	1
+très	O	O	1
+respecté	O	O	1
+insiste	O	O	1
+:	O	O	1
+«	O	O	1
+des	O	O	1
+enrichissements	O	O	1
+de	O	O	1
+la	O	O	1
+collection	O	O	1
+d’une	O	O	1
+telle	O	O	1
+envergure	O	O	1
+ne	O	O	1
+se	O	O	1
+représenteront	O	O	1
+pas	O	O	1
+si	O	O	1
+facilement	O	O	1
+!	O	O	1
+»	O	O	1
+ADBR	O	O	1
+AL	O	O	1
+103	O	O	1
+873,	O	O	1
+19	O	O	1
+décembre	O	O	1
+1896,	O	O	1
+requête	O	O	1
+de	O	O	1
+Michaelis	B-LOC	O	O
+au	O	O	1
+Kurator	B-LOC	O	O
+Pour	O	O	1
+solenniser	O	O	1
+la	O	O	1
+générosité	O	O	1
+du	O	O	1
+savant	O	O	1
+anglais	O	O	1
+et	O	O	1
+en	O	O	1
+assurer	O	O	1
+la	O	O	1
+plus	O	B-PER	O
+grande	O	I-PER	O
+publicité	O	O	1
+au	O	O	1
+sein	O	O	1
+de	O	O	1
+l’université,	O	O	1
+Michaelis	O	O	1
+et	O	O	1
+Nöldeke	O	O	1
+proposent,	O	O	1
+le	O	O	1
+29	O	O	1
+juin	O	O	1
+1897,	O	O	1
+de	O	O	1
+lui	O	O	1
+attribuer	O	O	1
+le	O	O	1
+titre	O	O	1
+de	O	O	1
+doctor	O	O	1
+honoris	O	O	1
+causa.	O	O	1
+Le	O	O	1
+22	O	O	1
+juillet,	O	O	1
+la	O	O	1
+Faculté	B-LOC	O	O
+accepte	O	O	1
+la	O	B-PER	O
+proposition	O	O	1
+et	O	O	1
+fait	O	O	1
+bientôt	O	O	1
+établir	O	O	1
+le	O	O	1
+diplôme,	O	O	1
+dont	O	O	1
+l’honneur	O	O	1
+rejaillit	O	O	1
+à	O	O	1
+la	O	O	1
+fois	O	O	1
+sur	O	O	1
+le	O	B-PER	O
+bénéficiaire	O	I-PER	O
+et,	O	I-PER	O
+bien	O	O	1
+entendu,	O	O	1
+sur	O	O	1
+Spiegelberg	B-PER	O	O
+,	O	O	1
+puisque	O	O	1
+ce	O	B-PER	O
+rituel	O	I-PER	O
+académique	O	O	1
+témoigne	O	O	1
+de	O	O	1
+l’excellence	O	O	1
+des	O	O	1
+relations	O	O	1
+scientifiques	O	O	1
+internationales	O	O	1
+que	O	B-LOC	O
+son	O	O	1
+voyage	O	O	1
+a	O	O	1
+permis	O	O	1
+d’établir.	O	O	1
+Les	O	O	1
+succès	O	O	1
+du	O	O	1
+jeune	O	O	1
+Privatdozent	O	O	1
+sont	O	O	1
+enfin	O	O	1
+couronnés	O	O	1
+auprès	O	O	1
+du	O	O	1
+public	O	O	1
+plus	O	O	1
+large	O	O	1
+de	O	O	1
+la	O	O	1
+métropole	O	O	1
+alsacienne-lorraine,	O	O	1
+car	O	O	1
+un	O	O	1
+article	O	B-PER	O
+circonstancié,	O	I-PER	O
+intitulé	O	I-PER	O
+Die	O	O	1
+ägyptologische	O	O	1
+Sammlung	O	O	1
+der	O	O	1
+Universität	O	O	1
+Straßburg	O	O	1
+,	O	O	1
+paraît	O	O	1
+le	O	O	1
+20	O	O	1
+décembre	O	O	1
+1897	O	O	1
+dans	O	O	1
+le	O	O	1
+quotidien	O	O	1
+Straßburger	B-PER	O	O
+Correspondenz	I-PER	O	O
+.	O	O	1
+Le	O	O	1
+fonds	O	O	1
+égyptien,	O	O	1
+écrit	O	O	1
+le	O	O	1
+journaliste,	O	O	1
+«	O	O	1
+a	O	O	1
+dernièrement	O	O	1
+connu	O	O	1
+un	O	O	1
+enrichissement	O	O	1
+tellement	O	O	1
+significatif	O	O	1
+qu’à	O	O	1
+présent	O	O	1
+la	O	O	1
+collection	O	O	1
+égyptologique	O	O	1
+occupe	O	O	1
+déjà	O	O	1
+une	O	O	1
+position	O	O	1
+prestigieuse	O	O	1
+parmi	O	O	1
+les	O	B-PER	O
+collections	O	O	1
+de	O	O	1
+dimension	O	O	1
+relativement	O	O	1
+petite	O	O	1
+».	O	O	1
+La	O	O	1
+portée	O	O	1
+médiatique	O	O	1
+des	O	O	1
+acquisitions	O	O	1
+obtenues	O	O	1
+par	O	O	1
+Spiegelberg	B-PER	O	O
+n’est	O	O	1
+aucunement	O	O	1
+indifférente	O	O	1
+à	O	O	1
+l’administration	O	O	1
+de	O	O	1
+l’université,	O	O	1
+comme	O	O	1
+en	O	O	1
+témoigne	O	O	1
+la	O	O	1
+coupure	O	O	1
+de	O	O	1
+cet	O	O	1
+article,	O	O	1
+soigneusement	O	O	1
+conservée	O	O	1
+dans	O	O	1
+le	O	O	1
+dossier	O	O	1
+du	O	B-LOC	O
+Kuratorium	O	O	1
+contenant	O	O	1
+les	O	O	1
+«	O	O	1
+Actes	O	O	1
+de	O	O	1
+la	O	O	1
+Kaiser-Wilhelms-Universität	O	O	1
+concernant	O	O	1
+la	O	O	1
+collection	O	O	1
+égyptienne	O	O	1
+»	O	O	1
+ADBR	O	O	1
+AL	O	O	1
+103	O	O	1
+872	O	O	1
+.	O	O	1
+périence	O	O	1
+du	O	O	1
+terrain,	O	O	1
+carrure	O	O	1
+internationale,	O	O	1
+rayonnement	O	O	1
+au	O	O	1
+sein	O	O	1
+de	O	O	1
+la	O	O	1
+société	O	O	1
+strasbourgeoise	O	O	1
+-	O	O	1
+les	O	O	1
+conditions	O	O	1
+semblent	O	O	1
+désormais	O	O	1
+réunies	O	O	1
+pour	O	O	1
+engager	O	O	1
+sous	O	O	1
+des	O	O	1
+auspices	O	O	1
+favorables	O	O	1
+une	O	O	1
+demande	O	O	1
+de	O	O	1
+recréation	O	O	1
+de	O	O	1
+la	O	O	1
+chaire	O	O	1
+égyptologique	O	O	1
+au	O	O	1
+profit	O	O	1
+du	O	O	1
+Dr.	O	O	1
+Spiegelberg	O	O	1
+:	O	O	1
+Nöldeke	O	O	1
+en	O	O	1
+fait	O	O	1
+la	O	O	1
+proposition	O	O	1
+le	O	O	1
+29	O	O	1
+février	O	O	1
+1898.	O	O	1
+Pendant	O	O	1
+deux	O	O	1
+mois,	O	O	1
+la	O	O	1
+procédure	O	O	1
+semble	O	O	1
+dans	O	O	1
+un	O	O	1
+premier	O	O	1
+temps	O	O	1
+prendre	O	O	1
+un	O	O	1
+tour	O	O	1
+positif.	O	O	1
+La	O	O	1
+demande	O	O	1
+est	O	O	1
+acceptée	O	O	1
+par	O	O	1
+la	O	O	1
+Faculté,	B-LOC	O	O
+qui	O	O	1
+transmet	O	O	1
+la	O	O	1
+requête	O	O	1
+au	O	O	1
+gouverneur	O	O	1
+d’Alsace-Lorraine,	O	O	1
+compétent	O	O	1
+pour	O	O	1
+la	O	O	1
+nomination	O	O	1
+des	O	O	1
+professeurs	O	O	1
+extraordinaires.	O	O	1
+La	O	O	1
+réponse	O	O	1
+de	O	O	1
+principe	O	O	1
+ne	O	O	1
+doit	O	O	1
+pas	O	O	1
+soulever	O	O	1
+d’objection,	O	O	1
+puisque	O	O	1
+la	O	O	1
+Faculté	B-LOC	O	O
+institue	O	O	1
+une	O	O	1
+commission	O	O	1
+d’experts	O	O	1
+en	O	O	1
+vue	O	O	1
+de	O	O	1
+proposer	O	O	1
+une	O	O	1
+nomination	O	O	1
+:	O	O	1
+aux	O	O	1
+côtés	O	O	1
+de	O	O	1
+Windelband	B-PER	O	O
+(philosophe)	O	O	1
+et	O	B-LOC	O
+du	O	O	1
+doyen	O	O	1
+Henning	B-LOC	O	O
+(germaniste),	O	O	1
+on	O	O	1
+y	O	O	1
+retrouve…	O	O	1
+Michaelis	B-LOC	O	O
+et	O	O	1
+Nöldeke.	B-LOC	O	O
+La	O	O	1
+commission	O	O	1
+se	O	O	1
+réunit,	O	O	1
+le	O	O	1
+doyen	O	O	1
+transmet	O	O	1
+les	O	O	1
+résultats	O	O	1
+au	O	O	1
+Ministère	O	O	1
+d’Alsace-Lorraine	O	O	1
+et	O	O	1
+aux	O	O	1
+services	O	O	1
+du	O	O	1
+gouverneur,	O	O	1
+qui	O	O	1
+accorde	O	O	1
+le	O	O	1
+5	O	O	1
+mai	O	O	1
+une	O	O	1
+audience	O	O	1
+sur	O	O	1
+l’«	O	O	1
+ägyptologische	O	O	1
+Professur	B-LOC	O	O
+».	I-LOC	O	O
+Mais	O	O	1
+ensuite,	O	O	1
+une	O	O	1
+inertie	O	O	1
+durable	O	O	1
+semble	O	O	1
+s’installer	O	O	1
+du	O	O	1
+côté	O	O	1
+des	O	O	1
+autorités	O	O	1
+politiques.	O	O	1
+La	O	O	1
+question	O	O	1
+de	O	O	1
+la	O	O	1
+chaire	O	O	1
+d’égyptologie	O	O	1
+est	O	O	1
+encore	O	O	1
+discutée	O	O	1
+lors	O	O	1
+de	O	O	1
+deux	O	O	1
+conseils	O	O	1
+facultaires	O	O	1
+et	O	O	1
+des	O	O	1
+courriers	O	O	1
+s’échangent	O	O	1
+entre	O	O	1
+le	O	O	1
+doyen	O	O	1
+et	O	O	1
+le	O	O	1
+curateur,	O	O	1
+mais	O	O	1
+rien	O	O	1
+n’y	O	O	1
+fait,	O	O	1
+il	O	O	1
+faudra	O	O	1
+attendre	O	O	1
+encore	O	O	1
+plus	O	O	1
+d’un	O	O	1
+an	O	O	1
+pour	O	O	1
+que	O	O	1
+le	O	O	1
+«	O	O	1
+Bureau	O	O	1
+du	O	O	1
+gouverneur	O	O	1
+impérial	O	O	1
+»	O	O	1
+se	O	O	1
+décide	O	O	1
+enfin	O	O	1
+à	O	O	1
+pourvoir	O	O	1
+le	O	O	1
+poste.	O	O	1
+Que	O	O	1
+s’est-il	O	O	1
+passé	O	O	1
+?	O	O	1
+Le	O	O	1
+principe	O	O	1
+de	O	O	1
+la	O	O	1
+réactivation	O	O	1
+de	O	O	1
+la	O	O	1
+recherche	O	O	1
+égyptologique	O	O	1
+parmi	O	O	1
+les	O	O	1
+disciplines	O	O	1
+pilotes	O	O	1
+de	O	O	1
+l’université	O	O	1
+de	O	O	1
+Strasbourg	B-LOC	O	O
+fut-il	O	O	1
+remis	O	O	1
+en	O	O	1
+question	O	O	1
+?	O	O	1
+L’explication	O	O	1
+la	O	O	1
+plus	O	O	1
+probable	O	O	1
+est	O	O	1
+à	O	O	1
+la	O	O	1
+fois	O	O	1
+simple	O	O	1
+et	O	O	1
+pragmatique	O	O	1
+:	O	O	1
+il	O	O	1
+semblerait	O	O	1
+qu’au	O	O	1
+contraire,	O	O	1
+le	O	O	1
+gouvernement	O	O	1
+de	O	O	1
+l’Alsace-Lorraine,	O	O	1
+à	O	O	1
+l’instigation	O	O	1
+des	O	O	1
+scientifiques,	O	O	1
+s’était	O	O	1
+engagé	O	O	1
+dans	O	O	1
+une	O	O	1
+opération	O	O	1
+de	O	O	1
+prestige	O	O	1
+culturel	O	O	1
+centrée	O	O	1
+sur	O	O	1
+l’égyptologie	O	O	1
+et	O	O	1
+sur	O	O	1
+la	O	O	1
+papyrologie.	O	O	1
+Et	O	O	1
+cette	O	O	1
+action	O	O	1
+d’éclat	O	O	1
+avait	O	O	1
+supposé	O	O	1
+un	O	O	1
+investissement	O	O	1
+financier	O	O	1
+exceptionnellement	O	O	1
+élevé	O	O	1
+!	O	O	1
+En	O	O	1
+effet,	O	O	1
+au	O	O	1
+moment	O	O	1
+même	O	O	1
+où	O	O	1
+la	O	O	1
+Faculté	B-LOC	O	O
+demandait	O	O	1
+la	O	O	1
+réouverture	O	O	1
+de	O	O	1
+la	O	O	1
+chaire	O	O	1
+d’égyptologie,	O	O	1
+le	O	O	1
+recteur	O	O	1
+de	O	O	1
+l’université	O	O	1
+en	O	O	1
+personne	O	O	1
+sollicitait	O	O	1
+un	O	O	1
+entretien	O	O	1
+auprès	O	O	1
+du	O	O	1
+gouverneur,	O	O	1
+pour	O	B-PER	O
+défendre	O	I-PER	O
+le	O	O	1
+projet	O	O	1
+de	O	O	1
+dépêcher	O	O	1
+deux	O	O	1
+savants	O	O	1
+en	O	O	1
+Égypte	B-LOC	O	O
+,	O	O	1
+afin	O	O	1
+d’y	O	O	1
+acquérir	O	O	1
+une	O	O	1
+précieuse	O	O	1
+collection	O	O	1
+de	O	O	1
+papyrus	O	O	1
+ADBR	O	O	1
+AL	O	B-PER	O
+103	O	O	1
+877,	O	O	1
+21	O	O	1
+mars	O	B-PER	O
+1898,	O	I-PER	O
+requête	O	O	1
+de	O	O	1
+Reitzenstein	B-PER	O	O
+et	O	O	1
+de	O	O	1
+Spiegelberg	B-PER	O	O
+au	O	B-PER	O
+Statthalter	B-PER	I-PER	O
+.	O	O	1
+Forts	O	O	1
+de	O	O	1
+cette	O	O	1
+introduction,	O	O	1
+Reitzenstein	B-PER	O	O
+et	O	O	1
+Spiegelberg	B-PER	O	O
+déposent	O	O	1
+le	O	O	1
+21	O	O	1
+mars	O	O	1
+1898	O	O	1
+une	O	O	1
+demande	O	O	1
+de	O	B-PER	O
+crédit	O	O	1
+pour	O	B-PER	O
+un	O	O	1
+montant	O	O	1
+de	O	O	1
+12	O	O	1
+000	O	O	1
+marks,	O	B-LOC	O
+à	O	O	1
+laquelle	O	O	1
+le	O	O	1
+gouverneur	O	O	1
+du	O	O	1
+Reichsland	B-LOC	O	O
+promet	O	O	1
+oralement	O	O	1
+d’apporter	O	O	1
+son	O	O	1
+soutien	O	O	1
+ADBR	O	O	1
+AL	O	O	1
+103	O	O	1
+877,	O	O	1
+24	O	O	1
+mars	O	O	1
+1898,	O	O	1
+lettre	O	O	1
+de	O	B-LOC	O
+Zeppelin	B-LOC	O	O
+(bureau	O	O	1
+du	O	O	1
+Statthalter)	B-LOC	O	O
+au	O	O	1
+Ministère	B-LOC	O	O
+.	O	O	1
+Pour	O	O	1
+éviter	O	O	1
+de	O	O	1
+compromettre	O	O	1
+le	O	O	1
+projet,	O	O	1
+c’est	O	O	1
+dans	O	O	1
+la	O	O	1
+plus	O	O	1
+grande	O	O	1
+discrétion	O	O	1
+que	O	O	1
+le	O	O	1
+Ministère	O	O	1
+en	O	O	1
+étudie	O	O	1
+alors	O	O	1
+la	O	O	1
+faisabilité	O	O	1
+financière.	O	O	1
+À	O	O	1
+la	O	O	1
+veille	O	O	1
+de	O	O	1
+l’assemblée	O	O	1
+facultaire	O	O	1
+qui	O	O	1
+fixera	O	O	1
+la	O	O	1
+composition	O	O	1
+de	O	O	1
+la	O	O	1
+commission	O	O	1
+chargée	O	O	1
+de	O	O	1
+proposer	O	O	1
+un	O	O	1
+titulaire	O	O	1
+pour	O	O	1
+la	O	O	1
+chaire	O	O	1
+d’égyptologie,	O	O	1
+le	O	O	1
+secrétaire	O	O	1
+d’Etat	O	O	1
+von	O	O	1
+Puttkamer	B-PER	O	O
+annonce	O	O	1
+à	O	O	1
+Reitzenstein	B-PER	O	O
+l’acceptation	O	O	1
+de	O	O	1
+la	O	O	1
+demande	O	O	1
+de	O	O	1
+crédit	O	O	1
+:	O	O	1
+«	O	O	1
+Son	O	O	1
+Altesse	B-PER	O	O
+le	I-PER	O	O
+Prince	I-PER	O	O
+gouverneur	O	O	1
+consent	O	O	1
+à	O	O	1
+mettre	O	O	1
+à	O	O	1
+(votre)	O	O	1
+disposition	O	O	1
+les	O	O	1
+moyens	O	O	1
+pour	O	O	1
+la	O	O	1
+recherche	O	O	1
+et	O	O	1
+pour	O	O	1
+l’achat	O	O	1
+de	O	O	1
+papyrus	O	O	1
+et	O	O	1
+de	O	O	1
+monuments	O	O	1
+écrits	O	O	1
+égyptiens	O	O	1
+et	O	O	1
+grecs	O	O	1
+pour	O	O	1
+un	O	O	1
+montant	O	O	1
+de	O	O	1
+12	O	O	1
+000	O	O	1
+m(arks)	O	O	1
+»	O	O	1
+ADBR	O	O	1
+AL	O	O	1
+103	O	O	1
+877,	O	O	1
+22	O	O	1
+avril	O	O	1
+1898,	O	O	1
+lettre	O	O	1
+du	O	O	1
+Staatssekretär	B-LOC	O	O
+à	O	O	1
+Reitzenstein	B-PER	O	O
+.	O	B-PER	O
+Ce	O	I-PER	O
+budget	O	O	1
+sera	O	O	1
+réparti	O	O	1
+à	O	O	1
+parts	O	O	1
+égales	O	O	1
+entre	O	O	1
+chacun	O	O	1
+des	O	O	1
+deux	O	O	1
+savants.	O	B-PER	O
+La	O	I-PER	O
+somme	O	O	1
+est	O	O	1
+énorme	O	O	1
+-	O	O	1
+à	O	O	1
+titre	O	O	1
+de	O	O	1
+comparaison,	O	O	1
+le	O	O	1
+salaire	O	O	1
+annuel	O	B-PER	O
+de	O	O	1
+Dümichen,	B-LOC	O	O
+qui	O	O	1
+avait	O	O	1
+atteint	O	O	1
+le	O	O	1
+grade	O	O	1
+le	O	O	1
+plus	O	B-LOC	O
+élevé	O	O	1
+(professeur	O	O	1
+ordinaire),	O	O	1
+était	O	B-PER	O
+de	O	I-PER	O
+6	O	O	1
+000	O	O	1
+marks	O	O	1
+en	O	O	1
+fin	O	O	1
+de	O	O	1
+carrière	O	O	1
+Sans	O	O	1
+compter	O	O	1
+les	O	O	1
+honoraires	O	O	1
+des	O	O	1
+cours	O	O	1
+«	O	O	1
+privatim	O	O	1
+»,	B-LOC	O	O
+c’est-à-dire	O	O	1
+payants	O	O	1
+pour	O	O	1
+les	O	O	1
+auditeurs.	O	O	1
+.	O	O	1
+Bien	O	O	1
+entendu,	O	O	1
+Reitzenstein	B-PER	O	O
+et	O	O	1
+Spiegelberg	B-PER	O	O
+se	O	O	1
+sont	O	O	1
+engagés	O	O	1
+à	O	O	1
+rendre	O	O	1
+des	O	O	1
+comptes	O	O	1
+sur	O	O	1
+le	O	O	1
+montant	O	O	1
+qui	O	O	1
+leur	O	O	1
+a	O	O	1
+été	O	O	1
+confié,	O	O	1
+en	O	O	1
+fixant	O	O	1
+le	O	O	1
+délai	O	O	1
+ultime	O	O	1
+de	O	O	1
+leur	O	O	1
+rapport	O	O	1
+au	O	O	1
+1er	O	O	1
+mai	O	O	1
+1899.	O	O	1
+On	O	B-LOC	O
+comprend	O	O	1
+dès	O	O	1
+lors	O	B-PER	O
+pourquoi	O	I-PER	O
+les	O	O	1
+autorités	O	O	1
+reportèrent	O	O	1
+à	O	O	1
+plus	O	O	1
+d’un	O	O	1
+an	O	O	1
+la	O	O	1
+décision	O	O	1
+de	O	O	1
+pourvoir	O	O	1
+la	O	O	1
+chaire	O	O	1
+d’égyptologie	O	O	1
+:	O	O	1
+le	O	O	1
+gouverneur	O	O	1
+attendait	O	O	1
+tout	O	O	1
+simplement	O	O	1
+de	O	O	1
+voir	O	O	1
+les	O	O	1
+brillants	O	O	1
+résultats	O	O	1
+promis	O	O	1
+par	O	O	1
+les	O	O	1
+universitaires	O	O	1
+et,	O	O	1
+surtout,	O	O	1
+de	O	O	1
+lire	O	O	1
+le	O	O	1
+bilan	O	O	1
+scientifique	O	O	1
+et	O	O	1
+financier	O	O	1
+de	O	O	1
+la	O	O	1
+mission.	O	O	1
+us	O	B-LOC	O
+avons	O	O	1
+évoqué	O	O	1
+dans	O	O	1
+l’introduction	O	O	1
+de	O	O	1
+cet	O	O	1
+article	O	O	1
+les	O	O	1
+bénéfices	O	O	1
+très	O	O	1
+remarqués	O	O	1
+de	O	O	1
+l’expédition	O	O	1
+égyptienne	O	O	1
+menée	O	O	1
+pendant	O	O	1
+l’hiver	O	O	1
+1898/99.	O	O	1
+Au	O	O	1
+retour	O	O	1
+des	O	O	1
+savants,	O	O	1
+il	O	O	1
+est	O	O	1
+temps	O	O	1
+de	O	O	1
+fonder	O	O	1
+sur	O	O	1
+ce	O	B-LOC	O
+succès	O	O	1
+la	O	O	1
+conclusion	O	O	1
+de	O	O	1
+la	O	O	1
+stratégie	O	O	1
+que	O	O	1
+la	O	O	1
+Faculté	O	O	1
+développe	O	O	1
+depuis	O	O	1
+plus	O	O	1
+de	O	O	1
+cinq	O	O	1
+ans	O	O	1
+pour	O	O	1
+relancer	O	O	1
+l’enseignement	O	O	1
+de	O	O	1
+l’égyptologie.	O	O	1
+Le	O	O	1
+9	O	O	1
+mai	O	O	1
+1899,	O	O	1
+Nöldeke	O	O	1
+-	O	O	1
+à	O	O	1
+nouveau	O	O	1
+lui,	O	O	1
+ainsi	O	O	1
+que	O	O	1
+Henning,	O	O	1
+qui	O	O	1
+était	O	O	1
+doyen	O	O	1
+lors	O	O	1
+de	O	O	1
+la	O	O	1
+demande	O	O	1
+de	O	O	1
+recréation	O	O	1
+de	O	O	1
+la	O	O	1
+chaire,	O	O	1
+«	O	O	1
+souhaitent	O	O	1
+la	O	O	1
+tenue	O	O	1
+d’une	O	O	1
+assemblée	O	O	1
+facultaire	O	O	1
+en	O	O	1
+faveur	O	O	1
+du	O	O	1
+professorat	O	O	1
+en	O	O	1
+égyptologie	O	O	1
+».	O	O	1
+Ce	O	O	1
+n’est	O	O	1
+évidemment	O	O	1
+pas	O	O	1
+un	O	O	1
+hasard	O	O	1
+si	O	O	1
+dès	O	O	1
+le	O	B-PER	O
+lendemain,	O	O	1
+Reitzenstein	B-PER	O	O
+et	O	O	1
+Spiegelberg	B-PER	O	O
+signent,	O	O	1
+avec	O	O	1
+dix	O	O	1
+jours	O	O	1
+de	O	O	1
+retard,	O	O	1
+le	O	O	1
+rapport	O	O	1
+de	O	O	1
+mission	O	O	1
+qu’ils	O	O	1
+avaient	O	B-LOC	O
+promis	O	O	1
+au	O	O	1
+gouverneur	O	B-PER	O
+un	O	O	1
+an	O	O	1
+plus	O	O	1
+tôt	O	B-LOC	O
+!	O	O	1
+Les	O	O	1
+deux	O	O	1
+démarches	O	O	1
+parallèles	O	B-LOC	O
+sont	O	O	1
+restées	O	O	1
+intimement	O	O	1
+liées	O	O	1
+tout	O	O	1
+au	O	O	1
+long	O	O	1
+de	O	O	1
+la	O	O	1
+procédure.	O	O	1
+Le	O	O	1
+16	O	O	1
+mai,	O	B-PER	O
+le	O	I-PER	O
+doyen	O	O	1
+Koeppel	B-LOC	O	O
+se	O	O	1
+fait	O	O	1
+pressant,	O	O	1
+car	O	O	1
+il	O	O	1
+adresse	O	O	1
+«	O	O	1
+une	O	O	1
+lettre	O	O	1
+au	O	O	1
+curateur	O	O	1
+en	O	O	1
+faveur	O	O	1
+de	O	O	1
+l’attribution	O	O	1
+dans	O	O	1
+les	O	O	1
+plus	O	O	1
+brefs	O	O	1
+délais	O	O	1
+du	O	O	1
+professorat	O	O	1
+en	O	O	1
+égyptologie	O	O	1
+».	O	O	1
+Cette	O	O	1
+fois	O	O	1
+l’affaire	O	O	1
+ne	O	O	1
+traîne	O	B-LOC	O
+plus,	O	O	1
+le	O	O	1
+gouverneur	O	O	1
+ayant	O	O	1
+obtenu	O	O	1
+la	O	B-LOC	O
+démonstration	O	O	1
+de	O	O	1
+la	O	O	1
+fiabilité	O	O	1
+du	O	O	1
+candidat	O	O	1
+proposé	O	O	1
+par	O	O	1
+la	O	O	1
+Faculté	O	O	1
+et,	O	O	1
+accessoirement,	O	O	1
+fait	O	O	1
+économiser	O	O	1
+aux	O	O	1
+finances	O	O	1
+publiques	O	O	1
+un	O	O	1
+an	O	B-PER	O
+de	O	O	1
+salaire	O	O	1
+de	O	O	1
+professeur	O	O	1
+en	O	O	1
+début	O	O	1
+de	O	O	1
+carrière.	O	O	1
+Le	O	O	1
+curateur	O	O	1
+pourra	O	O	1
+bientôt	O	O	1
+répondre	O	O	1
+à	O	O	1
+Koeppel	B-LOC	O	O
+que,	O	O	1
+le	O	O	1
+3	O	O	1
+juin	O	O	1
+1899,	O	O	1
+le	O	O	1
+gouverneur	O	O	1
+impérial	O	O	1
+d’Alsace-Lorraine	O	B-PER	O
+a	O	O	1
+nommé	O	O	1
+Spiegelberg	B-PER	O	O
+professeur	O	O	1
+extraordinaire,	O	O	1
+chargé	O	O	1
+d’un	O	O	1
+enseignement	O	O	1
+en	O	O	1
+égyptologie	O	O	1
+ADBR	O	O	1
+AL	B-LOC	O	O
+103	O	O	1
+680.	O	O	1
+Les	B-LOC	O	O
+documents	O	O	1
+officiels	O	O	1
+invalident	O	B-LOC	O
+ici	O	O	1
+la	O	O	1
+chronologie	O	B-LOC	O
+établie	O	O	1
+par	O	O	1
+Spiegelberg	B-PER	O	O
+lui-même	O	O	1
+dans	O	O	1
+son	O	O	1
+curriculum	O	O	1
+vitae,	O	O	1
+conservé	O	O	1
+dans	O	O	1
+une	O	O	1
+note	O	O	1
+manuscrite	O	O	1
+(1er	O	O	1
+octobre	O	O	1
+1899,	O	O	1
+cf.	O	O	1
+A.	O	O	1
+Grimm,	O	O	1
+Wilhelm	O	O	1
+Spiegelberg	O	O	1
+als	O	O	1
+Sammler,	B-PER	O	O
+München,	I-PER	O	O
+1995,	O	O	1
+p.	O	O	1
+1)	O	B-LOC	O
+;	O	O	1
+le	O	O	1
+savant	O	O	1
+se	O	O	1
+référait	O	O	1
+probablement,	O	O	1
+de	O	O	1
+mémoire,	O	O	1
+au	O	O	1
+mois	O	O	1
+dans	O	O	1
+lequel	O	O	1
+était	O	O	1
+tombée	O	O	1
+sa	O	O	1
+première	O	O	1
+rentrée	O	O	1
+académique	O	O	1
+comme	O	O	1
+professeur,	O	O	1
+au	O	O	1
+semestre	O	O	1
+d’hiver.	O	O	1
+.	O	O	1
+Très	O	O	1
+logiquement,	O	O	1
+le	O	B-PER	O
+nouveau	O	O	1
+titulaire	O	O	1
+de	O	O	1
+la	O	O	1
+chaire	O	O	1
+est	O	O	1
+immédiatement	O	O	1
+désigné	O	O	1
+pour	O	O	1
+administrer	O	O	1
+la	O	O	1
+collection	O	O	1
+égyptienne,	O	O	1
+ce	O	O	1
+qui	O	O	1
+met	O	O	1
+un	O	O	1
+terme	O	O	1
+aux	O	O	1
+intérims	O	O	1
+exercés	O	O	1
+successivement	O	O	1
+par	O	O	1
+Michaelis	B-PER	O	O
+et,	O	O	1
+depuis	O	O	1
+moins	O	O	1
+d’un	O	O	1
+mois,	O	O	1
+par	O	O	1
+Dehio	B-PER	O	O
+(historien	O	O	1
+de	O	O	1
+l’art).	O	O	1
+Mais	O	O	1
+dans	O	O	1
+la	O	O	1
+foulée	O	O	1
+de	O	O	1
+la	O	O	1
+réactivation	O	O	1
+de	O	O	1
+la	O	O	1
+chaire	O	O	1
+et	O	O	1
+de	O	O	1
+la	O	O	1
+constitution	O	O	1
+d’une	O	O	1
+riche	O	B-PER	O
+collection	O	I-PER	O
+d’enseignement,	O	O	1
+Spiegelberg	B-PER	O	O
+veut	O	O	1
+marquer	O	O	1
+le	O	O	1
+coup	O	O	1
+en	O	O	1
+sollicitant	O	O	1
+la	O	O	1
+création	O	O	1
+d’un	O	O	1
+«	O	O	1
+Institut	O	O	1
+d’égyptologie	O	O	1
+».	O	O	1
+En	O	O	1
+effet,	O	O	1
+malgré	O	O	1
+l’existence	O	O	1
+d’une	O	O	1
+ligne	O	O	1
+budgétaire	O	O	1
+consacrée	O	O	1
+à	O	O	1
+l’entretien	O	O	1
+et	O	O	1
+au	O	O	1
+développement	O	O	1
+du	O	B-PER	O
+matériel	O	O	1
+pédagogique	O	O	1
+permettant	O	O	1
+d’enseigner	O	O	1
+l’Antiquité	O	O	1
+égyptienne,	O	O	1
+la	O	O	1
+Faculté	O	O	1
+de	O	O	1
+philosophie	O	O	1
+ne	O	O	1
+comportait	O	O	1
+pas	O	O	1
+à	O	O	1
+cette	O	O	1
+époque	O	O	1
+d’institut	O	O	1
+d’égyptologie	O	O	1
+comparable	O	O	1
+à	O	O	1
+l’«	O	O	1
+Institut	O	O	1
+für	O	O	1
+Altertumswissenschaft	O	B-PER	O
+»,	O	O	1
+à	O	O	1
+l’«	O	O	1
+Historisches	O	O	1
+Institut	O	O	1
+»	O	O	1
+ou	O	O	1
+au	O	O	1
+«	O	O	1
+Kunstarchäologisches	O	O	1
+Institut	O	O	1
+».	O	O	1
+Pour	O	O	1
+rehausser	O	O	1
+le	O	O	1
+prestige	O	O	1
+local	O	O	1
+de	O	O	1
+sa	O	O	1
+discipline,	O	O	1
+Spiegelberg	B-PER	O	O
+souhaite	O	O	1
+régulariser	O	O	1
+cette	O	O	1
+situation	O	O	1
+en	O	O	1
+demandant	O	O	1
+dès	O	O	1
+le	O	O	1
+mois	O	O	1
+de	O	O	1
+juin	O	O	1
+«	O	O	1
+que	O	O	1
+la	O	O	1
+collection	O	O	1
+(égyptienne)	O	O	1
+soit	O	O	1
+reconnue	O	O	1
+comme	O	O	1
+un	O	O	1
+établissement	O	O	1
+de	O	O	1
+l’université	O	O	1
+au	O	O	1
+sens	O	O	1
+du	O	O	1
+chapitre	O	O	1
+VIII	O	O	1
+du	O	O	1
+statut	O	O	1
+de	O	O	1
+cette	O	O	1
+dernière	O	O	1
+et	O	O	1
+qu’à	O	O	1
+celui-ci	O	O	1
+soit	O	B-PER	O
+attribuée	O	O	1
+la	O	O	1
+dénomination	O	O	1
+‘Institut	B-LOC	O	O
+d’égyptologie’»	O	B-LOC	O
+ADBR	O	O	1
+AL	O	O	1
+103	O	O	1
+873,	O	O	1
+26	O	O	1
+juin	O	O	1
+1899,	O	O	1
+demande	O	O	1
+du	O	O	1
+curateur	O	O	1
+au	O	O	1
+doyen	O	O	1
+de	O	O	1
+la	O	O	1
+Faculté	O	B-PER	O
+de	O	I-PER	O
+philosophie	O	O	1
+.	O	O	1
+L’assemblée	O	O	1
+de	O	O	1
+la	O	O	1
+Faculté	O	O	1
+de	O	O	1
+philosophie,	O	O	1
+consultée	O	B-PER	O
+le	O	I-PER	O
+8	O	I-PER	O
+juillet	O	O	1
+1899,	O	O	1
+n’ayant	O	O	1
+pas	O	O	1
+soulevé	O	O	1
+d’objection,	O	O	1
+la	O	O	1
+requête	O	O	1
+est	O	B-PER	O
+acceptée.	O	O	1
+Auparavant,	B-LOC	B-PER	O
+la	O	O	1
+collection	O	O	1
+-	O	O	1
+mobilier,	O	O	1
+livres	O	O	1
+et	O	O	1
+moulages	O	O	1
+ou	O	O	1
+objets	O	O	1
+authentiques	O	O	1
+-	O	O	1
+était	O	O	1
+gérée	O	O	1
+par	O	O	1
+un	O	O	1
+professeur	O	O	1
+désigné	O	O	1
+par	O	O	1
+le	O	O	1
+curateur	O	O	1
+de	O	O	1
+l’université	O	O	1
+;	O	B-PER	O
+désormais,	O	O	1
+cette	O	O	1
+collection	O	O	1
+enrichie	O	B-PER	O
+se	O	O	1
+transforme	O	O	1
+en	O	O	1
+un	O	O	1
+établissement	O	O	1
+jouissant,	O	O	1
+au	O	O	1
+sein	O	O	1
+de	O	O	1
+l’université,	O	O	1
+d’une	O	B-PER	O
+certaine	O	O	1
+autonomie	O	O	1
+budgétaire,	O	O	1
+et	O	O	1
+dont	O	O	1
+un	O	O	1
+directeur	O	B-PER	O
+doit	O	O	1
+être	O	O	1
+nommé	O	O	1
+par	O	O	1
+le	O	O	1
+gouverneur	O	O	1
+d’Alsace-Lorraine	O	O	1
+Statut	O	O	1
+für	O	O	1
+die	O	O	1
+Kaiser-Wilhelms-Universität	O	O	1
+Straßburg	O	O	1
+vom	O	O	1
+24.	O	B-PER	O
+Februar	B-PER	O	O
+1875,	O	O	1
+Strasbourg,	B-LOC	O	O
+1904,	O	O	1
+§	O	O	1
+82-85	O	O	1
+.	O	O	1
+La	O	O	1
+nomination	O	O	1
+de	O	O	1
+Spiegelberg	B-PER	O	O
+dans	O	O	1
+cette	O	O	1
+fonction,	O	O	1
+le	O	O	1
+27	O	O	1
+juillet	O	O	1
+1899,	O	O	1
+consacre	O	O	1
+ainsi	O	O	1
+la	O	O	1
+naissance	O	O	1
+officielle	O	O	1
+de	O	O	1
+l’Institut	O	O	1
+d’égyptologie	O	O	1
+de	O	O	1
+l’Université	O	O	1
+de	O	O	1
+Strasbourg	B-LOC	O	O
+ADBR	O	O	1
+AL	O	B-LOC	O
+103	O	O	1
+680,	O	O	1
+2	O	O	1
+août	O	O	1
+1899,	O	O	1
+annonce	O	O	1
+du	O	O	1
+curateur	O	O	1
+au	O	O	1
+doyen	O	O	1
+de	O	O	1
+la	O	O	1
+Faculté	B-LOC	O	O
+;	O	O	1
+AL	B-LOC	O	O
+103	O	O	1
+873,	O	O	1
+copie	O	O	1
+de	O	O	1
+la	O	O	1
+nomination	O	O	1
+du	O	O	1
+27	O	O	1
+juillet	O	O	1
+1899	O	O	1
+.	O	O	1
+Les	O	O	1
+objets	O	O	1
+acquis	O	O	1
+lors	O	B-PER	O
+des	O	O	1
+expéditions	O	B-PER	O
+égyptiennes	O	O	1
+des	O	O	1
+hivers	O	O	1
+1895/96	O	O	1
+et	O	O	1
+1898/99	O	O	1
+sont	O	O	1
+conservés	O	O	1
+dans	O	O	1
+deux	O	O	1
+établissements	O	O	1
+différents	O	O	1
+:	O	O	1
+le	O	O	1
+nouvel	O	O	1
+Institut	B-LOC	O	O
+d’égyptologie,	O	O	1
+situé	O	O	1
+au	O	O	1
+premier	O	O	1
+étage	O	O	1
+du	O	O	1
+Kollegiengebäude,	O	O	1
+héberge	O	O	1
+les	O	O	1
+objets	O	O	1
+archéologiques	O	O	1
+et	O	O	1
+quelques	O	O	1
+papyrus	O	O	1
+et	O	O	1
+ostraca	O	O	1
+égyptiens,	O	O	1
+tandis	O	O	1
+que	O	O	1
+les	O	O	1
+papyrus	O	O	1
+achetés	O	O	1
+lors	O	O	1
+du	O	O	1
+voyage	O	O	1
+conjoint	O	O	1
+de	O	O	1
+Reitzenstein	B-PER	O	O
+et	O	O	1
+Spiegelberg	B-PER	O	O
+sont	O	O	1
+logés	O	O	1
+à	O	O	1
+la	O	O	1
+KULB.	B-LOC	O	O
+À	O	O	1
+leur	O	O	1
+retour	O	O	1
+de	O	B-PER	O
+mission,	O	O	1
+les	O	B-PER	O
+deux	O	O	1
+savants	O	O	1
+avaient	O	O	1
+souhaité	O	O	1
+faire	O	O	1
+visiter	O	O	1
+ces	O	O	1
+trésors	O	O	1
+papyrologiques	O	O	1
+au	O	O	1
+gouverneur,	O	O	1
+qui	O	O	1
+avait	O	O	1
+fourni	O	O	1
+les	O	O	1
+moyens	O	O	1
+financiers	O	O	1
+de	O	O	1
+l’opération	O	O	1
+grâce	O	O	1
+à	O	O	1
+son	O	O	1
+«	O	O	1
+Dispositionsfonds	O	O	1
+»	O	O	1
+personnel	O	O	1
+(fonds	O	O	1
+publics	O	O	1
+dont	O	O	1
+l’utilisation	O	O	1
+était	O	O	1
+laissée	O	O	1
+à	O	O	1
+la	O	O	1
+libre	O	O	1
+appréciation	O	O	1
+du	O	O	1
+gouverneur)	O	O	1
+:	O	O	1
+«	O	O	1
+Les	O	O	1
+soussignés	O	O	1
+s’estimeraient	O	O	1
+heureux	O	O	1
+s’il	O	O	1
+leur	O	O	1
+était	O	O	1
+accordé,	O	O	1
+dès	O	O	1
+que	O	O	1
+les	O	O	1
+papyrus	O	O	1
+auront	O	O	1
+été	O	O	1
+déroulés	O	O	1
+et	O	O	1
+remontés,	O	O	1
+de	O	O	1
+pouvoir	O	O	1
+faire	O	O	1
+voir	O	O	1
+la	O	O	1
+collection	O	O	1
+à	O	O	1
+votre	O	O	1
+Altesse	B-LOC	O	O
+»	O	O	1
+ADBR	O	O	1
+AL	O	O	1
+103	O	O	1
+877,	O	O	1
+10	O	O	1
+mai	O	O	1
+1899,	O	O	1
+rapport	O	O	1
+épistolaire	O	O	1
+de	O	O	1
+Reitzenstein	B-PER	O	O
+et	O	O	1
+Spiegelberg	B-PER	O	O
+au	O	O	1
+Statthalter	B-PER	O	O
+.	O	O	1
+Commence	O	O	1
+alors,	O	O	1
+sous	O	O	1
+l’égide	O	O	1
+de	O	O	1
+la	O	O	1
+KULB,	O	O	1
+un	O	O	1
+formidable	O	O	1
+travail	O	O	1
+de	O	O	1
+fourmi	O	O	1
+pour	O	O	1
+conditionner	O	O	1
+et	O	O	1
+mettre	O	O	1
+sous	O	O	1
+verre	O	O	1
+les	O	O	1
+innombrables	O	O	1
+fragments	O	O	1
+de	O	O	1
+papyrus	O	O	1
+achetés	O	O	1
+grâce	O	O	1
+au	O	O	1
+crédit	O	O	1
+de	O	O	1
+12	O	O	1
+000	O	O	1
+marks.	O	O	1
+D’après	O	O	1
+les	O	O	1
+factures	O	O	1
+conservées	O	O	1
+dans	O	O	1
+les	O	O	1
+archives	O	O	1
+de	O	O	1
+la	O	O	1
+bibliothèque	O	O	1
+Par	O	B-PER	O
+exemple	O	O	1
+ABNU	O	O	1
+DPK	O	B-LOC	O
+A,	O	O	1
+pièce	O	O	1
+no	O	O	1
+6598	O	O	1
+(3/11/1899)	O	O	1
+;	O	O	1
+compte	O	O	1
+de	O	O	1
+«	O	O	1
+Glasplattlieferungen	B-LOC	O	O
+»	O	O	1
+du	O	O	1
+31/7/1899	O	O	1
+au	O	O	1
+9/3/1900	O	O	1
+(sans	O	O	1
+no)	O	O	1
+;	O	O	1
+pièce	O	O	1
+no	O	O	1
+2218	O	O	1
+(3/4/1900)	O	O	1
+,	O	O	1
+celle-ci	O	O	1
+va	O	O	1
+recevoir	O	O	1
+à	O	O	1
+partir	O	O	1
+du	O	O	1
+31	O	O	1
+juillet	O	O	1
+1899,	O	O	1
+pendant	O	O	1
+plus	O	O	1
+de	O	O	1
+sept	O	O	1
+mois	O	O	1
+d’affilée,	O	O	1
+la	O	O	1
+livraison	O	O	1
+de	O	O	1
+centaines	O	O	1
+de	O	O	1
+plaques	O	O	1
+de	O	O	1
+verre.	O	O	1
+La	O	O	1
+mise	O	O	1
+en	O	O	1
+place	O	O	1
+des	O	O	1
+papyrus,	O	O	1
+insérés	O	O	1
+chacun	O	O	1
+entre	O	O	1
+deux	O	O	1
+de	O	O	1
+ces	O	O	1
+plaques,	O	O	1
+fournit	O	O	1
+un	O	O	1
+emploi	O	O	1
+inhabituel	O	O	1
+au	O	O	1
+relieur	O	O	1
+C.	B-PER	O	O
+B.	I-PER	O	O
+Simon,	I-PER	O	O
+à	O	O	1
+qui	O	O	1
+seront	O	O	1
+payées	O	O	1
+de	O	O	1
+nombreuses	O	O	1
+heures	O	O	1
+de	O	O	1
+main-d’oeuvre	O	O	1
+jusqu’au	O	O	1
+mois	O	O	1
+de	O	O	1
+mars	O	O	1
+1900.	O	O	1
+Lorsque	O	O	1
+les	O	O	1
+travaux	O	O	1
+sont	O	O	1
+suffisamment	O	O	1
+avancés,	O	O	1
+on	O	O	1
+prend	O	O	1
+contact	O	O	1
+avec	O	O	1
+le	O	B-PER	O
+bureau	O	O	1
+du	O	O	1
+gouverneur	O	O	1
+et,	O	O	1
+le	O	O	1
+21	O	O	1
+décembre	O	O	1
+1899,	O	O	1
+Reitzenstein	B-PER	O	O
+envoie	O	O	1
+un	O	O	1
+billet	O	O	1
+au	O	O	1
+directeur	O	O	1
+de	O	O	1
+la	O	O	1
+bibliothèque,	O	O	1
+Karl	O	O	1
+August	B-PER	O	O
+Barack	I-PER	B-LOC	O
+:	O	O	1
+«	O	O	1
+Je	O	O	1
+viens	O	O	1
+de	O	O	1
+recevoir	O	O	1
+une	O	O	1
+réponse	O	O	1
+du	O	O	1
+Prince.	B-LOC	O	O
+Il	O	O	1
+veut	O	O	1
+préciser	O	O	1
+un	O	O	1
+jour	O	O	1
+après	O	O	1
+Noël	O	O	1
+»	O	O	1
+ABNU	O	O	1
+DPK	O	O	1
+A,	O	O	1
+pièce	O	O	1
+no	O	B-LOC	O
+7751	O	O	1
+(21/12/1899)	O	O	1
+.	O	O	1
+La	O	O	1
+visite	O	O	1
+officielle,	O	O	1
+à	O	O	1
+laquelle	O	O	1
+seront	O	O	1
+en	O	O	1
+outre	O	O	1
+conviés	O	O	1
+tous	O	O	1
+les	O	O	1
+membres	O	O	1
+de	O	O	1
+la	O	O	1
+Faculté	O	O	1
+de	O	O	1
+philosophie	O	O	1
+ADBR	O	O	1
+AL	O	O	1
+103	O	O	1
+862,	O	O	1
+Journal	O	O	1
+der	O	O	1
+philosophischen	O	O	1
+Facultät,	O	O	1
+entrée	O	O	1
+du	O	O	1
+8	O	O	1
+janvier	O	O	1
+1900	O	O	1
+,	O	O	1
+aura	O	O	1
+finalement	O	O	1
+lieu	O	O	1
+le	O	O	1
+14	O	O	1
+janvier	O	O	1
+1900.	O	O	1
+Cependant	O	O	1
+Reitzenstein,	O	O	1
+en	O	O	1
+mauvaise	O	O	1
+santé	O	O	1
+depuis	O	O	1
+qu’il	O	O	1
+est	O	O	1
+revenu	O	O	1
+d’	O	O	1
+Égypte	B-LOC	O	O
+frappé	O	O	1
+d’une	O	O	1
+«	O	O	1
+sévère	O	O	1
+maladie	O	O	1
+»	O	O	1
+Rapport	B-LOC	O	O
+du	O	O	1
+10	O	O	1
+mai	O	O	1
+1899,	O	O	1
+voir	O	O	1
+note	O	O	1
+21	O	O	1
+,	O	O	1
+signale	O	O	1
+la	O	O	1
+veille	O	O	1
+à	O	O	1
+Barack	B-PER	O	O
+qu’il	O	O	1
+est	O	O	1
+indisposé	O	O	1
+et	O	O	1
+craint	O	B-LOC	O
+de	O	O	1
+ne	O	O	1
+pouvoir	O	O	1
+se	O	O	1
+déplacer	O	O	1
+:	O	O	1
+le	O	O	1
+cas	O	O	1
+échéant,	O	O	1
+«	O	O	1
+le	O	O	1
+Professeur	B-PER	O	O
+Spiegelberg	I-PER	O	O
+devrait	O	O	1
+avoir	O	O	1
+l’obligeance	O	O	1
+de	O	O	1
+se	O	O	1
+charger	O	O	1
+de	O	O	1
+mon	O	O	1
+domaine	O	O	1
+»	O	O	1
+ABNU	O	O	1
+DPK	O	O	1
+A,	O	O	1
+pièce	O	O	1
+no	O	O	1
+377	O	O	1
+(13/1/1900)	O	O	1
+.	O	O	1
+L’ensemble	O	O	1
+du	O	O	1
+fonds	O	O	1
+papyrologique,	O	O	1
+égyptien	O	O	1
+et	O	O	1
+grec,	O	O	1
+fut	O	O	1
+donc	O	O	1
+peut-être	O	O	1
+présenté	O	O	1
+par	O	O	1
+l’égyptologue	O	O	1
+seul,	O	O	1
+lors	O	O	1
+de	O	O	1
+la	O	O	1
+consécration	O	O	1
+en	O	O	1
+présence	O	O	1
+du	O	O	1
+gouverneur	O	O	1
+d’	O	O	1
+Alsace	B-LOC	O	O
+-	O	O	1
+Lorraine	B-LOC	O	O
+et	O	O	1
+des	O	O	1
+collègues	O	O	1
+admiratifs	O	O	1
+de	O	O	1
+la	O	O	1
+Faculté.	B-LOC	O	O
+Deux	O	O	1
+randonnées	O	O	1
+égyptologiques	O	O	1
+et	O	O	1
+papyrologiques	O	O	1
+en	O	O	1
+Égypte	B-LOC	O	O
+Aux	O	O	1
+savants	O	O	1
+et	O	O	1
+aux	O	O	1
+amis	O	O	1
+qui	O	O	1
+l’ont	O	O	1
+aidé	O	O	1
+à	O	O	1
+poser	O	O	1
+les	O	O	1
+premiers	O	O	1
+jalons	O	O	1
+de	O	O	1
+sa	O	O	1
+carrière,	O	O	1
+Spiegelberg	B-PER	O	O
+exprime	O	O	1
+sa	O	O	1
+reconnaissance	O	O	1
+et	O	O	1
+son	O	O	1
+admiration	O	O	1
+en	O	O	1
+leur	O	O	1
+dédiant	O	O	1
+différents	O	O	1
+travaux	O	O	1
+au	O	O	1
+fil	O	O	1
+des	O	O	1
+années	O	O	1
+:	O	O	1
+on	O	O	1
+relève	O	O	1
+notamment,	O	O	1
+parmi	O	O	1
+les	O	O	1
+dédicataires,	O	O	1
+le	O	O	1
+maître	O	O	1
+Dümichen	B-PER	O	O
+en	O	O	1
+1892	O	O	1
+;	O	O	1
+en	O	O	1
+1896,	O	O	1
+les	O	O	1
+parents	O	O	1
+de	O	O	1
+Spiegelberg;	O	O	1
+en	O	O	1
+1902,	O	O	1
+les	O	O	1
+artisans	O	O	1
+de	O	O	1
+sa	O	O	1
+titularisation,	O	O	1
+Adolf	B-PER	O	O
+Michaelis	I-PER	O	O
+et	O	O	1
+Theodor	B-PER	O	O
+Nöldeke	I-PER	O	O
+;	O	O	1
+la	O	O	1
+même	O	O	1
+année,	O	O	1
+le	O	O	1
+sémitisant	O	O	1
+Julius	B-PER	O	O
+Euting	I-PER	O	O
+,	O	O	1
+nouveau	O	O	1
+directeur	O	O	1
+de	O	O	1
+la	O	O	1
+KULB	O	O	1
+;	O	O	1
+en	O	O	1
+1904,	O	O	1
+le	O	O	1
+généreux	O	O	1
+Flinders	B-PER	O	O
+Petrie,	I-PER	O	O
+qui	O	B-PER	O
+l’avait	O	O	1
+accompagné	O	O	1
+dans	O	O	1
+ses	O	O	1
+premiers	O	O	1
+pas	O	O	1
+sur	O	O	1
+le	O	O	1
+terrain	O	O	1
+;	O	O	1
+en	O	O	1
+1925,	O	O	1
+Adolf	O	O	1
+Erman,	O	O	1
+rapporteur	O	O	1
+de	O	O	1
+sa	O	O	1
+thèse	O	O	1
+d’habilitation…	O	O	1
+En	O	O	1
+1909,	O	O	1
+Spiegelberg	B-PER	O	O
+dédie	O	O	1
+en	O	O	1
+ces	O	B-LOC	O
+termes	O	O	1
+la	O	O	1
+première	O	O	1
+monographie	O	O	1
+consacrée	O	O	1
+à	O	O	1
+la	O	B-PER	O
+collection	O	O	1
+de	O	O	1
+l’Institut	O	O	1
+d’égyptologie	O	O	1
+:	O	O	1
+«	O	O	1
+dédiée	O	O	1
+dans	O	O	1
+un	O	O	1
+esprit	O	O	1
+d’amitié	O	O	1
+à	O	O	1
+Richard	B-PER	O	O
+Reitzenstein	I-PER	O	O
+,	O	O	1
+en	O	O	1
+souvenir	O	O	1
+de	O	O	1
+la	O	O	1
+randonnée	O	O	1
+égyptienne	O	O	1
+commune	O	O	1
+il	O	O	1
+y	O	O	1
+a	O	O	1
+dix	O	O	1
+ans	O	O	1
+».	O	O	1
+Pour	O	O	1
+retracer	O	O	1
+l’histoire	O	O	1
+de	O	O	1
+cette	O	O	1
+«	O	O	1
+randonnée	O	O	1
+»	O	O	1
+fondatrice	O	O	1
+de	O	O	1
+la	O	O	1
+collection	O	O	1
+papyrologique	O	O	1
+de	O	O	1
+la	O	O	1
+BNU,	O	O	1
+on	O	O	1
+en	O	O	1
+était	O	B-PER	O
+jusqu’ici	O	O	1
+réduit	O	B-PER	O
+à	O	O	1
+gloser	O	O	1
+au	O	O	1
+départ	O	O	1
+sur	O	O	1
+des	O	O	1
+travaux	O	O	1
+publiés	O	O	1
+par	O	O	1
+Spiegelberg	B-PER	O	O
+S.	I-PER	O	O
+P.	I-PER	O	O
+Vleeming,	I-PER	B-LOC	O
+«	O	O	1
+Spiegelberg	O	O	1
+in	O	O	1
+Strasbourg	O	O	1
+»,	O	O	1
+Enchoria	O	O	1
+11,	O	O	1
+1982,	O	O	1
+p.	O	O	1
+94	O	O	1
+ou	O	O	1
+à	O	O	1
+renvoyer	O	O	1
+à	O	O	1
+quelques	O	O	1
+mots	O	O	1
+d’introduction	O	O	1
+d’une	O	O	1
+étude	O	O	1
+que	O	O	1
+Reitzenstein	B-PER	O	O
+fit	O	O	1
+paraître	O	O	1
+en	O	O	1
+1901	O	O	1
+O.	O	O	1
+Primavesi,	O	O	1
+«	O	O	1
+Zur	B-PER	O	O
+Geschichte	I-PER	O	O
+des	O	O	1
+Deutschen	O	B-PER	O
+Papyruskartells	O	I-PER	O
+»,	O	O	1
+p.	O	B-PER	O
+173,	O	I-PER	O
+n.	O	O	1
+7	O	B-PER	O
+;	O	I-PER	O
+175,	O	O	1
+n.	O	O	1
+20	O	O	1
+.	O	O	1
+Les	O	O	1
+documents	O	O	1
+que	O	O	1
+le	O	O	1
+Kuratorium	O	O	1
+de	O	O	1
+l’université	O	O	1
+impériale	O	O	1
+conserva	O	O	1
+dans	O	O	1
+les	O	O	1
+archives	O	O	1
+liées	O	O	1
+à	O	O	1
+la	O	B-LOC	O
+formation	O	O	1
+et	O	O	1
+à	O	O	1
+l’administration	O	O	1
+des	O	O	1
+collections	O	O	1
+égyptiennes	O	O	1
+jettent	O	O	1
+désormais	O	O	1
+un	O	O	1
+éclairage	O	O	1
+complémentaire	O	O	1
+sur	O	O	1
+cette	O	O	1
+aventure,	O	O	1
+en	O	O	1
+révélant,	O	O	1
+depuis	O	O	1
+les	O	O	1
+coulisses,	O	O	1
+la	O	O	1
+façon	O	O	1
+dont	O	O	1
+les	O	O	1
+deux	O	O	1
+savants	O	O	1
+concevaient	O	O	1
+et	O	O	1
+présentaient	O	O	1
+leur	O	O	1
+propre	O	O	1
+entreprise.	O	O	1
+Aujourd’hui,	B-PER	O	O
+les	O	O	1
+chercheurs	O	O	1
+consacrent	O	O	1
+une	O	O	1
+partie	O	O	1
+de	O	O	1
+leur	O	O	1
+temps	O	O	1
+à	O	O	1
+solliciter	O	O	1
+des	O	O	1
+crédits	O	O	1
+auprès	O	O	1
+des	O	O	1
+bailleurs	O	O	1
+de	O	O	1
+fonds.	O	O	1
+Les	O	O	1
+dossiers	O	O	1
+que	O	B-PER	O
+nous	O	O	1
+constituons	O	O	1
+à	O	O	1
+cette	O	O	1
+fin	O	O	1
+sont	O	O	1
+appelés	O	O	1
+à	O	O	1
+former	O	O	1
+des	O	O	1
+gisements	O	O	1
+documentaires,	O	O	1
+qui	O	O	1
+fourniront	O	O	1
+des	O	O	1
+sources	O	O	1
+précieuses	O	O	1
+pour	O	O	1
+l’histoire	O	O	1
+des	O	O	1
+sciences	O	O	1
+:	O	O	1
+les	O	O	1
+projets	O	O	1
+accompagnant	O	O	1
+nos	O	O	1
+demandes	O	O	1
+manifestent	O	O	1
+une	O	O	1
+rhétorique,	O	O	1
+une	O	O	1
+stratégie,	O	O	1
+des	O	O	1
+méthodes	O	O	1
+et	O	O	1
+des	O	O	1
+objectifs	O	O	1
+;	O	O	1
+quant	O	O	1
+aux	O	O	1
+orientations	O	O	1
+prises	O	O	1
+sur	O	O	1
+le	O	O	1
+terrain	O	O	1
+de	O	O	1
+la	O	O	1
+réalité	O	O	1
+et	O	O	1
+aux	O	O	1
+efforts	O	O	1
+de	O	O	1
+valorisation	O	B-LOC	O
+des	O	O	1
+résultats	O	O	1
+scientifiques,	O	O	1
+ils	O	O	1
+apparaissent	O	O	1
+dans	O	O	1
+les	O	O	1
+rapports	O	O	1
+rédigés	O	O	1
+au	O	O	1
+terme	O	O	1
+de	O	O	1
+nos	O	O	1
+programmes.	O	O	1
+Dans	O	O	1
+un	O	O	1
+contexte	O	O	1
+certes	O	O	1
+moins	O	O	1
+institutionnalisé	O	O	1
+qu’aujourd’hui,	O	O	1
+Reitzenstein	B-PER	O	O
+et	O	O	1
+Spiegelberg	B-PER	O	O
+pratiquaient	O	O	1
+déjà	O	O	1
+les	O	O	1
+règles	O	O	1
+du	O	O	1
+genre	O	O	1
+pour	O	O	1
+obtenir	O	B-LOC	O
+le	O	O	1
+soutien	O	O	1
+financier	O	O	1
+du	O	O	1
+gouvernement	O	O	1
+d’	O	O	1
+Alsace	B-LOC	O	O
+-	O	O	1
+Lorraine	B-LOC	O	O
+.	O	O	1
+Le	O	O	1
+cheminement	O	O	1
+d’un	O	O	1
+projet	O	O	1
+de	O	O	1
+collection	O	O	1
+Le	O	O	1
+projet	O	O	1
+de	O	O	1
+créer	O	O	1
+une	O	B-LOC	O
+collection	O	O	1
+de	O	O	1
+papyrus	O	O	1
+égyptiens	O	O	1
+n’est	O	O	1
+pas	O	O	1
+né	O	O	1
+ex	O	O	1
+nihilo	O	O	1
+à	O	O	1
+l’occasion	O	O	1
+du	O	O	1
+voyage	O	O	1
+de	O	O	1
+l’hiver	O	O	1
+1898/99.	O	O	1
+L’idée	O	O	1
+s’était	O	O	1
+fait	O	O	1
+jour	O	O	1
+progressivement,	O	O	1
+en	O	O	1
+contrepoint	O	O	1
+des	O	O	1
+opérations	O	O	1
+de	O	O	1
+lancement	O	O	1
+de	O	O	1
+la	O	O	1
+carrière	O	O	1
+de	O	O	1
+Spiegelberg	B-PER	O	O
+,	O	O	1
+à	O	O	1
+mesure	O	O	1
+que	O	O	1
+le	O	O	1
+jeune	O	O	1
+savant	O	O	1
+découvrait	O	O	1
+le	O	O	1
+terrain	O	O	1
+égyptien.	O	O	1
+Lors	O	O	1
+des	O	O	1
+préparatifs	O	O	1
+du	O	O	1
+premier	O	O	1
+voyage,	O	O	1
+l’acquisition	O	O	1
+d’objets	O	O	1
+authentiques	O	O	1
+n’est	O	O	1
+pas	O	B-PER	O
+envisagée.	O	O	1
+En	O	O	1
+sa	O	O	1
+qualité	O	O	1
+d’administrateur	O	O	1
+par	O	O	1
+intérim	O	O	1
+de	O	O	1
+la	O	O	1
+collection	O	O	1
+égyptienne,	O	O	1
+Adolf	B-PER	O	O
+Michaelis	I-PER	O	O
+demande	O	O	1
+le	O	O	1
+11	O	O	1
+juillet	O	O	1
+1895	O	B-PER	O
+un	O	I-PER	O
+crédit	O	O	1
+exceptionnel	O	O	1
+de	O	O	1
+800	O	B-PER	O
+à	O	O	1
+1	O	O	1
+000	O	O	1
+marks	O	O	1
+pour	O	O	1
+permettre	O	O	1
+au	O	O	1
+Privatdozent	B-PER	O	O
+Spiegelberg	I-PER	O	O
+-	O	O	1
+en	O	O	1
+train	O	O	1
+d’organiser	O	O	1
+sa	O	O	1
+première	O	O	1
+expédition	O	O	1
+en	O	O	1
+Égypte	B-LOC	O	O
+-	O	O	1
+d’acheter	O	O	1
+«	O	O	1
+des	O	O	1
+photographies	O	O	1
+et	O	O	1
+des	O	O	1
+ressources	O	O	1
+d’enseignement	O	O	1
+pour	O	O	1
+le	O	O	1
+dispositif	O	O	1
+égyptologique	O	O	1
+»	O	O	1
+(doc.	O	O	1
+1)	B-LOC	O	O
+L’abréviation	O	O	1
+«	O	O	1
+doc.	O	O	1
+»,	B-LOC	O	O
+dans	O	O	1
+le	O	O	1
+corps	O	O	1
+du	O	O	1
+texte,	O	O	1
+renvoie	O	O	1
+aux	O	O	1
+documents	O	O	1
+sur	O	O	1
+lesquels	O	O	1
+est	O	O	1
+fondée	O	O	1
+la	O	O	1
+présente	O	O	1
+synthèse.	O	O	1
+Document	O	O	1
+1	O	O	1
+:	O	O	1
+11	O	O	1
+juillet	O	O	1
+1895,	O	O	1
+requête	O	O	1
+de	O	O	1
+Michaelis	B-LOC	O	O
+au	O	O	1
+Kurator	B-LOC	O	O
+(ADBR	O	O	1
+AL	B-LOC	O	O
+103	I-LOC	O	O
+873).	I-LOC	O	O
+Doc.	O	O	1
+2	O	O	1
+:	O	O	1
+projet	O	B-PER	O
+non	O	O	1
+daté	O	O	1
+de	O	O	1
+Spiegelberg	B-PER	O	O
+(ibidem),	O	O	1
+en	O	O	1
+accompagnement	O	O	1
+du	O	O	1
+doc.	O	O	1
+1.	O	O	1
+Doc.	O	O	1
+3	O	O	1
+:	O	O	1
+8	O	O	1
+février	O	O	1
+1896,	O	O	1
+requête	O	O	1
+de	O	O	1
+Michaelis	B-LOC	B-PER	O
+au	O	I-PER	O
+Kurator	B-LOC	O	O
+(ibidem).	O	O	1
+Doc.	O	O	1
+4	O	O	1
+:	O	O	1
+15	O	O	1
+février	O	O	1
+1896,	O	O	1
+requête	O	O	1
+de	O	O	1
+Michaelis	B-LOC	O	O
+au	O	O	1
+Staatssekretär	O	O	1
+(ibidem).	O	O	1
+Doc.	O	O	1
+5	O	O	1
+:	O	O	1
+21	O	O	1
+mars	O	O	1
+1898,	O	O	1
+requête	O	O	1
+de	O	O	1
+Reitzenstein	B-PER	O	O
+et	O	O	1
+de	O	O	1
+Spiegelberg	B-PER	O	O
+au	O	O	1
+Statthalter	B-LOC	O	O
+(ADBR	O	O	1
+AL	O	O	1
+103	O	O	1
+877).	O	O	1
+Doc.	O	O	1
+6	O	O	1
+:	O	O	1
+13	O	O	1
+février	O	O	1
+1899,	O	O	1
+requête	O	O	1
+de	O	O	1
+Michaelis	B-LOC	O	O
+au	O	O	1
+Kurator	B-LOC	O	O
+(ADBR	O	O	1
+AL	B-LOC	O	O
+103	I-LOC	O	O
+873).	I-LOC	O	O
+Doc.	O	O	1
+7	O	O	1
+:	O	O	1
+10	O	O	1
+mai	O	O	1
+1899,	O	O	1
+rapport	O	O	1
+épistolaire	O	O	1
+de	O	O	1
+Reitzenstein	B-PER	O	O
+et	O	O	1
+Spiegelberg	B-PER	O	O
+au	O	O	1
+Statthalter	B-LOC	O	O
+(ADBR	O	O	1
+AL	O	O	1
+103	O	O	1
+877).	O	O	1
+L’édition	B-LOC	O	O
+commentée	O	O	1
+de	O	O	1
+ces	O	O	1
+textes,	O	O	1
+comme	O	O	1
+des	O	O	1
+principaux	O	O	1
+documents	O	O	1
+cités	O	O	1
+dans	O	O	1
+cet	O	O	1
+article,	O	O	1
+est	O	O	1
+en	O	O	1
+préparation.	O	O	1
+.	O	O	1
+L’argument	O	O	1
+essentiel	O	O	1
+de	O	O	1
+la	O	O	1
+requête	O	O	1
+est	O	O	1
+économique	O	O	1
+:	O	O	1
+le	O	O	1
+voyage	O	O	1
+permettra	O	O	1
+d’acquérir	O	O	1
+sur	O	O	1
+place	O	O	1
+des	O	O	1
+photographies	O	O	1
+de	O	O	1
+monuments	O	O	1
+égyptiens	O	O	1
+à	O	O	1
+un	O	O	1
+tarif	O	O	1
+beaucoup	O	B-PER	O
+plus	O	O	1
+intéressant	O	O	1
+que	O	O	1
+si	O	O	1
+les	O	O	1
+commandes	O	O	1
+devaient	O	O	1
+se	O	O	1
+faire	O	O	1
+depuis	O	O	1
+Strasbourg	B-LOC	O	O
+.	O	O	1
+Le	O	O	1
+projet	O	O	1
+de	O	O	1
+constituer	O	O	1
+un	O	O	1
+fonds	O	O	1
+d’images	O	O	1
+archéologiques	O	O	1
+est	O	O	1
+sans	O	O	1
+doute	O	O	1
+inspiré	O	O	1
+par	O	O	1
+Michaelis	B-PER	O	O
+lui-même,	I-PER	O	O
+qui	O	O	1
+a	O	O	1
+créé	O	O	1
+une	O	O	1
+riche	O	O	1
+collection	O	O	1
+de	O	O	1
+photographies	O	B-LOC	O
+sur	O	O	1
+le	O	O	1
+monde	O	O	1
+classique	O	O	1
+dans	O	O	1
+le	O	O	1
+cadre	O	O	1
+du	O	O	1
+Kunstarchäologisches	O	O	1
+Institut.	O	O	1
+Pour	O	O	1
+Spiegelberg	B-PER	O	O
+,	O	O	1
+l’objectif	O	O	1
+est	O	O	1
+essentiellement	O	B-LOC	O
+pédagogique.	O	O	1
+Il	O	O	1
+s’agira,	O	O	1
+d’une	O	O	1
+part,	O	O	1
+«	O	O	1
+de	O	O	1
+créer	O	O	1
+un	O	O	1
+dispositif	O	O	1
+utilisable	O	O	1
+pour	O	O	1
+des	O	O	1
+cours	O	O	1
+et	O	O	1
+des	O	O	1
+exercices	O	O	1
+d’histoire	O	O	1
+de	O	O	1
+l’art	O	O	1
+»	O	O	1
+(doc.	B-LOC	O	O
+2).	O	O	1
+Les	O	O	1
+lacunes	O	O	1
+de	O	O	1
+la	O	B-PER	O
+documentation	O	O	1
+accessible	O	O	1
+pour	O	O	1
+illustrer	O	O	1
+ses	O	O	1
+leçons	O	O	1
+doivent	O	O	1
+être	O	O	1
+comblées	O	O	1
+car,	O	O	1
+aux	O	O	1
+yeux	O	O	1
+du	O	O	1
+savant,	O	O	1
+les	O	O	1
+publications	O	O	1
+archéologiques	O	O	1
+de	O	O	1
+son	O	O	1
+temps	O	O	1
+accordent	O	O	1
+une	O	O	1
+place	O	O	1
+trop	O	O	1
+réduite	O	O	1
+aux	O	O	1
+monuments	O	O	1
+de	O	O	1
+l’art	O	O	1
+profane.	O	O	1
+En	O	O	1
+outre,	O	O	1
+il	O	O	1
+lui	O	O	1
+tient	O	O	1
+à	O	O	1
+coeur	O	O	1
+d’accueillir	O	O	1
+dans	O	O	1
+sa	O	O	1
+photothèque,	O	O	1
+et	O	O	1
+donc	O	O	1
+dans	O	O	1
+ses	O	O	1
+enseignements	O	O	1
+à	O	O	1
+venir,	O	O	1
+des	O	O	1
+témoignages	O	O	1
+artistiques	O	O	1
+de	O	O	1
+toutes	O	O	1
+les	O	O	1
+époques	O	O	1
+de	O	O	1
+l’Antiquité	O	O	1
+égyptienne,	O	O	1
+«	O	O	1
+depuis	O	O	1
+les	O	O	1
+temps	O	O	1
+les	O	O	1
+plus	O	O	1
+anciens	O	O	1
+jusqu’à	O	O	1
+l’art	O	O	1
+copte	O	O	1
+inclus	O	O	1
+».	O	O	1
+D’autre	O	O	1
+part,	O	O	1
+la	O	O	1
+collection	O	O	1
+de	O	O	1
+photographies	O	O	1
+et	O	O	1
+de	O	O	1
+ressources	O	O	1
+pédagogiques	O	O	1
+devra	O	O	1
+offrir	O	O	1
+un	O	O	1
+«	O	O	1
+fondement	O	O	1
+fiable	O	O	1
+pour	O	O	1
+des	O	O	1
+études	O	O	1
+épigraphiques	O	O	1
+».	O	O	1
+Au-delà	O	O	1
+de	O	O	1
+ce	O	O	1
+programme	O	O	1
+d’acquisition	O	O	1
+documentaire	O	O	1
+très	O	O	1
+sage	O	O	1
+et	O	O	1
+raisonnable,	O	O	1
+la	O	O	1
+découverte,	O	O	1
+quelques	O	O	1
+mois	O	O	1
+plus	O	O	1
+tard,	O	O	1
+des	O	O	1
+conditions	O	O	1
+réelles	O	O	1
+de	O	O	1
+l’archéologie	O	B-PER	O
+égyptienne	O	O	1
+en	O	O	1
+cette	O	O	1
+fin	O	O	1
+du	O	O	1
+XIXe	O	O	1
+siècle	O	O	1
+semble	O	O	1
+avoir	O	O	1
+agi	O	O	1
+sur	O	O	1
+Spiegelberg	B-PER	O	O
+comme	O	O	1
+un	O	O	1
+détonateur.	O	B-LOC	O
+Avec	O	O	1
+les	O	O	1
+crédits	O	O	1
+qui	O	O	1
+lui	O	O	1
+ont	O	B-LOC	O
+été	O	O	1
+promis,	O	O	1
+il	O	O	1
+peut	O	O	1
+faire	O	O	1
+bien	O	O	1
+plus	O	O	1
+qu’acheter	O	O	1
+des	O	O	1
+images	O	O	1
+:	O	O	1
+le	O	O	1
+voilà	O	O	1
+désormais	O	O	1
+irrésistiblement	O	O	1
+attiré	O	O	1
+vers	O	O	1
+les	O	O	1
+originaux.	O	O	1
+Dès	O	O	1
+son	O	O	1
+arrivée	O	O	1
+à	O	O	1
+Louqsor	B-LOC	O	O
+,	O	O	1
+le	O	O	1
+jeune	O	B-PER	O
+homme	O	O	1
+de	O	O	1
+25	O	O	1
+ans,	O	O	1
+sans	O	O	1
+expérience	O	O	1
+antérieure	O	O	1
+de	O	O	1
+l’archéologie,	O	O	1
+se	O	O	1
+démène	O	O	1
+en	O	O	1
+courant	O	O	1
+littéralement	O	O	1
+dans	O	O	1
+toutes	O	O	1
+les	O	O	1
+directions	O	O	1
+à	O	O	1
+la	O	O	1
+découverte	O	O	1
+des	O	O	1
+vestiges	O	O	1
+de	O	O	1
+la	O	O	1
+rive	O	O	1
+gauche	O	O	1
+de	O	O	1
+Thèbes	B-LOC	O	O
+.	O	O	1
+Voici	O	O	1
+comment	O	O	1
+Michaelis	B-LOC	O	O
+résume	O	O	1
+les	O	O	1
+résultats	O	O	1
+des	O	O	1
+six	O	O	1
+premières	O	O	1
+semaines	O	O	1
+de	O	O	1
+l’exploration	O	O	1
+(doc.	O	B-PER	O
+4),	O	O	1
+dont	O	B-PER	O
+il	O	I-PER	O
+vient	O	O	1
+de	O	O	1
+prendre	O	O	1
+connaissance	O	O	1
+grâce	O	O	1
+à	O	O	1
+un	O	O	1
+courrier	O	O	1
+envoyé	O	O	1
+depuis	O	O	1
+l’	O	O	1
+Égypte	B-LOC	O	O
+:	O	O	1
+opie	O	O	1
+et	O	O	1
+estampages	O	O	1
+de	O	O	1
+plus	O	O	1
+de	O	O	1
+1	O	O	1
+000	O	O	1
+inscriptions	O	O	1
+rupestres	O	O	1
+(graffitis)	O	O	1
+dont	O	O	1
+une	O	O	1
+partie	O	O	1
+a	O	O	1
+une	O	O	1
+importance	O	O	1
+considérable	O	O	1
+du	O	O	1
+point	O	O	1
+de	O	O	1
+vue	O	O	1
+de	O	O	1
+l’histoire	O	O	1
+ou	O	O	1
+de	O	O	1
+l’histoire	O	O	1
+de	O	O	1
+l’art.	O	O	1
+couverte	O	O	1
+des	O	O	1
+restes	O	O	1
+de	O	O	1
+l’implantation	O	O	1
+de	O	O	1
+l’ancienne	O	O	1
+nécropole	O	O	1
+de	O	O	1
+Thèbes	B-LOC	O	O
+.	O	O	1
+couverte	O	O	1
+d’un	O	O	1
+«	O	O	1
+atelier	O	O	1
+de	O	O	1
+choachytes	O	O	1
+»,	B-PER	O	O
+dont	O	O	1
+le	O	O	1
+Dr.	O	O	1
+Spiegelberg	O	O	1
+veut	O	O	1
+offrir	O	O	1
+le	O	O	1
+contenu	O	O	1
+à	O	O	1
+notre	O	O	1
+collection.	O	O	1
+couverte	O	O	1
+d’une	O	O	1
+tombe	O	O	1
+d’ibis,	O	O	1
+qui	O	O	1
+a	O	O	1
+été	O	O	1
+installée	O	O	1
+à	O	O	1
+l’époque	O	O	1
+ptolémaïque	O	O	1
+dans	O	O	1
+une	O	O	1
+tombe	O	O	1
+de	O	O	1
+la	O	O	1
+XVIIIe	O	O	1
+dynastie.	O	O	1
+couverte	O	B-PER	O
+près	O	I-PER	O
+du	O	I-PER	O
+fameux	O	O	1
+Ramesseum	B-LOC	O	O
+du	O	O	1
+temple	B-LOC	O	O
+d’Amenothes	I-LOC	O	O
+I	I-LOC	O	O
+et	O	O	1
+de	O	O	1
+sa	O	O	1
+mère	O	O	1
+Ahmes-Nefret-Re,	B-LOC	O	O
+que	O	O	1
+l’on	O	O	1
+cherchait	O	O	1
+en	O	O	1
+vain	O	O	1
+depuis	O	O	1
+longtemps.	O	O	1
+Cette	O	O	1
+très	O	O	1
+importante	O	O	1
+découverte,	O	O	1
+qu’il	O	O	1
+faudra	O	O	1
+poursuivre	O	O	1
+davantage,	O	O	1
+a	O	O	1
+dû	O	O	1
+être	O	O	1
+abandonnée	O	O	1
+pour	O	O	1
+l’instant	O	O	1
+par	O	O	1
+le	O	O	1
+Dr.	O	O	1
+Spiegelberg	O	O	1
+,	O	O	1
+faute	O	O	1
+de	O	O	1
+temps,	O	O	1
+de	O	O	1
+moyens	O	O	1
+et	O	O	1
+d’un	O	O	1
+conseiller	O	O	1
+en	O	O	1
+architecture	O	O	1
+qualifié.	O	O	1
+Il	O	O	1
+espère	O	O	1
+pouvoir	O	O	1
+gratifier	O	O	1
+notre	O	O	1
+collection	O	O	1
+de	O	O	1
+quelques-unes	O	O	1
+des	O	O	1
+très	O	O	1
+belles	O	O	1
+statues	O	O	1
+du	O	B-PER	O
+temple.	O	O	1
+rticipation	O	O	1
+à	O	O	1
+la	O	O	1
+découverte	O	O	1
+du	O	O	1
+temple	O	O	1
+de	O	O	1
+Ramsès,	B-PER	O	O
+dirigée	O	O	1
+par	O	O	1
+Flinders	B-PER	O	O
+Petrie,	I-PER	O	O
+dont	O	O	1
+les	O	O	1
+bénéfices	O	O	1
+ont	O	O	1
+été	O	O	1
+en	O	O	1
+grande	O	O	1
+partie	O	O	1
+attribués	O	O	1
+au	O	O	1
+Dr.	O	O	1
+Spiegelberg	O	O	1
+pour	O	O	1
+étude.	O	O	1
+Voilà	O	O	1
+que	O	O	1
+se	O	O	1
+transforment	O	O	1
+les	O	O	1
+ambitions	O	O	1
+du	O	O	1
+programme	O	O	1
+d’acquisition	O	O	1
+envisagé	O	O	1
+au	O	O	1
+départ	O	O	1
+!	O	O	1
+En	O	O	1
+menant	O	O	1
+à	O	O	1
+titre	O	O	1
+personnel	O	B-PER	O
+des	O	O	1
+fouilles	O	O	1
+improvisées,	O	O	1
+le	O	O	1
+savant	O	O	1
+découvre	O	O	1
+des	O	O	1
+artefacts	O	O	1
+dont	O	O	1
+il	O	O	1
+fera	O	O	1
+don	O	O	1
+à	O	O	1
+la	O	O	1
+collection	O	O	1
+égyptienne	O	O	1
+de	O	O	1
+l’université.	O	O	1
+En	O	O	1
+outre,	O	O	1
+les	O	O	1
+possibilités	O	O	1
+offertes	O	O	1
+par	O	O	1
+le	O	O	1
+marché	O	O	1
+des	O	O	1
+antiquités	O	O	1
+le	O	O	1
+mènent	O	O	1
+bien	O	O	1
+au-delà	O	O	1
+de	O	O	1
+ses	O	O	1
+attentes	O	O	1
+:	O	O	1
+avec	O	O	1
+le	O	O	1
+budget	O	O	1
+à	O	O	1
+sa	O	O	1
+disposition,	O	O	1
+il	O	O	1
+se	O	O	1
+procure	O	O	1
+des	O	O	1
+pièces	O	O	1
+authentiques	O	O	1
+(doc.	O	O	1
+3).	O	O	1
+Des	O	O	1
+photographies	O	O	1
+sont	O	O	1
+certes	O	O	1
+achetées	O	O	1
+comme	O	O	1
+prévu	O	O	1
+-	O	O	1
+pour	O	O	1
+un	O	O	1
+coût	O	O	1
+de	O	O	1
+200	O	O	1
+marks	O	O	1
+-	O	O	1
+mais	O	O	1
+un	O	O	1
+montant	O	O	1
+de	O	O	1
+500	O	O	1
+marks	O	O	1
+est	O	O	1
+par	O	O	1
+ailleurs	O	O	1
+employé	O	O	1
+à	O	O	1
+acquérir	O	O	1
+«	O	O	1
+une	O	O	1
+série	O	O	1
+de	O	O	1
+beaux	O	O	1
+bronzes,	O	O	1
+reliefs	O	O	1
+en	O	O	1
+pierre	O	O	1
+et	O	O	1
+céramiques	O	O	1
+».	O	O	1
+Les	O	O	1
+objectifs	O	O	1
+poursuivis	O	O	1
+grâce	O	O	1
+à	O	B-PER	O
+l’enrichissement	O	O	1
+de	O	O	1
+la	O	O	1
+collection	O	O	1
+s’élargissent	O	O	1
+également	O	O	1
+:	O	O	1
+«	O	O	1
+Avec	O	O	1
+une	O	O	1
+somme	O	O	1
+dont	O	O	1
+le	O	O	1
+montant	O	O	1
+évalué	O	O	1
+n’est	O	O	1
+pas	O	O	1
+trop	O	O	1
+élevé,	O	O	1
+(Spiegelberg)	O	O	1
+se	O	O	1
+fait	O	O	1
+fort	O	O	1
+de	O	O	1
+former	O	O	1
+une	O	O	1
+collection	O	O	1
+qui	O	O	1
+non	O	O	1
+seulement	O	O	1
+satisferait	O	O	1
+aux	O	O	1
+objectifs	O	O	1
+d’enseignement	O	O	1
+à	O	O	1
+venir,	O	O	1
+mais	O	O	1
+également	O	O	1
+-	O	B-PER	O
+en	O	I-PER	O
+conjonction	O	O	1
+avec	O	O	1
+les	O	O	1
+moulages	O	O	1
+et	O	O	1
+les	O	O	1
+photographies	O	O	1
+déjà	O	O	1
+disponibles	O	O	1
+-	O	O	1
+pourrait	O	O	1
+rayonner	O	O	1
+dans	O	O	1
+des	O	B-PER	O
+cercles	O	O	1
+plus	O	O	1
+larges	O	O	1
+»	O	O	1
+(doc.	O	O	1
+3).	O	O	1
+À	O	O	1
+la	O	O	1
+finalité	O	O	1
+proprement	O	O	1
+universitaire	O	O	1
+commence	O	O	1
+à	O	O	1
+se	O	O	1
+superposer,	O	O	1
+en	O	B-LOC	O
+filigrane,	O	O	1
+une	O	O	1
+volonté	O	O	1
+de	O	O	1
+diffuser	O	O	1
+la	O	O	1
+richesse	O	O	1
+d’un	O	O	1
+patrimoine	O	O	1
+scientifique	O	O	1
+au-delà	O	O	1
+des	O	O	1
+cénacles	O	O	1
+spécialisés,	O	O	1
+voire	O	O	1
+d’inscrire	O	O	1
+la	O	O	1
+recherche	O	O	1
+égyptologique	O	O	1
+dans	O	O	1
+le	O	O	1
+cadre	O	O	1
+d’une	O	O	1
+politique	O	O	1
+de	O	O	1
+prestige	O	O	1
+culturel.	O	O	1
+La	O	O	1
+composition	O	O	1
+d’une	O	O	1
+équipe	O	O	1
+Le	O	O	1
+crédit	O	O	1
+de	O	O	1
+12	O	O	1
+000	O	O	1
+marks	O	O	1
+demandé	O	O	1
+en	O	O	1
+mars	O	O	1
+1898	O	O	1
+en	O	O	1
+vue	O	O	1
+d’acheter	O	O	1
+des	O	O	1
+papyrus	O	O	1
+fait	O	O	1
+exploser	O	O	1
+l’échelle	O	O	1
+des	O	O	1
+moyens	O	O	1
+sollicités.	O	O	1
+Lorsque	O	O	1
+des	O	O	1
+scientifiques	O	O	1
+souhaitent	O	O	1
+faire	O	O	1
+financer	O	O	1
+un	O	O	1
+programme	O	O	1
+de	O	O	1
+recherche,	O	O	1
+ils	O	O	1
+doivent	O	O	1
+soigner	O	O	1
+la	O	B-PER	O
+présentation	O	O	1
+de	O	O	1
+leur	O	O	1
+équipe	O	O	1
+pour	O	O	1
+convaincre	O	O	1
+que	O	O	1
+le	O	O	1
+projet	O	O	1
+réunit	O	B-PER	O
+toutes	O	O	1
+les	O	O	1
+conditions	O	O	1
+nécessaires	O	B-PER	O
+pour	O	O	1
+aboutir	O	O	1
+grâce	O	O	1
+à	O	O	1
+leur	O	O	1
+expérience	O	O	1
+et	O	O	1
+aux	O	O	1
+compétences	O	O	1
+réunies.	O	O	1
+Dans	O	O	1
+le	O	O	1
+tandem	O	O	1
+strasbourgeois,	O	O	1
+«	O	O	1
+le	O	O	1
+Dr.	O	O	1
+Spiegelberg	O	O	1
+s’est	O	O	1
+rendu	O	O	1
+lui-même,	O	O	1
+voici	O	O	1
+deux	O	O	1
+ans,	O	O	1
+pendant	O	O	1
+une	O	O	1
+assez	O	O	1
+longue	O	O	1
+période	O	O	1
+en	O	O	1
+Égypte	B-LOC	O	O
+et	O	O	1
+est	O	O	1
+préparé	O	O	1
+à	O	O	1
+une	O	O	1
+telle	O	O	1
+entreprise	O	O	1
+grâce	O	O	1
+à	O	O	1
+sa	O	O	1
+connaissance	O	O	1
+du	O	O	1
+pays	O	O	1
+et	O	O	1
+de	O	O	1
+la	O	O	1
+population	O	O	1
+et	O	O	1
+grâce	O	O	1
+à	O	O	1
+ses	O	O	1
+acquisitions	O	O	1
+pour	O	O	1
+la	O	O	1
+collection	O	O	1
+égyptienne	O	O	1
+»	O	O	1
+(doc.	B-LOC	O	O
+5).	I-LOC	O	O
+Quant	I-LOC	O	O
+à	O	O	1
+Reitzenstein	B-PER	O	O
+,	O	O	1
+ses	O	O	1
+compétences	O	O	1
+de	O	O	1
+philologue	O	O	1
+classique	O	O	1
+assureront	O	O	1
+«	O	O	1
+la	O	O	1
+possibilité	O	O	1
+d’acquérir	O	O	1
+aussi	O	O	1
+les	O	O	1
+papyrus	O	O	1
+grecs	O	O	1
+selon	O	O	1
+un	O	O	1
+choix	O	O	1
+également	O	O	1
+opportun	O	O	1
+».	B-PER	B-PER	1
+À	O	O	1
+cela	O	O	1
+s’ajoute,	O	O	1
+vraisemblablement,	O	O	1
+le	O	O	1
+fait	O	O	1
+que	O	O	1
+son	O	O	1
+statut	O	O	1
+de	O	O	1
+«	O	O	1
+professeur	O	B-PER	O
+ordinaire	O	I-PER	O
+»	O	O	1
+garantit	O	O	1
+à	O	O	1
+l’expédition	O	O	1
+un	O	O	1
+label	O	O	1
+académique,	O	B-LOC	O
+dont	O	O	1
+ne	O	O	1
+peut	O	O	1
+se	O	O	1
+prévaloir	O	O	1
+son	O	O	1
+jeune	O	O	1
+collègue	O	O	1
+Privatdozent	B-LOC	O	O
+-	O	O	1
+du	O	O	1
+reste,	O	O	1
+le	O	O	1
+ministère	O	O	1
+signifiera	O	O	1
+spécifiquement	O	O	1
+son	O	O	1
+acceptation	O	O	1
+au	O	O	1
+professeur,	O	O	1
+à	O	O	1
+charge	O	O	1
+de	O	O	1
+transmettre	O	O	1
+l’heureuse	O	O	1
+nouvelle	O	O	1
+au	O	O	1
+co-équipier	O	O	1
+non	O	O	1
+titulaire.	O	O	1
+Quelle	O	O	1
+fut	O	O	1
+la	O	O	1
+part	O	O	1
+respective	O	O	1
+des	O	O	1
+deux	O	O	1
+hommes	O	O	1
+dans	O	O	1
+la	O	O	1
+conception	O	O	1
+du	O	O	1
+projet	O	O	1
+?	O	O	1
+Si	O	O	1
+la	O	O	1
+demande	O	O	1
+de	O	O	1
+crédit	O	O	1
+est	O	O	1
+signée	O	O	1
+conjointement	O	O	1
+par	O	O	1
+Reitzenstein	B-PER	O	O
+et	O	O	1
+Spiegelberg	B-PER	O	O
+(doc.	O	O	1
+5),	B-PER	O	O
+le	O	B-PER	O
+manuscrit	O	O	1
+est	O	O	1
+écrit	O	O	1
+de	O	O	1
+la	O	O	1
+plume	O	O	1
+du	O	O	1
+premier	O	O	1
+-	O	O	1
+façon	O	O	1
+protocolaire	O	O	1
+de	O	O	1
+fiabiliser	O	O	1
+la	O	O	1
+requête	O	O	1
+grâce	O	O	1
+à	O	O	1
+l’autorité	O	O	1
+du	O	O	1
+professeur	O	O	1
+?	O	O	1
+La	O	O	1
+configuration	O	O	1
+inverse	O	O	1
+s’observe	O	O	1
+au	O	O	1
+retour	O	O	1
+de	O	O	1
+la	O	O	1
+mission,	O	O	1
+en	O	O	1
+mai	O	O	1
+1899,	O	O	1
+car	O	O	1
+on	O	O	1
+reconnaît,	O	O	1
+dans	O	O	1
+le	O	O	1
+rapport	O	O	1
+(doc.	O	O	1
+7),	O	O	1
+l’écriture	O	O	1
+de	O	O	1
+Spiegelberg	B-PER	O	O
+.	O	O	1
+Il	O	O	1
+s’agit	O	O	1
+désormais,	O	O	1
+peut-être,	O	O	1
+de	O	O	1
+mettre	O	O	1
+en	O	O	1
+évidence	O	O	1
+le	O	O	1
+candidat	O	O	1
+à	O	O	1
+une	O	O	1
+charge	O	O	1
+de	O	O	1
+professeur	O	O	1
+extraordinaire,	O	O	1
+à	O	O	1
+moins,	O	O	1
+plus	O	O	1
+prosaïquement,	O	O	1
+que	O	O	1
+la	O	O	1
+sérieuse	O	O	1
+maladie	O	O	1
+dont	O	O	1
+souffre	O	O	1
+Reitzenstein	B-PER	O	O
+ne	O	O	1
+l’ait	O	O	1
+contraint	O	O	1
+à	O	O	1
+céder	O	O	1
+la	O	O	1
+plume.	O	O	1
+Les	O	O	1
+deux	O	O	1
+auteurs	O	O	1
+doivent	O	O	1
+avoir	O	O	1
+construit	O	O	1
+l’argumentation	O	O	1
+en	O	O	1
+commun,	O	O	1
+en	O	O	1
+fonction	O	O	1
+de	O	O	1
+leurs	O	B-PER	O
+compétences	O	O	1
+respectives.	O	O	1
+Mais	O	O	1
+c’est	O	O	1
+évidemment	O	O	1
+la	O	O	1
+précédente	O	O	1
+expédition	O	O	1
+de	O	O	1
+Spiegelberg	O	O	1
+,	O	O	1
+et	O	O	1
+sa	O	O	1
+découverte	O	O	1
+des	O	O	1
+cours	O	B-PER	O
+favorables	O	O	1
+du	O	O	1
+marché	O	O	1
+des	O	O	1
+antiquités,	O	O	1
+qui	O	B-LOC	O
+inspirèrent	O	O	1
+l’ambition	O	O	1
+de	O	O	1
+créer	O	O	1
+une	O	B-LOC	O
+prestigieuse	O	O	1
+collection	O	O	1
+de	O	O	1
+papyrus.	O	O	1
+D’après	O	O	1
+les	O	O	1
+publications	O	O	1
+dont	O	O	1
+Reitzenstein	B-PER	O	O
+pouvait	O	O	1
+s’autoriser	O	O	1
+au	O	O	1
+moment	O	O	1
+de	O	O	1
+la	O	O	1
+rédaction	O	O	1
+du	O	O	1
+projet,	O	O	1
+ses	O	O	1
+thématiques	O	O	1
+de	O	O	1
+recherche	O	O	1
+n’étaient	O	O	1
+pas	O	O	1
+spécifiquement	O	O	1
+orientées	O	O	1
+vers	O	O	1
+la	O	O	1
+papyrologie.	O	O	1
+Cependant,	O	O	1
+il	O	O	1
+accepta	O	O	1
+volontiers	O	O	1
+de	O	O	1
+s’associer	O	O	1
+à	O	O	1
+l’entreprise	O	B-PER	O
+de	O	I-PER	O
+son	O	O	1
+cadet,	O	O	1
+«	O	O	1
+dans	O	O	1
+l’espoir	O	O	1
+de	O	O	1
+rendre	O	O	1
+un	O	O	1
+service	O	O	1
+à	O	O	1
+la	O	O	1
+science	O	O	1
+allemande	O	O	1
+».	B-PER	O	O
+C’est	I-PER	O	O
+en	O	O	1
+effet	O	B-LOC	O
+à	O	O	1
+Spiegelberg	B-PER	O	O
+,	O	O	1
+précise-t-il	O	O	1
+en	O	O	1
+1901,	O	O	1
+que	O	O	1
+revient	O	O	1
+le	O	O	1
+mérite	O	O	1
+d’avoir	O	O	1
+conçu	O	O	1
+le	O	O	1
+projet	O	O	1
+de	O	O	1
+fonder	O	O	1
+une	O	O	1
+collection	O	O	1
+de	O	O	1
+papyrus	O	O	1
+à	O	O	1
+Strasbourg	B-LOC	O	O
+,	O	O	1
+afin	O	O	1
+de	O	O	1
+trouver	O	O	1
+un	O	O	1
+«	O	O	1
+remplacement	O	O	1
+pour	O	O	1
+les	O	O	1
+trésors	O	O	1
+qui	O	O	1
+furent	O	O	1
+détruits	O	O	1
+par	O	O	1
+des	O	O	1
+boulets	O	O	1
+allemands	O	O	1
+en	O	O	1
+l’année	O	O	1
+1870,	O	O	1
+à	O	O	1
+la	O	B-PER	O
+suite	O	O	1
+d’un	O	O	1
+malheureux	O	O	1
+hasard	O	O	1
+»	O	O	1
+R.	O	O	1
+Reitzenstein,	B-PER	O	O
+Zwei	I-PER	O	O
+religionsgeschichtliche	O	O	1
+Fragen	O	O	1
+nach	O	O	1
+ungedruckten	O	O	1
+griechischen	O	O	1
+Texten	B-PER	O	O
+der	I-PER	O	O
+Strassburger	I-PER	O	O
+Bibliothek,	O	O	1
+Strasbourg,	B-LOC	O	O
+1901,	O	O	1
+p.	O	O	1
+V	O	O	1
+.	O	O	1
+L’objectif	O	O	1
+politique	O	O	1
+et	O	O	1
+patrimonial	O	O	1
+d’une	O	O	1
+«	O	O	1
+bibliothèque	O	O	1
+de	O	O	1
+papyrus	O	O	1
+»	O	O	1
+En	O	O	1
+appoint	O	O	1
+à	O	O	1
+l’intérêt	O	O	1
+proprement	O	O	1
+scientifique	O	O	1
+d’un	O	O	1
+projet,	O	O	1
+il	O	O	1
+est	O	O	1
+de	O	O	1
+bonne	O	O	1
+méthode,	O	O	1
+pour	O	O	1
+convaincre	O	O	1
+au-delà	O	O	1
+du	O	O	1
+cercle	O	O	1
+des	O	O	1
+spécialistes,	O	O	1
+de	O	O	1
+le	O	O	1
+placer	O	O	1
+sous	O	O	1
+les	O	O	1
+auspices	O	O	1
+de	O	O	1
+valeurs	O	O	1
+consensuelles	O	O	1
+qui	O	O	1
+transcendent	O	O	1
+les	O	O	1
+objectifs	O	O	1
+immédiats	O	O	1
+poursuivis	O	O	1
+par	O	O	1
+la	O	O	1
+recherche	O	O	1
+savante.	O	O	1
+En	O	O	1
+l’occurrence,	O	O	1
+Reitzenstein	O	O	1
+et	O	O	1
+Spiegelberg	B-PER	O	O
+n’hésitent	O	O	1
+pas	O	O	1
+à	O	O	1
+inscrire	O	O	1
+leur	O	O	1
+action	O	O	1
+dans	O	O	1
+l’esprit	O	O	1
+et	O	O	1
+dans	O	O	1
+la	O	O	1
+continuité	O	O	1
+de	O	O	1
+l’âge	O	O	1
+d’or	O	B-LOC	O
+des	O	O	1
+Temps	O	O	1
+modernes,	O	O	1
+celui	O	O	1
+du	O	O	1
+renouveau	O	O	1
+de	O	O	1
+la	O	O	1
+philologie	O	O	1
+occidentale	O	O	1
+autour	O	O	1
+de	O	O	1
+la	O	O	1
+cause	O	O	1
+commune	O	O	1
+de	O	O	1
+l’exhumation	O	O	1
+et	O	O	1
+de	O	O	1
+l’édition	O	O	1
+de	O	O	1
+manuscrits	O	O	1
+grecs	O	O	1
+:	O	O	1
+«	O	O	1
+Cela	O	O	1
+nous	O	O	1
+remémore	O	O	1
+l’époque	O	O	1
+des	O	O	1
+Humanistes,	O	O	1
+où	O	O	1
+les	O	O	1
+trésors	O	O	1
+de	O	O	1
+bibliothèques	O	O	1
+helléniques	O	O	1
+firent	O	O	1
+revivre	O	O	1
+les	O	O	1
+études	O	O	1
+de	O	O	1
+l’Occident	O	O	1
+et	O	O	1
+où	O	O	1
+princes	O	O	1
+et	O	O	1
+villes,	O	O	1
+dans	O	O	1
+un	O	O	1
+esprit	O	O	1
+de	O	O	1
+compétition,	O	O	1
+prenaient	O	O	1
+part	O	O	1
+à	O	O	1
+l’acquisition	O	O	1
+de	O	O	1
+ces	O	O	1
+trésors	O	O	1
+»	O	O	1
+(doc.	O	O	1
+5).	B-PER	O	O
+Le	I-PER	O	O
+vocabulaire	I-PER	O	O
+employé,	O	O	1
+«	O	O	1
+princes	O	O	1
+et	O	O	1
+villes	O	O	1
+»,	B-LOC	O	O
+n’est	O	O	1
+pas	O	O	1
+innocent.	O	O	1
+On	O	O	1
+rappellera	O	O	1
+en	O	O	1
+effet	O	O	1
+que	O	O	1
+le	O	O	1
+gouverneur	O	O	1
+de	O	B-PER	O
+l’	O	O	1
+Alsace	B-LOC	O	O
+-	O	O	1
+Lorraine	B-LOC	O	O
+,	O	O	1
+membre	O	O	1
+d’une	O	O	1
+vieille	O	O	1
+famille	O	O	1
+princière,	O	O	1
+est	O	O	1
+lui-même	O	O	1
+prince	O	O	1
+de	O	O	1
+Hohenlohe-Langenburg.	B-PER	O	O
+Quant	I-PER	O	O
+aux	O	O	1
+deniers	O	O	1
+publics	O	O	1
+dont	O	O	1
+souhaitent	O	O	1
+disposer	O	O	1
+les	O	O	1
+demandeurs,	O	O	1
+ils	O	O	1
+sont	O	O	1
+prélevés	O	O	1
+sur	O	O	1
+les	O	O	1
+impôts	O	O	1
+des	O	O	1
+contribuables	O	O	1
+de	O	O	1
+la	B-LOC	O	O
+Terre	I-LOC	O	O
+d’empire	O	O	1
+et	O	O	1
+destinés	O	O	1
+à	O	O	1
+stimuler	O	O	1
+le	O	O	1
+rayonnement	O	O	1
+de	O	O	1
+sa	O	O	1
+capitale,	O	O	1
+Strasbourg	B-LOC	O	O
+,	O	O	1
+face	O	O	1
+à	O	O	1
+d’autres	O	O	1
+grandes	O	O	1
+cités	O	O	1
+culturelles	O	O	1
+allemandes	O	O	1
+-	O	O	1
+Berlin	B-LOC	O	O
+,	O	O	1
+Leipzig	B-LOC	O	O
+et	O	O	1
+Munich	B-LOC	O	O
+.	O	O	1
+En	O	O	1
+évoquant	O	O	1
+l’émulation	O	O	1
+des	O	O	1
+«	O	O	1
+princes	O	O	1
+»	O	O	1
+et	O	O	1
+des	O	O	1
+«	O	O	1
+cités	O	O	1
+»	O	O	1
+de	O	O	1
+la	O	O	1
+Renaissance,	B-LOC	O	O
+qui	O	O	1
+rehaussaient	O	O	1
+leur	O	O	1
+prestige	O	O	1
+culturel	O	O	1
+en	O	O	1
+enrichissant	O	O	1
+les	O	O	1
+réserves	O	O	1
+précieuses	O	O	1
+des	O	O	1
+bibliothèques,	O	O	1
+les	O	O	1
+deux	O	O	1
+signataires	O	O	1
+gratifient	O	O	1
+implicitement	O	O	1
+d’une	O	O	1
+comparaison	O	O	1
+élogieuse	O	O	1
+les	O	O	1
+destinataires	O	O	1
+de	O	O	1
+la	O	O	1
+requête.	O	B-PER	O
+Mais	O	I-PER	O
+le	O	O	1
+compliment	O	O	1
+est	O	O	1
+simultanément	O	O	1
+une	O	O	1
+élégante	O	O	1
+provocation,	O	O	1
+puisque	O	O	1
+pour	O	O	1
+le	O	O	1
+mériter,	O	O	1
+les	O	O	1
+autorités	O	O	1
+du	O	O	1
+Reichsland	B-LOC	O	O
+sont	O	O	1
+invitées	O	O	1
+à	O	O	1
+se	O	O	1
+montrer	O	O	1
+dignes	O	O	1
+de	O	O	1
+l’évergétisme	O	O	1
+culturel	O	O	1
+de	O	O	1
+leurs	O	O	1
+augustes	O	O	1
+prédécesseurs.	O	O	1
+Une	O	O	1
+référence	O	O	1
+historique	O	O	1
+en	O	O	1
+appelant	O	O	1
+naturellement	O	O	1
+une	O	O	1
+autre,	O	O	1
+l’argumentation	O	O	1
+du	O	O	1
+projet	O	O	1
+plonge	O	O	1
+ensuite	O	O	1
+ses	O	O	1
+racines	O	O	1
+dans	O	O	1
+un	O	O	1
+traumatisme	O	O	1
+patrimonial	O	O	1
+profond	O	O	1
+chez	O	O	1
+les	O	O	1
+Alsaciens	B-LOC	O	O
+-	O	O	1
+et	O	O	1
+dans	O	O	1
+un	O	O	1
+sentiment	O	O	1
+de	O	O	1
+culpabilité	O	O	1
+proportionnel	O	O	1
+chez	O	O	1
+les	O	O	1
+Allemands,	O	O	1
+celui	O	O	1
+de	O	O	1
+la	O	O	1
+perte	O	O	1
+des	O	O	1
+précieux	O	O	1
+manuscrits	O	O	1
+conservés	O	O	1
+jadis	O	O	1
+dans	O	O	1
+les	O	O	1
+bibliothèques	O	O	1
+de	O	O	1
+l’église	O	O	1
+des	O	O	1
+Dominicains,	B-LOC	O	O
+incendiée	O	O	1
+par	O	O	1
+les	O	O	1
+obus	O	O	1
+des	O	O	1
+assaillants	O	O	1
+lors	O	O	1
+du	O	O	1
+siège	O	O	1
+de	O	O	1
+Strasbourg	O	O	1
+en	O	O	1
+1870	O	O	1
+Fr.	O	O	1
+Igersheim,	O	O	1
+L’Alsace	O	O	1
+et	O	O	1
+ses	O	O	1
+historiens	O	O	1
+1680-1914.	O	O	1
+La	O	O	1
+fabrique	O	O	1
+des	O	O	1
+monuments,	O	O	1
+Strasbourg,	B-LOC	O	O
+2006,	O	O	1
+p.	O	O	1
+256-259	O	O	1
+:	O	O	1
+«	O	O	1
+Dans	O	O	1
+le	O	O	1
+Reichsland	B-LOC	O	O
+et	O	O	1
+à	O	O	1
+Strasbourg	B-LOC	O	O
+»,	O	O	1
+insistent	O	O	1
+les	O	O	1
+deux	O	O	1
+universitaires,	O	O	1
+«	O	O	1
+nous	O	B-PER	O
+avons	O	O	1
+une	O	O	1
+raison	O	O	1
+toute	O	O	1
+particulière	O	O	1
+de	O	O	1
+nous	O	O	1
+rappeler	O	O	1
+cette	O	O	1
+époque,	O	O	1
+parce	O	O	1
+qu’une	O	O	1
+riche	O	O	1
+bibliothèque	O	O	1
+humaniste	O	O	1
+a	O	O	1
+existé	O	O	1
+ici	O	O	1
+et	O	O	1
+n’a	O	O	1
+disparu	O	O	1
+que	O	O	1
+tout	O	O	1
+récemment.	O	O	1
+Un	O	O	1
+remplacement	O	O	1
+de	O	O	1
+celle-ci,	O	O	1
+d’une	O	O	1
+valeur	O	O	1
+comparable,	O	O	1
+s’acquerrait,	O	O	1
+selon	O	O	1
+notre	O	O	1
+conviction,	O	O	1
+encore	O	O	1
+sans	O	O	1
+un	O	O	1
+sacrifice	O	O	1
+trop	O	O	1
+important	O	O	1
+et	O	O	1
+de	O	O	1
+cette	O	O	1
+façon	O	O	1
+donnerait	O	O	1
+à	O	O	1
+notre	O	O	1
+bibliothèque	O	O	1
+splendidement	O	O	1
+développée	O	O	1
+-	O	O	1
+qui	O	O	1
+du	O	O	1
+point	O	O	1
+de	O	O	1
+vue	O	O	1
+des	O	O	1
+imprimés	O	B-PER	O
+ne	O	I-PER	O
+le	O	O	1
+cède	O	O	1
+qu’à	O	O	1
+Berlin	B-LOC	O	O
+,	O	O	1
+Leipzig	B-LOC	O	O
+et	O	O	1
+Munich	B-LOC	O	O
+-	O	O	1
+ce	O	O	1
+qui	O	O	1
+lui	O	O	1
+manque	O	O	1
+encore	O	O	1
+toujours	O	O	1
+et	O	O	1
+qui	O	O	1
+si	O	B-PER	O
+souvent	O	O	1
+est	O	O	1
+amèrement	O	O	1
+regretté,	O	O	1
+y	O	O	1
+compris	O	O	1
+par	O	O	1
+ses	O	O	1
+directeurs	O	O	1
+».	B-PER	O	O
+Pour	O	O	1
+offrir	O	O	1
+à	O	O	1
+Strasbourg	B-LOC	O	O
+un	O	O	1
+«	O	O	1
+Ersatz	B-LOC	B-PER	O
+»	O	I-PER	O
+des	O	O	1
+originaux	O	B-PER	O
+disparus,	O	I-PER	O
+si	O	O	1
+l’on	O	O	1
+suit	O	O	1
+l’argumentation	O	O	1
+déployée,	O	O	1
+il	O	O	1
+suffirait	O	O	1
+de	O	O	1
+s’approvisionner	O	B-PER	O
+auprès	O	O	1
+des	O	O	1
+gisements	O	O	1
+de	O	O	1
+manuscrits	O	O	1
+inédits	O	O	1
+auxquels	O	O	1
+la	O	O	1
+papyrologie,	O	O	1
+jeune	O	O	1
+discipline,	O	O	1
+donne	O	O	1
+désormais	O	O	1
+accès.	O	O	1
+L’objectif	O	O	1
+scientifique	O	O	1
+d’une	O	O	1
+«	O	O	1
+bibliothèque	O	O	1
+de	O	O	1
+papyrus	O	O	1
+»	O	O	1
+À	O	O	1
+leur	O	O	1
+interlocuteur	O	O	1
+non	O	O	1
+spécialiste,	O	O	1
+les	O	O	1
+auteurs	O	B-PER	O
+du	O	O	1
+projet	O	B-PER	O
+commencent	O	O	1
+par	O	O	1
+dresser	O	O	1
+un	O	O	1
+tableau	O	O	1
+synthétique	O	O	1
+des	O	O	1
+progrès	O	O	1
+spectaculaires	O	O	1
+auxquels	O	O	1
+concourt	O	O	1
+la	O	O	1
+papyrologie	O	O	1
+dans	O	O	1
+le	O	O	1
+développement	O	O	1
+des	O	O	1
+sciences	O	O	1
+de	O	O	1
+l’Antiquité	O	O	1
+-	O	O	1
+un	O	O	1
+exposé	O	O	1
+fondé	O	O	1
+sur	O	O	1
+des	O	O	1
+publications	O	O	1
+récentes,	O	O	1
+qui	O	O	1
+pourrait	O	O	1
+introduire	O	B-PER	O
+un	O	I-PER	O
+manuel	O	I-PER	O
+rédigé	O	O	1
+à	O	O	1
+la	O	O	1
+fin	O	O	1
+du	O	O	1
+XIXe	O	O	1
+siècle	O	O	1
+:	O	O	1
+«	O	O	1
+Les	O	B-PER	O
+magnifiques	O	I-PER	O
+découvertes	O	O	1
+de	O	O	1
+papyrus	O	O	1
+qui	O	O	1
+ont	O	O	1
+été	O	O	1
+faites	O	O	1
+en	O	O	1
+Égypte	B-LOC	O	O
+dans	O	O	1
+les	O	O	1
+dix	O	O	1
+dernières	O	O	1
+années	O	O	1
+ont	O	O	1
+apporté	O	O	1
+un	O	B-PER	O
+enrichissement	O	I-PER	O
+insoupçonné	O	O	1
+à	O	O	1
+toute	O	O	1
+une	O	O	1
+série	O	O	1
+de	O	O	1
+sciences.	O	O	1
+Sans	O	O	1
+parler	O	O	1
+de	O	O	1
+l’archéologie	O	O	1
+égyptienne,	O	O	1
+qui	O	O	1
+leur	O	O	1
+doit	O	O	1
+un	O	O	1
+énorme	O	O	1
+essor	O	O	1
+dans	O	O	1
+tous	O	O	1
+ses	O	O	1
+domaines,	O	O	1
+la	O	O	1
+philologie	O	O	1
+classique	O	O	1
+a	O	O	1
+accueilli	O	B-PER	O
+une	O	I-PER	O
+série	O	O	1
+d’oeuvres	O	O	1
+écrites	O	O	1
+inconnues	O	O	1
+d’une	O	O	1
+grande	O	O	1
+importance,	O	B-PER	O
+des	O	I-PER	O
+discours	O	O	1
+du	O	O	1
+temps	O	O	1
+de	O	O	1
+l’apogée	O	O	1
+d’	O	O	1
+Athènes	B-LOC	O	O
+,	O	O	1
+des	O	O	1
+descriptions	O	O	1
+de	O	O	1
+sa	O	O	1
+constitution	O	O	1
+et	O	O	1
+de	O	O	1
+son	O	O	1
+histoire,	O	O	1
+des	O	O	1
+tableaux	O	O	1
+de	O	O	1
+genre	O	O	1
+inspirés	O	O	1
+de	O	O	1
+la	O	O	1
+vie	O	O	1
+quotidienne	O	O	1
+de	O	O	1
+l’époque	O	O	1
+alexandrine	O	O	1
+et	O	B-PER	O
+même,	O	O	1
+récemment,	O	O	1
+les	O	O	1
+chants	O	O	1
+puissants	O	O	1
+d’un	O	O	1
+rival	O	O	1
+de	O	O	1
+Pindare	B-PER	O	O
+à	O	O	1
+l’époque	O	O	1
+des	O	O	1
+guerres	O	O	1
+médiques	O	O	1
+;	O	O	1
+l’historien	O	O	1
+a	O	O	1
+conservé	O	O	1
+l’administration	O	O	1
+générale	O	O	1
+de	O	O	1
+l’	O	O	1
+Égypte	O	O	1
+grecque	O	O	1
+et	O	O	1
+romaine	O	O	1
+à	O	O	1
+travers	O	O	1
+la	O	O	1
+réglementation	O	O	1
+des	O	O	1
+impôts	O	O	1
+du	O	O	1
+deuxième	O	O	1
+Ptolémée,	O	O	1
+le	O	O	1
+théologien,	O	O	1
+d’inestimables	O	O	1
+restes	O	O	1
+d’anciens	O	O	1
+Évangiles	O	O	1
+et	O	O	1
+d’écrits	O	O	1
+du	O	O	1
+premier	O	O	1
+christianisme,	O	O	1
+le	O	O	1
+juriste,	O	O	1
+des	O	O	1
+matériaux	O	O	1
+presque	O	O	1
+incommensurables	O	O	1
+pour	O	O	1
+des	O	O	1
+études	O	O	1
+de	O	O	1
+droit	O	O	1
+comparé,	O	O	1
+au	O	O	1
+traitement	O	O	1
+desquels	O	O	1
+des	O	O	1
+hommes	O	O	1
+comme	O	O	1
+Mommsen,	O	O	1
+Mitteis	O	O	1
+et	O	O	1
+d’autres	O	O	1
+travaillent	O	O	1
+activement.	O	O	1
+Même	O	O	1
+le	O	O	1
+médecin	O	O	1
+a	O	O	1
+pu	O	O	1
+bénéficier	O	B-LOC	O
+des	O	O	1
+plus	O	O	1
+précieux	O	O	1
+éclaircissements	O	O	1
+sur	O	O	1
+l’histoire	O	O	1
+et	O	O	1
+le	O	O	1
+développement	O	O	1
+de	O	O	1
+sa	O	O	1
+science	O	O	1
+».	O	O	1
+Plus	O	O	1
+spécifiquement,	O	O	1
+Reitzenstein	B-PER	O	O
+et	O	O	1
+Spiegelberg	B-PER	O	O
+en	O	O	1
+viennent	O	O	1
+à	O	O	1
+exposer	O	O	1
+les	O	O	1
+caractéristiques	O	O	1
+et	O	O	1
+les	O	O	1
+objectifs	O	O	1
+auxquels,	O	O	1
+à	O	O	1
+leurs	O	O	1
+yeux,	O	O	1
+devrait	O	O	1
+répondre	O	O	1
+la	O	O	1
+création	O	O	1
+d’une	O	O	1
+collection	O	O	1
+papyrologique	O	O	1
+au	O	B-PER	O
+sein	O	O	1
+de	O	O	1
+la	O	O	1
+KULB	B-LOC	O	O
+:	O	O	1
+«	O	O	1
+Une	O	O	1
+bibliothèque	O	O	1
+de	O	O	1
+papyrus	O	O	1
+a,	O	O	1
+de	O	O	1
+par	O	O	1
+sa	O	O	1
+nature,	O	O	1
+un	O	O	1
+double	O	O	1
+but.	O	O	1
+Elle	O	O	1
+devrait,	O	O	1
+si	O	O	1
+possible,	O	O	1
+comprendre	O	O	1
+d’une	O	O	1
+part	O	O	1
+des	O	O	1
+oeuvres	O	O	1
+littéraires,	O	O	1
+dont	O	O	1
+chacune	O	O	1
+suffirait	O	O	1
+déjà	O	O	1
+à	O	O	1
+classer,	O	O	1
+aussi	O	O	1
+de	O	O	1
+ce	O	O	1
+point	O	O	1
+de	O	O	1
+vue,	O	O	1
+la	O	O	1
+bibliothèque	O	O	1
+qui	O	O	1
+la	O	O	1
+possède	O	O	1
+parmi	O	O	1
+les	O	O	1
+premières	O	O	1
+et	O	O	1
+les	O	O	1
+plus	O	O	1
+importantes	O	O	1
+d’	O	O	1
+Allemagne	B-LOC	O	O
+».	O	O	1
+Dans	O	O	1
+la	O	O	1
+continuité	O	O	1
+de	O	O	1
+la	O	O	1
+tradition	O	O	1
+humaniste	O	O	1
+attachée	O	O	1
+à	O	O	1
+l’étude	O	O	1
+des	O	O	1
+«	O	O	1
+codices	O	O	1
+»	O	O	1
+littéraires,	O	O	1
+la	O	O	1
+place	O	O	1
+d’honneur,	O	O	1
+sur	O	O	1
+l’échelle	O	O	1
+du	O	O	1
+prestige	O	O	1
+culturel,	O	O	1
+est	O	O	1
+donc	O	O	1
+réservée	O	O	1
+aux	O	O	1
+oeuvres	O	O	1
+des	O	O	1
+grands	O	O	1
+auteurs	O	O	1
+classiques	O	O	1
+Sur	O	O	1
+la	O	O	1
+prééminence,	O	O	1
+aux	O	O	1
+yeux	O	O	1
+des	O	O	1
+philologues,	O	O	1
+des	O	O	1
+oeuvres	O	O	1
+littéraires	O	O	1
+sur	O	O	1
+les	O	O	1
+textes	O	O	1
+documentaires	O	O	1
+au	O	O	1
+XIXe	O	B-PER	O
+siècle,	O	I-PER	O
+P.	B-PER	O	O
+van	I-PER	O	O
+Minnen,	I-PER	O	O
+«	O	B-PER	O
+The	O	O	1
+Origin	O	O	1
+and	O	O	1
+Future	O	O	1
+of	O	O	1
+Papyrology	O	O	1
+from	O	O	1
+Mommsen	O	O	1
+and	O	O	1
+Wilamowitz	O	O	1
+to	O	O	1
+the	O	O	1
+Present,	O	O	1
+from	O	O	1
+Altertumswissenschaft	O	O	1
+to	O	O	1
+Cultural	O	O	1
+Studies	O	O	1
+»,	O	O	1
+in	O	O	1
+Proceedings	O	O	1
+of	O	O	1
+the	O	O	1
+20th	O	O	1
+International	O	O	1
+Congress	O	O	1
+of	O	O	1
+Papyrology	O	O	1
+(23-29	O	O	1
+August	O	O	1
+1992),	O	O	1
+Copenhague	O	O	1
+(1994),	O	O	1
+p.	O	O	1
+36-37.	O	O	1
+.	O	O	1
+Mais,	B-PER	O	O
+les	O	O	1
+signataires	O	O	1
+du	O	O	1
+projet	O	O	1
+en	O	O	1
+sont	O	O	1
+conscients,	O	O	1
+ils	O	O	1
+ne	O	O	1
+peuvent	O	O	1
+promettre	O	O	1
+qu’ils	O	O	1
+auront	O	O	1
+à	O	O	1
+coup	O	O	1
+sûr	O	O	1
+l’occasion	O	O	1
+d’acquérir	O	O	1
+une	O	O	1
+pièce	O	O	1
+maîtresse	O	O	1
+d’une	O	O	1
+telle	O	O	1
+valeur	O	O	1
+dans	O	O	1
+le	O	O	1
+courant	O	O	1
+du	O	O	1
+prochain	O	O	1
+hiver.	O	O	1
+Néanmoins,	B-LOC	O	O
+une	O	O	1
+péripétie	O	O	1
+-	O	O	1
+dont	O	O	1
+les	O	O	1
+archives	O	O	1
+du	O	O	1
+Kuratorium	O	O	1
+nous	O	O	1
+livrent	O	O	1
+le	O	O	1
+«	O	O	1
+scoop	O	O	1
+»	O	O	1
+à	O	O	1
+plus	O	O	1
+d’un	O	O	1
+siècle	O	O	1
+de	O	O	1
+distance	O	O	1
+-	O	O	1
+leur	O	O	1
+donne	O	O	1
+quelque	O	O	1
+espoir	O	O	1
+:	O	O	1
+«	O	O	1
+Le	O	O	1
+Dr.	O	O	1
+Reinhardt	O	O	1
+(leur	O	O	1
+contact	O	O	1
+au	O	O	1
+Caire	B-LOC	O	O
+)	O	O	1
+aurait	O	B-PER	O
+pu	O	O	1
+acquérir	O	O	1
+pour	O	O	1
+nous	O	O	1
+l’inestimable	O	O	1
+papyrus	O	O	1
+de	O	O	1
+Bacchylide	B-PER	O	O
+pour	O	O	1
+6	O	O	1
+000	O	O	1
+marks	O	O	1
+».	B-PER	O	O
+La	O	O	1
+découverte	O	O	1
+de	O	O	1
+ce	O	O	1
+texte	O	O	1
+dévoilant	O	O	1
+un	O	O	1
+pan	O	O	1
+entier	O	O	1
+d’une	O	O	1
+oeuvre	O	O	1
+perdue,	O	O	1
+finalement	O	O	1
+acheté	O	O	1
+pour	O	O	1
+le	O	O	1
+compte	O	O	1
+du	O	O	1
+British	B-LOC	O	O
+Museum	I-LOC	O	O
+et	O	O	1
+édité	O	O	1
+un	O	O	1
+an	O	O	1
+avant	O	O	1
+la	O	O	1
+rédaction	O	O	1
+du	O	O	1
+projet,	O	O	1
+avait	O	O	1
+immédiatement	O	O	1
+bénéficié	O	O	1
+d’un	O	O	1
+retentissement	O	O	1
+exceptionnel	O	O	1
+bien	O	O	1
+au-delà	O	O	1
+des	O	O	1
+milieux	O	O	1
+de	O	O	1
+la	O	O	1
+papyrologie.	O	B-PER	O
+Mais	O	I-PER	O
+qu’à	O	O	1
+cela	O	B-PER	O
+ne	O	I-PER	O
+tienne,	O	O	1
+l’occasion	O	O	1
+manquée	O	O	1
+est	O	O	1
+révélatrice	O	O	1
+de	O	O	1
+la	O	O	1
+nécessité	O	O	1
+urgente	O	O	1
+qu’il	O	O	1
+y	O	B-PER	O
+aurait	O	O	1
+de	O	O	1
+confier	O	O	1
+aux	O	O	1
+deux	O	B-PER	O
+Strasbourgeois	B-LOC	O	O
+des	O	O	1
+fonds	O	O	1
+suffisamment	O	O	1
+importants	O	B-PER	O
+pour	O	I-PER	O
+pouvoir	O	I-PER	O
+réagir	O	I-PER	O
+efficacement	O	I-PER	O
+aux	O	I-PER	O
+offres	O	O	1
+du	O	O	1
+marché	O	O	1
+:	O	O	1
+«	O	O	1
+Il	O	O	1
+s’agit	O	O	1
+pour	O	O	1
+de	O	O	1
+tels	O	O	1
+cas,	O	O	1
+où	O	O	1
+il	O	O	1
+est	O	O	1
+indispensable	O	O	1
+de	O	O	1
+sauter	O	O	1
+rapidement	O	O	1
+sur	O	O	1
+l’occasion,	O	O	1
+de	O	O	1
+disposer	O	O	1
+d’un	O	O	1
+crédit	O	O	1
+pour	O	O	1
+une	O	O	1
+assez	O	O	1
+grosse	O	O	1
+somme	O	O	1
+».	B-PER	O	O
+Le	I-PER	O	O
+second	I-PER	O	O
+objectif	O	O	1
+que	O	O	1
+devrait	O	O	1
+poursuivre	O	O	1
+la	O	O	1
+future	O	O	1
+collection	O	O	1
+strasbourgeoise	O	O	1
+serait	O	O	1
+de	O	O	1
+constituer	O	B-PER	O
+un	O	I-PER	O
+corpus	O	I-PER	O
+documentaire	O	I-PER	O
+polymorphe	O	I-PER	O
+:	O	I-PER	O
+«	O	O	1
+D’autre	O	O	1
+part,	O	B-PER	O
+une	O	I-PER	O
+telle	O	I-PER	O
+bibliothèque	O	I-PER	O
+de	O	O	1
+papyrus	O	O	1
+devrait	O	O	1
+aussi	O	O	1
+comprendre	O	O	1
+la	O	O	1
+multitude	O	O	1
+bigarrée	O	O	1
+de	O	O	1
+plus	O	O	1
+petites	O	O	1
+pièces	O	O	1
+écrites,	O	O	1
+documents	O	O	1
+privés	O	O	1
+et	O	O	1
+publics,	O	O	1
+comptes	O	O	1
+rendus,	O	O	1
+courriers,	O	O	1
+notes	O	O	1
+ou	O	O	1
+exercices	O	O	1
+scolaires,	O	O	1
+qui	O	O	1
+nous	O	O	1
+présentent	O	B-PER	O
+la	O	I-PER	O
+situation	O	O	1
+sociale,	O	O	1
+économique,	O	O	1
+culturelle	O	O	1
+et	O	O	1
+religieuse	O	O	1
+du	O	B-LOC	O
+plus	O	O	1
+lointain	O	O	1
+passé	O	O	1
+au	O	O	1
+travers	O	O	1
+d’une	O	O	1
+vision	O	O	1
+vivante	O	O	1
+et	O	O	1
+immédiate	O	O	1
+que	O	O	1
+l’on	O	O	1
+ne	O	O	1
+soupçonnerait	O	O	1
+pas	O	O	1
+et	O	O	1
+qui	O	O	1
+grâce	O	O	1
+à	O	O	1
+cela	O	O	1
+raniment	O	O	1
+la	O	O	1
+science	O	O	1
+».	B-PER	O	O
+En	O	O	1
+illustration	O	O	1
+de	O	O	1
+cette	O	O	1
+catégorie	O	O	1
+de	O	O	1
+documents,	O	O	1
+les	O	O	1
+collections	O	O	1
+déjà	O	O	1
+fameuses	O	O	1
+de	O	O	1
+Vienne	B-LOC	O	O
+et	O	O	1
+de	O	O	1
+Berlin	B-LOC	O	O
+sont	O	O	1
+alors	O	O	1
+citées	O	O	1
+en	O	O	1
+exemple	O	O	1
+pour	O	O	1
+la	O	O	1
+valeur	O	O	1
+qu’elles	O	O	1
+ont	O	O	1
+fondée	O	O	1
+sur	O	O	1
+des	O	O	1
+pièces	O	O	1
+manifestement	O	O	1
+présentées	O	O	1
+comme	O	O	1
+secondaires	O	O	1
+:	O	O	1
+«	O	O	1
+La	O	O	1
+collection	O	O	1
+de	O	O	1
+son	O	O	1
+Altesse	B-LOC	O	O
+impériale	I-LOC	O	O
+et	O	O	1
+royale	O	O	1
+l’archiduc	O	O	1
+Rainer,	B-LOC	O	O
+comme	O	O	1
+celle	O	O	1
+du	O	O	1
+musée	O	O	1
+de	O	O	1
+Berlin	B-LOC	O	O
+,	O	O	1
+ont	O	O	1
+eu	O	O	1
+un	O	O	1
+énorme	O	O	1
+impact	O	O	1
+et	O	O	1
+sont	O	O	1
+d’une	O	O	1
+grande	O	O	1
+importance,	O	O	1
+sans	O	O	1
+posséder	O	O	1
+une	O	O	1
+seule	O	O	1
+de	O	O	1
+ces	O	O	1
+pièces	O	O	1
+de	O	O	1
+premier	O	O	1
+rang	O	O	1
+».	O	O	1
+L’ombre	O	O	1
+d’un	O	O	1
+défi	O	B-PER	O
+point-elle	O	O	1
+derrière	O	O	1
+cet	O	O	1
+éloge	O	O	1
+à	O	O	1
+double	O	O	1
+tranchant	O	O	1
+-	O	O	1
+nous	O	O	1
+sommes	O	O	1
+avant	O	O	1
+l’expédition,	O	O	1
+Strasbourg	O	O	1
+peut	O	O	1
+encore	O	O	1
+espérer	O	O	1
+se	O	O	1
+distinguer	O	B-LOC	O
+face	O	O	1
+aux	O	O	1
+capitales	O	O	1
+de	O	O	1
+la	O	O	1
+papyrologie	O	O	1
+germanique	O	O	1
+grâce	O	O	1
+à	O	O	1
+une	O	O	1
+acquisition	O	O	1
+sensationnelle	O	O	1
+?	O	O	1
+Les	O	O	1
+candidats	O	O	1
+au	O	O	1
+voyage	O	O	1
+concluent	O	O	1
+ensuite	O	O	1
+leur	O	O	1
+programme	O	O	1
+prévisionnel	O	O	1
+par	O	O	1
+une	O	O	1
+réflexion	O	O	1
+véritablement	O	O	1
+prophétique	O	O	1
+pour	O	O	1
+le	O	O	1
+développement	O	O	1
+ultérieur	O	O	1
+du	O	O	1
+fonds	O	O	1
+strasbourgeois	O	O	1
+:	O	O	1
+«	O	O	1
+Sans	O	O	1
+compter	O	O	1
+que,	O	O	1
+dans	O	O	1
+cette	O	O	1
+diversité	O	O	1
+de	O	O	1
+petites	O	O	1
+pièces	O	O	1
+se	O	O	1
+trouvent	O	O	1
+toujours	O	O	1
+aussi	O	O	1
+des	O	O	1
+fragments	O	O	1
+plus	O	O	1
+courts	O	O	1
+d’oeuvres	O	O	1
+littéraires,	O	O	1
+qui	O	O	1
+ont	O	O	1
+déjà	O	O	1
+permis	O	O	1
+assez	O	O	1
+souvent	O	O	1
+des	O	O	1
+conclusions	O	O	1
+d’une	O	O	1
+grande	O	O	1
+portée	O	O	1
+sur	O	O	1
+des	O	O	1
+genres	O	O	1
+littéraires	O	O	1
+perdus	O	O	1
+».	B-PER	O	O
+Le	O	O	1
+lecteur	O	O	1
+d’aujourd’hui	O	O	1
+ne	O	O	1
+peut	O	O	1
+que	O	O	1
+sourire	O	O	1
+en	O	O	1
+songeant	O	O	1
+à	O	O	1
+L’Empédocle	B-PER	O	O
+de	I-PER	O	O
+Strasbourg,	I-PER	O	O
+dont	O	O	1
+les	O	O	1
+fragments	O	O	1
+à	O	O	1
+première	O	O	1
+vue	O	O	1
+modestes,	O	O	1
+achetés	O	O	1
+en	O	O	1
+1904	O	O	1
+par	O	O	1
+l’intermédiaire	O	O	1
+du	O	O	1
+Deutsches	B-LOC	O	O
+Papyruskartell,	I-LOC	O	O
+ne	O	O	1
+furent	O	O	1
+identifiés	O	O	1
+qu’en	O	O	1
+1994	O	O	1
+comme	O	O	1
+le	O	O	1
+seul	O	O	1
+témoin	O	O	1
+en	O	O	1
+tradition	O	O	1
+directe	O	O	1
+d’une	O	O	1
+oeuvre	O	O	1
+présocratique	O	O	1
+majeure	O	O	1
+A.	O	O	1
+Martin,	O	O	1
+O.	O	O	1
+Primavesi,	O	O	1
+L’Empédocle	O	O	1
+de	O	O	1
+Strasbourg	O	O	1
+(P.	O	B-LOC	O
+Strasb.	O	O	1
+gr.Inv.	O	O	1
+1665-1666).	O	O	1
+Introduction,	O	O	1
+édition	O	O	1
+et	O	O	1
+commentaire,	O	O	1
+Strasbourg,	B-LOC	O	O
+Berlin,	O	O	1
+New	B-LOC	O	O
+York,	I-LOC	O	O
+1999	I-LOC	O	O
+.	O	O	1
+Les	O	O	1
+conditions	O	O	1
+d’acquisition	O	O	1
+sur	O	O	1
+le	O	O	1
+terrain	O	O	1
+:	O	O	1
+le	O	O	1
+produit	O	O	1
+des	O	O	1
+fouilles	O	B-PER	O
+Les	O	O	1
+archives	O	O	1
+de	O	O	1
+la	O	O	1
+Kaiser-Wilhelms-Universität	O	O	1
+jettent	O	O	1
+quelques	O	O	1
+lueurs	O	O	1
+sur	O	O	1
+la	O	O	1
+façon	O	O	1
+dont	O	O	1
+Wilhelm	B-PER	O	O
+Spiegelberg	I-PER	O	O
+appréhendait	O	O	1
+le	O	O	1
+travail	O	O	1
+de	O	O	1
+terrain	O	O	1
+et	O	O	1
+sur	O	O	1
+les	O	O	1
+circonstances	O	O	1
+dans	O	O	1
+lesquelles	O	O	1
+il	O	O	1
+s’y	O	O	1
+approvisionnait	O	O	1
+au	O	O	1
+profit	O	O	1
+des	O	O	1
+fonds	O	O	1
+égyptiens	O	O	1
+de	O	O	1
+Strasbourg	O	O	1
+.	O	O	1
+Nous	O	O	1
+l’avons	O	O	1
+déjà	O	O	1
+vu,	O	O	1
+à	O	O	1
+l’occasion	O	O	1
+de	O	O	1
+son	O	O	1
+premier	O	O	1
+voyage,	O	O	1
+mener	O	O	1
+des	O	O	1
+fouilles	O	O	1
+personnelles	O	O	1
+improvisées	O	O	1
+(doc.	O	O	1
+3	O	O	1
+et	O	O	1
+4).	O	O	1
+Logeant	O	O	1
+dans	O	O	1
+une	O	O	1
+maison	O	O	1
+du	O	O	1
+hameau	O	O	1
+de	O	O	1
+Dra	B-LOC	O	O
+Abou	I-LOC	O	O
+el-Naga,	O	O	1
+dont	O	O	1
+l’habitat	O	O	1
+recouvre	O	O	1
+la	O	O	1
+nécropole	O	O	1
+thébaine	O	O	1
+sur	O	O	1
+les	O	O	1
+premières	O	O	1
+pentes	O	O	1
+de	O	O	1
+la	O	O	1
+montagne	B-LOC	O	O
+Libyque,	I-LOC	O	O
+il	O	O	1
+rayonne	O	O	1
+en	O	O	1
+réalité	O	O	1
+au	O	O	1
+départ	O	O	1
+de	O	O	1
+ce	O	O	1
+camp	O	O	1
+de	O	O	1
+base	O	O	1
+à	O	O	1
+la	O	O	1
+recherche	O	O	1
+d’inscriptions	O	O	1
+rupestres.	O	O	1
+Comme	O	O	1
+cela	O	O	1
+arrive	O	O	1
+à	O	O	1
+tout	O	O	1
+archéologue	O	O	1
+sillonnant	O	O	1
+la	O	O	1
+surface	O	O	1
+d’un	O	O	1
+site	O	O	1
+funéraire	O	O	1
+en	O	O	1
+Égypte	B-LOC	O	O
+,	O	O	1
+sa	O	O	1
+prospection	O	O	1
+pédestre	O	O	1
+le	O	O	1
+mène	O	O	1
+vraisemblablement	O	O	1
+à	O	O	1
+observer,	O	O	1
+traînant	O	O	1
+à	O	O	1
+même	O	O	1
+le	O	O	1
+sol,	O	O	1
+des	O	O	1
+fragments	O	O	1
+d’objets	O	O	1
+provenant	O	O	1
+du	O	O	1
+mobilier	O	O	1
+funéraire	O	O	1
+de	O	O	1
+tombes	O	O	1
+pillées.	O	O	1
+C’est	O	O	1
+peut-être	O	O	1
+dans	O	O	1
+de	O	O	1
+telles	O	O	1
+circonstances	O	O	1
+qu’à	O	O	1
+deux	O	O	1
+pas	O	O	1
+de	O	O	1
+Dra	B-LOC	O	O
+Abou	I-LOC	O	O
+el-Naga	I-LOC	O	O
+,	O	O	1
+sur	O	O	1
+le	O	O	1
+chemin	O	O	1
+menant	O	O	1
+à	O	O	1
+la	O	O	1
+vallée	B-LOC	O	O
+des	I-LOC	O	O
+Rois,	I-LOC	O	O
+il	O	O	1
+pousse	O	O	1
+plus	O	O	1
+loin	O	O	1
+son	O	O	1
+examen	O	O	1
+en	O	O	1
+vidant	O	O	1
+un	O	O	1
+puits	O	O	1
+aménagé	O	O	1
+dans	O	O	1
+un	O	O	1
+ouadi	O	O	1
+:	O	O	1
+l’Inventaire	O	O	1
+de	O	O	1
+l’Institut	O	O	1
+d’égyptologie	O	O	1
+comporte	O	O	1
+une	O	O	1
+liste	O	O	1
+de	O	O	1
+41	O	O	1
+artefacts	O	O	1
+sous	O	B-PER	O
+le	O	I-PER	O
+titre	O	O	1
+«	O	B-PER	O
+Objets	B-LOC	I-PER	O
+issus	O	O	1
+d’un	O	B-PER	O
+puits	O	I-PER	O
+(magasin	O	O	1
+d’un	O	B-PER	O
+embaumeur	O	I-PER	O
+?)	O	O	1
+dans	O	O	1
+le	O	O	1
+désert	O	O	1
+thébain	O	O	1
+(	O	O	1
+Wadi	B-LOC	O	O
+’En	I-LOC	O	O
+)	O	O	1
+ouvert	O	O	1
+par	O	O	1
+le	O	O	1
+Dr.	O	O	1
+Spiegelberg	O	O	1
+en	O	O	1
+décembre	O	O	1
+1895	O	O	1
+».	B-PER	O	O
+Encore	I-PER	O	O
+plus	O	O	1
+près	O	O	1
+du	O	O	1
+village,	O	O	1
+il	O	O	1
+entre,	O	O	1
+quelques	O	O	1
+décennies	O	O	1
+après	O	O	1
+Champollion	B-PER	O	O
+et	O	O	1
+Lepsius,	B-PER	O	O
+dans	O	O	1
+la	O	O	1
+tombe	O	O	1
+de	O	O	1
+Héry	B-PER	O	O
+(Tombe	O	O	1
+Thébaine	B-PER	O	O
+12)	O	O	1
+pour	O	O	1
+y	O	O	1
+copier	O	O	1
+des	O	O	1
+graffitis.	O	O	1
+Mais	O	O	1
+l’Inventaire	O	O	1
+de	O	O	1
+l’Institut	O	O	1
+confirme	O	O	1
+une	O	O	1
+fois	O	O	1
+encore	O	O	1
+que	O	O	1
+l’égyptologue	O	O	1
+ne	O	O	1
+se	O	O	1
+contente	O	O	1
+pas	O	O	1
+de	O	O	1
+faire	O	O	1
+de	O	O	1
+l’épigraphie,	O	O	1
+puisque	O	O	1
+14	O	O	1
+numéros	O	O	1
+y	O	O	1
+répertorient	O	O	1
+les	O	O	1
+«	O	O	1
+Trouvailles	O	O	1
+de	O	O	1
+la	O	O	1
+tombe	O	O	1
+de	O	O	1
+Hray	B-LOC	O	O
+ouverte	O	O	1
+en	O	O	1
+janvier	O	O	1
+1896	O	O	1
+».	O	O	1
+En	O	O	1
+bonne	O	O	1
+méthode,	O	O	1
+Spiegelberg	B-PER	O	O
+s’en	O	O	1
+remet	O	O	1
+aussi	O	O	1
+aux	O	O	1
+compétences	O	O	1
+d’un	O	O	1
+paysan	O	O	1
+du	O	O	1
+village,	O	O	1
+pour	O	O	1
+déceler	O	O	1
+les	O	O	1
+vestiges	O	O	1
+archéologiques	O	O	1
+affleurant	O	O	1
+un	O	O	1
+peu	O	O	1
+partout	O	O	1
+sur	O	O	1
+le	O	O	1
+sol	O	O	1
+-	O	O	1
+cet	O	O	1
+«	O	O	1
+excellent	O	O	1
+Idris	B-LOC	O	O
+Awad,	O	O	1
+probablement	O	O	1
+le	O	O	1
+meilleur	O	O	1
+connaisseur	O	O	1
+de	O	O	1
+la	O	O	1
+nécropole	O	O	1
+thébaine	O	O	1
+parmi	O	O	1
+ses	O	O	1
+habitants	O	O	1
+actuels	O	O	1
+»	O	O	1
+W.	O	O	1
+Spiegelberg,	O	O	1
+Zwei	O	O	1
+Beiträge	O	O	1
+zur	O	O	1
+Geschichte	B-PER	O	O
+und	O	O	1
+Topographie	O	O	1
+der	O	O	1
+thebanischen	O	O	1
+Necropolis	B-LOC	O	O
+im	O	O	1
+Neuen	B-LOC	O	O
+Reich,	B-PER	O	O
+Strasbourg,	I-PER	O	O
+1898,	O	O	1
+p.	O	O	1
+2	O	O	1
+.	O	O	1
+Les	O	O	1
+deux	O	O	1
+hommes	O	O	1
+prospectent	O	O	1
+les	O	O	1
+terres	O	O	1
+en	O	O	1
+contrebas	O	O	1
+de	O	O	1
+la	O	O	1
+montagne,	O	O	1
+parce	O	O	1
+que	O	O	1
+Spiegelberg	B-PER	O	O
+soupçonne	O	O	1
+que	O	O	1
+s’y	O	O	1
+cachent	O	O	1
+les	O	O	1
+ruines	O	O	1
+du	O	O	1
+temple	O	O	1
+funéraire	O	O	1
+d’Amenhotep	O	O	1
+Ier,	O	O	1
+dont	O	O	1
+l’emplacement	O	O	1
+est	O	O	1
+encore	O	O	1
+inconnu.	O	O	1
+Et	O	O	1
+en	O	O	1
+effet,	O	O	1
+à	O	O	1
+la	O	O	1
+limite	O	O	1
+des	O	O	1
+terres	O	O	1
+cultivées,	O	O	1
+son	O	O	1
+guide	O	O	1
+repère	O	O	1
+bientôt	O	O	1
+une	O	O	1
+première	O	O	1
+pierre.	O	O	1
+Les	O	O	1
+plus	O	O	1
+gros	O	O	1
+blocs,	O	B-PER	O
+ceux	O	O	1
+qui	O	O	1
+nécessitent	O	O	1
+pour	O	O	1
+être	O	O	1
+retournés	O	O	1
+l’usage	O	O	1
+des	O	O	1
+outils	O	O	1
+prêtés	O	O	1
+par	O	O	1
+Flinders	B-PER	O	O
+Petrie	I-PER	O	O
+-	O	O	1
+qui	O	O	1
+fouille	O	O	1
+au	O	O	1
+même	O	O	1
+moment	O	O	1
+le	O	O	1
+Ramesseum	B-LOC	O	O
+-	O	O	1
+Spiegelberg	B-PER	O	O
+les	O	O	1
+laisse	O	O	1
+bien	O	O	1
+entendu	O	O	1
+sur	O	O	1
+place.	O	O	1
+Mais	O	O	1
+une	O	O	1
+dizaine	O	O	1
+d’autres	O	O	1
+fragments	O	O	1
+de	O	O	1
+reliefs	O	O	1
+et	O	O	1
+de	O	O	1
+statues,	O	O	1
+de	O	O	1
+petites	O	O	1
+dimensions,	O	O	1
+sont	O	O	1
+ramenés	O	O	1
+à	O	O	1
+Strasbourg	B-LOC	O	O
+.	O	O	1
+Ces	O	O	1
+pièces	O	O	1
+seront	O	O	1
+publiées	O	O	1
+beaucoup	O	O	1
+plus	O	O	1
+tard	O	B-LOC	O
+par	O	O	1
+Philippe	B-PER	O	O
+Derchain	I-PER	O	O
+,	O	O	1
+directeur	O	O	1
+de	O	O	1
+l’Institut	O	O	1
+de	O	O	1
+1964	O	O	1
+à	O	O	1
+1968,	O	O	1
+qui	O	O	1
+évoque	O	O	1
+non	O	O	1
+sans	O	O	1
+une	O	O	1
+pointe	O	O	1
+de	O	O	1
+dédain	O	O	1
+la	O	O	1
+découverte	O	O	1
+du	O	O	1
+savant	O	O	1
+allemand	O	O	1
+:	O	O	1
+«	O	O	1
+Les	O	O	1
+misérables	O	O	1
+ruines	O	O	1
+du	O	O	1
+temple	O	O	1
+d’Aménophis	O	O	1
+Ier	O	O	1
+et	O	O	1
+d’	O	O	1
+Ahmes	B-PER	O	O
+Nefertari	I-PER	O	O
+que	O	O	1
+l’on	O	O	1
+peut	O	B-PER	O
+encore	O	O	1
+voir	O	O	1
+à	O	O	1
+proximité	O	O	1
+du	O	O	1
+point	O	O	1
+d’eau	O	O	1
+où	O	O	1
+se	O	O	1
+ravitaillent	O	O	1
+les	O	O	1
+femmes	O	O	1
+de	O	O	1
+Dra	B-LOC	O	O
+Abou	I-LOC	O	O
+el-Naga	I-LOC	O	O
+n’ont	O	O	1
+certes	O	O	1
+pas	O	O	1
+de	O	O	1
+quoi	O	O	1
+attirer	O	O	1
+le	O	O	1
+visiteur	O	O	1
+»	O	O	1
+Ph.	O	O	1
+Derchain,	O	O	1
+«	O	O	1
+Débris	B-LOC	O	O
+du	O	O	1
+temple-reposoir	O	O	1
+d’Aménophis	O	O	1
+Ier	B-LOC	O	O
+et	O	O	1
+d’Ahmes	O	O	1
+Nefertari	B-PER	O	O
+à	O	O	1
+Dra	B-LOC	O	O
+Abou’l	O	O	1
+Naga	B-PER	O	O
+»,	I-PER	O	O
+Kêmi	I-PER	O	O
+19,	O	O	1
+1969,	O	O	1
+p.	O	O	1
+17-21	O	O	1
+.	O	O	1
+Après	O	O	1
+cette	O	O	1
+expérience	O	O	1
+scientifique	O	O	1
+en	O	O	1
+partie	O	O	1
+improvisée,	O	O	1
+qui	O	O	1
+lui	O	O	1
+a	O	O	1
+fait	O	O	1
+prendre	O	O	1
+conscience	O	O	1
+du	O	O	1
+potentiel	O	O	1
+offert	O	O	1
+par	O	O	1
+le	O	O	1
+périmètre	O	O	1
+prospecté,	O	O	1
+Spiegelberg	B-PER	O	O
+planifie	O	O	1
+pour	O	O	1
+l’hiver	O	O	1
+1898/99	O	O	1
+une	O	O	1
+campagne	O	O	1
+plus	O	O	1
+systématique	O	O	1
+avec	O	O	1
+la	O	O	1
+collaboration	O	O	1
+d’un	O	O	1
+collègue	O	B-LOC	O
+anglais,	O	O	1
+Percy	B-PER	O	O
+Newberry	I-PER	O	O
+,	O	O	1
+dont	O	O	1
+il	O	O	1
+a	O	O	1
+fait	O	O	1
+la	O	O	1
+connaissance	O	O	1
+lors	O	O	1
+de	O	O	1
+son	O	O	1
+premier	O	O	1
+séjour	O	O	1
+thébain.	O	O	1
+Cette	O	O	1
+fois,	O	O	1
+les	O	O	1
+fouilles	O	O	1
+sont	O	O	1
+menées	O	O	1
+pour	O	O	1
+le	O	O	1
+compte	O	O	1
+d’un	O	O	1
+mécène,	O	O	1
+le	O	O	1
+marquis	O	O	1
+de	O	O	1
+Northampton.	B-PER	O	O
+Grâce	O	O	1
+à	O	O	1
+ce	O	O	1
+financement	O	O	1
+privé,	O	O	1
+des	O	O	1
+travaux	O	O	1
+intensifs,	O	O	1
+avec	O	O	1
+un	O	O	1
+nombre	O	O	1
+important	O	O	1
+d’ouvriers,	O	O	1
+sont	O	O	1
+dirigés	O	O	1
+du	O	O	1
+7	O	O	1
+novembre	O	O	1
+au	O	O	1
+27	O	O	1
+janvier	O	O	1
+dans	O	O	1
+plusieurs	O	O	1
+secteurs	O	O	1
+de	O	O	1
+Dra	B-LOC	O	O
+Abou	I-LOC	O	O
+el-Naga	I-LOC	O	O
+.	O	O	1
+À	O	O	1
+nouveau,	O	O	1
+les	O	O	1
+recherches	O	O	1
+se	O	O	1
+déploient	O	O	1
+au	O	O	1
+départ	O	O	1
+du	O	O	1
+village,	O	O	1
+où	O	O	1
+la	O	O	1
+maison	O	O	1
+d’Idris	O	B-LOC	O
+Awad	O	O	1
+sert	O	O	1
+régulièrement	O	O	1
+de	O	O	1
+point	O	O	1
+de	O	O	1
+repère	O	O	1
+topographique	O	O	1
+dans	O	B-LOC	O
+le	O	O	1
+Journal	O	O	1
+des	O	O	1
+découvertes	O	O	1
+de	O	O	1
+Spiegelberg.	B-PER	O	O
+Ce	O	O	1
+manuscrit	O	O	1
+rédigé	O	O	1
+au	O	O	1
+jour	O	O	1
+le	O	O	1
+jour	O	O	1
+par	O	O	1
+l’égyptologue	O	O	1
+strasbourgeois,	O	O	1
+aujourd’hui	O	O	1
+conservé	O	O	1
+au	O	B-PER	O
+Griffith	O	O	1
+Institute	O	O	1
+(	O	O	1
+Oxford	B-LOC	O	O
+),	O	O	1
+laisse	O	O	1
+entrevoir	O	O	1
+l’empirisme	O	O	1
+qui	O	O	1
+prévaut	O	O	1
+dans	O	O	1
+la	O	O	1
+mise	O	O	1
+en	O	O	1
+place	O	O	1
+progressive	O	O	1
+des	O	O	1
+méthodes	O	O	1
+de	O	O	1
+fouilles.	O	O	1
+Génial	O	O	1
+déchiffreur	O	O	1
+de	O	O	1
+toutes	O	B-PER	O
+les	O	O	1
+écritures	O	O	1
+de	O	O	1
+l’égyptien	O	O	1
+ancien,	O	O	1
+Spiegelberg	B-PER	O	O
+l’autodidacte	O	O	1
+est	O	O	1
+encore	O	O	1
+en	O	O	1
+plein	O	O	1
+apprentissage	O	O	1
+en	O	O	1
+ce	O	O	1
+qui	O	O	1
+concerne	O	O	1
+l’archéologie	O	O	1
+de	O	O	1
+terrain.	O	O	1
+D’une	O	O	1
+façon	O	O	1
+touchante,	O	O	1
+il	O	O	1
+écrit	O	O	1
+à	O	O	1
+la	O	O	1
+suite	O	O	1
+d’une	O	B-LOC	O
+discussion	O	O	1
+avec	O	O	1
+un	O	B-LOC	O
+architecte	O	O	1
+britannique	O	O	1
+expérimenté,	O	O	1
+de	O	O	1
+trente	O	B-LOC	O
+ans	O	O	1
+son	O	O	1
+aîné	O	O	1
+:	O	O	1
+«	O	O	1
+15	O	O	1
+novembre	O	B-PER	O
+(…)	O	O	1
+Visite	B-PER	O	O
+de	I-PER	O	O
+M.	I-PER	O	O
+Somers	I-PER	O	O
+Clarke,	O	O	1
+qui	O	O	1
+nous	O	O	1
+a	O	O	1
+donné	O	B-LOC	O
+de	O	O	1
+bons	O	O	1
+une	O	O	1
+série	O	O	1
+d’excellents	O	O	1
+tuyaux.	O	B-LOC	O
+Il	O	O	1
+faut	O	B-PER	O
+surtout	O	I-PER	O
+que	O	O	1
+les	O	O	1
+matériaux	O	O	1
+de	O	O	1
+construction	O	O	1
+soient	O	O	1
+aussi	O	O	1
+notés	O	O	1
+sur	O	O	1
+le	O	O	1
+plan	O	O	1
+».	B-PER	O	O
+Et	O	O	1
+sans	O	O	1
+doute,	O	O	1
+les	O	O	1
+conseils	O	O	1
+portent	O	O	1
+aussi	O	O	1
+sur	O	O	1
+les	O	O	1
+techniques	O	O	1
+d’enregistrement	O	O	1
+des	O	O	1
+trouvailles,	O	O	1
+car	O	O	1
+c’est	O	B-LOC	O
+précisément	O	O	1
+à	O	O	1
+partir	O	O	1
+de	O	O	1
+cette	O	O	1
+date	O	O	1
+que	O	O	1
+l’organisation	O	O	1
+du	O	O	1
+Journal	O	O	1
+des	O	O	1
+découvertes	O	O	1
+est	O	O	1
+mise	O	O	1
+en	O	O	1
+place…	O	O	1
+Un	O	O	1
+autre	O	O	1
+jour	O	O	1
+-	O	O	1
+le	O	O	1
+3	O	O	1
+décembre	O	B-LOC	O
+-	O	O	1
+c’est	O	O	1
+Howard	O	O	1
+Carter,	O	O	1
+futur	O	O	1
+découvreur	O	O	1
+de	O	O	1
+la	O	O	1
+tombe	O	O	1
+de	O	O	1
+Toutankhamon	B-PER	O	O
+,	O	O	1
+qui	O	O	1
+vient	O	O	1
+donner	O	O	1
+son	O	O	1
+interprétation	O	O	1
+sur	O	O	1
+un	O	O	1
+phénomène	O	B-LOC	O
+stratigraphique	O	O	1
+un	O	O	1
+peu	O	O	1
+complexe.	O	O	1
+D’une	O	O	1
+façon	O	O	1
+générale,	O	O	1
+Spiegelberg	B-PER	O	O
+est	O	O	1
+soucieux	O	O	1
+de	O	O	1
+tenir	O	O	1
+compte	O	B-PER	O
+de	O	O	1
+l’ensemble	O	O	1
+du	O	O	1
+mobilier	O	O	1
+mis	O	O	1
+au	O	O	1
+jour	O	O	1
+et	O	O	1
+se	O	O	1
+montre	O	O	1
+notamment	O	O	1
+sensible	O	O	1
+à	O	O	1
+la	O	O	1
+description	O	O	1
+des	O	O	1
+vases	O	O	1
+en	O	O	1
+terre	O	O	1
+cuite,	O	O	1
+dont	O	O	1
+la	O	O	1
+valeur	O	O	1
+de	O	B-LOC	O
+«	O	O	1
+fossiles	O	O	1
+directeurs	O	O	1
+»	O	O	1
+-	O	O	1
+permettant	O	O	1
+de	O	O	1
+dater	O	O	1
+les	O	O	1
+contextes	O	O	1
+fouillés	O	B-PER	O
+-	O	O	1
+deviendra	O	O	1
+fondamentale	O	O	1
+dans	O	O	1
+l’archéologie	O	O	1
+moderne.	O	O	1
+Au	O	O	1
+terme	O	O	1
+de	O	O	1
+la	O	O	1
+campagne,	O	O	1
+le	O	O	1
+marquis	O	O	1
+de	O	O	1
+Northampton,	O	O	1
+financeur	O	O	1
+privé	O	O	1
+de	O	O	1
+l’opération,	O	O	1
+autorise	O	O	1
+Spiegelberg	B-PER	O	O
+à	O	O	1
+offrir	O	O	1
+une	O	O	1
+partie	O	O	1
+du	O	O	1
+produit	O	O	1
+des	O	O	1
+fouilles	O	O	1
+à	O	O	1
+la	O	O	1
+collection	O	O	1
+de	O	O	1
+l’université	O	O	1
+de	O	O	1
+Strasbourg	B-LOC	B-PER	O
+:	O	O	1
+les	O	O	1
+«	O	O	1
+Objets	O	O	1
+issus	O	O	1
+des	O	O	1
+fouilles	O	O	1
+de	O	O	1
+Drah-Abu’l	B-LOC	B-PER	O
+Negga	I-LOC	O	O
+et	O	O	1
+Gurnah	B-LOC	O	O
+,	O	O	1
+hiver	O	O	1
+1898/99	O	O	1
+»	O	O	1
+occupent	O	O	1
+en	O	O	1
+effet	O	O	1
+plusieurs	O	O	1
+pages	O	O	1
+de	O	O	1
+l’Inventaire	O	O	1
+de	O	O	1
+l’Institut.	O	O	1
+Pour	O	O	1
+permettre	O	O	1
+cette	O	O	1
+importante	O	O	1
+donation,	O	O	1
+le	O	O	1
+Kuratorium	O	B-PER	O
+devra	O	O	1
+seulement	O	O	1
+prendre	O	O	1
+en	O	O	1
+charge	O	O	1
+les	O	O	1
+dépenses	O	O	1
+d’emballage	O	O	1
+et	O	O	1
+de	O	O	1
+transport,	O	O	1
+pour	O	O	1
+un	O	O	1
+montant	O	O	1
+prévisionnel	O	O	1
+de	O	O	1
+1	O	O	1
+000	O	O	1
+marks	O	O	1
+(doc.	O	O	1
+6).	O	O	1
+Parallèlement	O	O	1
+à	O	O	1
+la	O	O	1
+fouille	O	O	1
+de	O	O	1
+la	O	O	1
+nécropole	O	O	1
+thébaine,	O	O	1
+Spiegelberg	B-PER	O	O
+ne	O	O	1
+perd	O	O	1
+pas	O	O	1
+de	O	O	1
+vue	O	O	1
+la	O	O	1
+mission	O	O	1
+de	O	O	1
+chasse	O	O	1
+aux	O	O	1
+papyrus	O	O	1
+dont	O	O	1
+il	O	O	1
+a	O	O	1
+été	O	O	1
+chargé	O	O	1
+avec	O	B-PER	O
+son	O	O	1
+collègue	O	O	1
+Reitzenstein.	B-PER	O	O
+Les	O	O	1
+deux	O	O	1
+hommes	O	O	1
+sont	O	O	1
+censés	O	O	1
+employer	O	O	1
+à	O	O	1
+des	O	O	1
+achats	O	B-PER	O
+sur	O	I-PER	O
+le	O	O	1
+marché	O	O	1
+la	O	O	1
+somme	O	O	1
+qui	O	O	1
+leur	O	O	1
+est	O	O	1
+confiée,	O	O	1
+mais	O	O	1
+leur	O	O	1
+rapport	O	O	1
+révèlera	O	O	1
+qu’ils	O	O	1
+ont	O	O	1
+failli	O	O	1
+entreprendre	O	O	1
+des	O	O	1
+fouilles	O	O	1
+improvisées	O	O	1
+pour	O	O	1
+le	O	O	1
+compte	O	O	1
+du	O	O	1
+gouvernement	O	O	1
+du	O	O	1
+Reichsland.	B-LOC	O	O
+«	O	O	1
+À	O	O	1
+deux	O	O	1
+reprises	O	O	1
+»,	B-LOC	O	O
+écrivent-ils	O	O	1
+au	O	O	1
+gouverneur	O	O	1
+d’	O	O	1
+Alsace	B-LOC	O	O
+-	O	O	1
+Lorraine	B-LOC	O	O
+,	O	O	1
+«	O	O	1
+des	O	O	1
+fouilles	O	O	1
+mineures	O	O	1
+ont	O	O	1
+été	O	O	1
+envisagées	O	O	1
+mais	O	O	1
+ont	O	O	1
+été	O	O	1
+abandonnées	O	O	1
+pour	O	O	1
+des	O	O	1
+raisons	O	O	1
+déterminées.	O	B-PER	O
+À	O	I-PER	O
+une	O	O	1
+occasion,	O	B-PER	O
+les	O	I-PER	O
+indications	O	O	1
+prometteuses	O	B-PER	O
+de	O	I-PER	O
+savants	O	O	1
+qui	O	O	1
+croyaient	O	O	1
+avoir	O	O	1
+découvert	O	O	1
+un	O	O	1
+pendant	O	O	1
+de	O	O	1
+la	O	O	1
+bibliothèque	O	O	1
+d’Herculanum	O	O	1
+se	O	O	1
+sont	O	O	1
+révélées	O	O	1
+fausses	O	O	1
+in	O	O	1
+situ	O	O	1
+».	O	O	1
+On	O	O	1
+imagine	O	O	1
+l’excitation	O	O	1
+des	O	O	1
+deux	O	O	1
+savants,	O	O	1
+qui	O	O	1
+ont	O	O	1
+cru	O	O	1
+un	O	O	1
+temps	O	O	1
+pouvoir	O	O	1
+mettre	O	O	1
+la	O	O	1
+main	O	O	1
+sur	O	O	1
+une	O	O	1
+découverte	O	O	1
+exceptionnelle	O	O	1
+-	O	O	1
+un	O	O	1
+pendant	O	O	1
+nilotique	O	O	1
+des	O	O	1
+volumes	O	O	1
+de	O	O	1
+textes	O	O	1
+littéraires	O	O	1
+conservés	O	O	1
+sous	O	O	1
+les	O	O	1
+cendres	O	O	1
+du	O	O	1
+Vésuve,	O	O	1
+dont	O	O	1
+l’exhumation	O	O	1
+au	O	O	1
+milieu	O	B-PER	O
+du	O	O	1
+XVIIIe	O	O	1
+siècle	O	O	1
+avait	O	O	1
+consacré	O	O	1
+la	O	O	1
+naissance	O	O	1
+de	O	O	1
+l’intérêt	O	B-PER	O
+scientifique	O	I-PER	O
+pour	O	O	1
+les	O	O	1
+papyrus	O	O	1
+grecs	O	O	1
+Le	O	O	1
+fantôme	O	O	1
+d’Herculanum,	O	O	1
+et	O	O	1
+les	O	B-PER	O
+fantasmes	O	O	1
+scientifiques	O	O	1
+qui	O	O	1
+l’accompagnaient,	O	O	1
+avaient	O	O	1
+déjà	O	O	1
+plané	O	O	1
+en	O	O	1
+1892,	O	O	1
+lorsque	O	O	1
+Naville	B-PER	O	O
+découvrit	O	O	1
+dans	O	O	1
+une	O	O	1
+ruine	O	O	1
+incendiée	O	O	1
+les	O	O	1
+archives	O	O	1
+carbonisées	O	O	1
+du	O	O	1
+nome	B-LOC	O	O
+Mendésien,	I-LOC	O	O
+sans	O	O	1
+pouvoir	O	O	1
+les	O	O	1
+exploiter	O	O	1
+efficacement	O	O	1
+;	O	O	1
+H.	B-PER	O	O
+Cuvigny,	O	O	1
+«	O	O	1
+The	O	O	1
+Finds	O	O	1
+of	O	O	1
+Papyri	O	B-PER	O
+:	O	O	1
+the	O	O	1
+Archaeology	O	O	1
+of	O	O	1
+Papyrology	O	O	1
+»,	O	O	1
+in	O	O	1
+R.	O	O	1
+S.	O	O	1
+Bagnall	O	O	1
+(éd.),	O	O	1
+The	O	O	1
+Oxford	O	O	1
+Handbook	O	O	1
+of	O	O	1
+Papyrology,	O	O	1
+Oxford,	O	O	1
+2009,	O	O	1
+p.	O	O	1
+47.	O	O	1
+.	O	O	1
+Ils	O	O	1
+se	O	O	1
+rendent	O	O	1
+sur	O	O	1
+place,	O	O	1
+grattent	O	O	1
+le	O	O	1
+sol	O	O	1
+qu’on	O	B-PER	O
+suppose	O	O	1
+cendreux,	O	O	1
+et	O	O	1
+puis	O	O	1
+:	O	O	1
+rien.	O	O	1
+Un	O	O	1
+coup	O	O	1
+du	O	O	1
+sort	O	O	1
+leur	O	O	1
+fait	O	O	1
+manquer	O	O	1
+une	O	O	1
+seconde	O	O	1
+occasion	O	O	1
+:	O	O	1
+«	O	O	1
+Un	O	O	1
+lieu	O	O	1
+de	O	O	1
+découverte	O	O	1
+indubitablement	O	O	1
+majeur,	O	O	1
+que	O	O	1
+pistait	O	O	1
+un	O	O	1
+Arabe	O	O	1
+oeuvrant	O	O	1
+déjà	O	O	1
+depuis	O	O	1
+longtemps	O	O	1
+à	O	O	1
+nos	O	O	1
+projets,	O	O	1
+est	O	O	1
+malheureusement	O	O	1
+resté	O	O	1
+inexploitable	O	O	1
+pour	O	O	1
+nous	O	O	1
+à	O	O	1
+cause	O	O	1
+de	O	O	1
+la	O	O	1
+mort	O	O	1
+soudaine	O	O	1
+de	O	O	1
+ce	O	O	1
+dernier.	O	O	1
+Par	O	O	1
+conséquent	O	O	1
+seule	O	O	1
+demeura	O	O	1
+la	O	O	1
+possibilité	O	O	1
+de	O	O	1
+l’acquisition	O	O	1
+sur	O	O	1
+le	O	O	1
+marché	O	O	1
+»	O	O	1
+(doc.	O	O	1
+7).	O	O	1
+Les	B-LOC	O	O
+conditions	O	O	1
+d’acquisition	O	O	1
+sur	O	O	1
+le	O	O	1
+terrain	O	O	1
+:	O	O	1
+le	O	O	1
+marché	O	O	1
+des	O	O	1
+antiquités	O	O	1
+Comme	O	O	1
+ces	O	O	1
+récits	O	O	1
+le	O	O	1
+laissent	O	O	1
+entrevoir,	O	O	1
+à	O	O	1
+la	O	O	1
+fin	O	O	1
+du	O	O	1
+XIXe	O	O	1
+siècle,	O	O	1
+les	O	O	1
+égyptologues	O	O	1
+travaillent	O	O	1
+dans	O	O	1
+des	O	O	1
+conditions	O	O	1
+éloignées	O	O	1
+des	O	O	1
+méthodes	O	O	1
+de	O	O	1
+prospection	O	O	1
+actuelles	O	O	1
+et	O	B-PER	O
+leurs	O	O	1
+relations	O	O	1
+au	O	O	1
+patrimoine	O	O	1
+archéologique	O	O	1
+égyptien	O	O	1
+ne	O	O	1
+sont	O	O	1
+pas	O	O	1
+encore	O	O	1
+encadrées	O	O	1
+par	O	O	1
+les	O	O	1
+normes	O	O	1
+déontologiques	O	O	1
+et	O	O	1
+réglementaires	O	O	1
+qui	O	O	1
+s’imposeront	O	O	1
+progressivement	O	O	1
+par	O	O	1
+la	O	O	1
+suite.	O	O	1
+Il	O	O	1
+serait	O	O	1
+cependant	O	O	1
+anachronique	O	O	1
+de	O	O	1
+juger	O	O	1
+avec	O	O	1
+les	O	O	1
+valeurs	O	O	1
+d’aujourd’hui	O	O	1
+les	O	O	1
+pratiques	O	O	1
+d’un	O	O	1
+autre	O	O	1
+temps,	O	O	1
+où	O	O	1
+les	O	O	1
+exportations	O	O	1
+d’antiquités	O	O	1
+étaient	O	O	1
+officiellement	O	O	1
+taxées	O	O	1
+par	O	O	1
+les	O	O	1
+autorités	O	O	1
+et	O	O	1
+où	O	O	1
+les	O	O	1
+protagonistes	O	O	1
+trouvaient	O	O	1
+leur	O	O	1
+compte	O	O	1
+en	O	O	1
+toute	O	O	1
+légalité.	O	O	1
+Le	O	O	1
+chercheur	O	O	1
+de	O	O	1
+papyrus,	O	O	1
+à	O	O	1
+cette	O	O	1
+époque,	O	O	1
+a	O	O	1
+quelque	O	O	1
+affinité	O	O	1
+avec	O	O	1
+un	O	O	1
+pêcheur	O	O	1
+qui	O	O	1
+ne	O	O	1
+jetterait	O	O	1
+ses	O	O	1
+filets	O	O	1
+qu’avec	O	O	1
+discrétion	O	O	1
+pour	O	O	1
+ne	O	O	1
+pas	O	O	1
+attirer	O	O	1
+l’attention	O	O	1
+sur	O	O	1
+les	O	O	1
+eaux	O	O	1
+les	O	O	1
+plus	O	O	1
+poissonneuses.	O	O	1
+Le	O	O	1
+marché	O	O	1
+est	O	O	1
+régi	O	O	1
+par	O	O	1
+les	O	O	1
+lois	O	O	1
+de	O	O	1
+l’offre	O	O	1
+et	O	O	1
+de	O	O	1
+la	O	O	1
+demande,	O	O	1
+il	O	O	1
+faut	O	O	1
+à	O	O	1
+la	O	O	1
+fois	O	O	1
+disposer	O	O	1
+de	O	O	1
+fonds	O	O	1
+élevés	O	O	1
+pour	O	O	1
+pouvoir	O	O	1
+l’emporter	O	O	1
+sur	O	O	1
+les	O	O	1
+concurrents	O	O	1
+et	O	O	1
+éviter	O	O	1
+de	O	O	1
+faire	O	O	1
+monter	O	B-PER	O
+les	O	O	1
+prix	O	B-PER	O
+par	O	O	1
+une	O	O	1
+imprudente	O	O	1
+ostentation	O	O	1
+de	O	O	1
+ses	O	O	1
+moyens.	O	O	1
+En	O	O	1
+1898,	O	O	1
+Reitzenstein	O	O	1
+et	O	O	1
+Spiegelberg	B-PER	O	O
+suivent	O	O	1
+scrupuleusement	O	O	1
+ces	O	O	1
+principes,	O	O	1
+lorsqu’ils	O	O	1
+mettent	O	O	1
+en	O	O	1
+route	O	O	1
+la	O	O	1
+procédure	O	O	1
+de	O	O	1
+demande	O	O	1
+de	O	O	1
+crédits	O	O	1
+:	O	O	1
+«	O	O	1
+Comme	O	O	1
+la	O	O	1
+première	O	O	1
+condition	O	O	1
+du	O	O	1
+succès	O	O	1
+est	O	O	1
+qu’une	O	O	1
+telle	O	O	1
+mission	O	O	1
+d’achat	O	O	1
+demeure	O	O	1
+totalement	O	O	1
+secrète,	O	O	1
+le	O	O	1
+mieux,	O	O	1
+d’un	O	O	1
+point	O	O	1
+de	O	O	1
+vue	O	O	1
+pratique,	O	O	1
+serait	O	O	1
+peut-être	O	O	1
+de	O	O	1
+faire	O	O	1
+verser	O	O	1
+cette	O	O	1
+somme	O	O	1
+par	O	O	1
+un	O	O	1
+truchement	O	O	1
+quelconque	O	O	1
+à	O	O	1
+une	O	O	1
+maison	O	O	1
+bancaire	O	O	1
+assez	O	O	1
+importante	O	O	1
+comme	O	O	1
+par	O	O	1
+exemple	O	O	1
+le	O	O	1
+«	O	B-LOC	O
+Crédit	O	O	1
+lyonnais	O	O	1
+»	O	O	1
+au	B-LOC	O	O
+Caire	I-LOC	O	O
+et	O	O	1
+ce	O	O	1
+à	O	O	1
+raison	O	O	1
+de	O	O	1
+la	O	O	1
+moitié	O	O	1
+(de	O	O	1
+la	O	O	1
+somme)	O	O	1
+pour	O	O	1
+chacun	O	O	1
+des	O	O	1
+deux	O	O	1
+soussignés	O	O	1
+»	O	O	1
+(doc.	O	O	1
+5).	B-LOC	O	O
+Pour	O	O	1
+souligner	O	O	1
+la	O	O	1
+nécessaire	O	O	1
+confidentialité	O	O	1
+de	O	O	1
+la	O	O	1
+démarche,	O	O	1
+Reitzenstein	B-PER	O	O
+appose	O	O	1
+lui-même	O	O	1
+la	O	O	1
+mention	O	O	1
+«	O	O	1
+Geheim	B-LOC	O	O
+»	O	B-LOC	O
+(secret)	O	O	1
+à	O	O	1
+côté	O	O	1
+de	O	O	1
+l’adresse	B-PER	O	O
+de	O	O	1
+sa	O	O	1
+requête	O	O	1
+épistolaire.	O	O	1
+La	O	O	1
+demande	O	O	1
+de	O	O	1
+discrétion	O	O	1
+est	O	O	1
+prise	O	O	1
+au	O	O	1
+sérieux.	O	O	1
+En	O	O	1
+marge	O	O	1
+du	O	O	1
+paragraphe	O	O	1
+en	O	O	1
+question,	O	O	1
+un	O	O	1
+responsable	O	O	1
+de	O	O	1
+l’administration	O	O	1
+ajoute	O	O	1
+une	O	O	1
+accolade	O	O	1
+pour	O	O	1
+en	O	O	1
+signaler	O	O	1
+l’importance,	O	O	1
+et	O	O	1
+le	O	O	1
+bureau	O	O	1
+du	O	O	1
+gouverneur	O	O	1
+ordonne	O	O	1
+au	O	O	1
+Ministère	B-LOC	O	O
+d’	O	O	1
+Alsace	B-LOC	O	O
+-	O	O	1
+Lorraine	B-LOC	O	O
+d’étudier	O	O	1
+la	O	O	1
+demande	O	O	1
+des	O	O	1
+requérants	O	O	1
+dans	O	O	1
+le	O	O	1
+plus	O	O	1
+grand	O	O	1
+secret	O	B-PER	O
+:	O	O	1
+«	O	B-PER	O
+Monsieur	B-PER	O	O
+le	O	B-PER	O
+gouverneur	O	O	1
+enjoint	O	O	1
+de	O	O	1
+traiter	O	O	1
+l’affaire	O	O	1
+de	O	O	1
+façon	O	O	1
+tout	O	O	1
+à	O	O	1
+fait	O	O	1
+confidentielle	O	O	1
+»	O	O	1
+ADBR	O	O	1
+AL	O	O	1
+103	O	O	1
+877,	O	O	1
+24	O	O	1
+mars	O	O	1
+1898,	O	O	1
+lettre	O	O	1
+de	O	O	1
+Zeppelin	B-LOC	O	O
+(bureau	O	O	1
+du	O	O	1
+Statthalter)	B-LOC	O	O
+au	O	O	1
+Ministère	B-LOC	O	O
+.	O	O	1
+Le	O	O	1
+Staatssekretär	O	O	1
+von	O	O	1
+Puttkamer	O	O	1
+s’exécute,	O	O	1
+car	O	O	1
+sur	O	O	1
+le	O	O	1
+formulaire	O	O	1
+d’accompagnement	O	O	1
+du	O	O	1
+dossier	O	O	1
+transmis	O	O	1
+au	O	O	1
+département	O	O	1
+des	O	O	1
+finances	O	O	1
+sont	O	O	1
+ajoutés	O	O	1
+deux	O	O	1
+mots	O	O	1
+au	O	O	1
+crayon	O	O	1
+rouge	O	O	1
+:	O	O	1
+«	O	O	1
+Secret	O	O	1
+»	O	O	1
+(souligné	O	O	1
+une	O	O	1
+fois)	O	O	1
+et	O	O	1
+«	O	O	1
+Urgent	O	O	1
+»	O	O	1
+(souligné	O	O	1
+deux	O	O	1
+fois)	O	O	1
+ADBR	O	O	1
+AL	O	O	1
+103	O	O	1
+877,	O	O	1
+28	O	O	1
+mars	O	O	1
+1898,	O	O	1
+notice	O	O	1
+du	O	O	1
+Staatssekretär	O	O	1
+von	O	O	1
+Puttkamer	O	O	1
+.	O	O	1
+Ces	O	O	1
+précautions	O	O	1
+de	O	O	1
+conspirateurs	O	O	1
+sont	O	O	1
+dictées	O	O	1
+par	O	O	1
+l’atmosphère	O	O	1
+de	O	B-PER	O
+vive	O	O	1
+compétition	O	O	1
+internationale	O	O	1
+régnant	O	O	1
+sur	O	O	1
+le	O	O	1
+marché	O	O	1
+des	O	O	1
+antiquités	O	O	1
+contemporain.	O	O	1
+«	O	O	1
+Car	O	O	1
+les	O	O	1
+meilleurs	O	O	1
+connaisseurs	O	O	1
+anglais	O	O	1
+et	O	O	1
+allemands	O	O	1
+de	O	O	1
+la	O	O	1
+situation	O	O	1
+»,	B-LOC	O	O
+s’alarment	O	O	1
+Reitzenstein	B-PER	O	O
+et	O	O	1
+Spiegelberg	B-PER	O	O
+,	O	O	1
+«	O	O	1
+sont	O	O	1
+persuadés	O	O	1
+que	O	O	1
+l’étonnante	O	O	1
+foison	O	O	1
+de	O	O	1
+monuments	O	O	1
+sur	O	O	1
+le	O	O	1
+sol	O	O	1
+égyptien	O	O	1
+ne	O	O	1
+peut	O	O	1
+plus	O	O	1
+persister	O	O	1
+que	O	O	1
+pendant	O	O	1
+peu	O	O	1
+d’années,	O	O	1
+car	O	O	1
+les	O	O	1
+chercheurs	O	O	1
+anglais	O	O	1
+et	O	O	1
+malheureusement	O	O	1
+désormais	O	O	1
+aussi	O	O	1
+les	O	O	1
+entrepreneurs	O	O	1
+américains	O	O	1
+s’approprient	O	O	1
+toujours	O	O	1
+plus	O	O	1
+les	O	O	1
+trésors	O	O	1
+de	O	O	1
+papyrus	O	O	1
+disponibles	O	O	1
+et	O	O	1
+le	O	O	1
+commerce	O	O	1
+»	O	O	1
+(doc.	B-LOC	O	O
+5).	I-LOC	O	O
+Comme	O	O	1
+on	O	O	1
+le	O	O	1
+voit,	O	O	1
+les	O	O	1
+savants	O	O	1
+allemands	O	O	1
+situent	O	B-PER	O
+leurs	O	O	1
+véritables	O	B-PER	O
+concurrents	O	O	1
+internationaux	O	O	1
+dans	O	O	1
+le	O	O	1
+monde	O	O	1
+anglo-saxon	O	O	1
+-	O	O	1
+représentant	O	O	1
+à	O	O	1
+leurs	O	O	1
+yeux	O	O	1
+un	O	O	1
+modèle	O	O	1
+d’efficacité	O	O	1
+dont	O	O	1
+les	O	O	1
+succès	O	O	1
+récents	O	O	1
+devraient	O	O	1
+inciter	O	O	1
+l’université	O	O	1
+de	O	O	1
+Strasbourg	B-LOC	O	O
+à	O	O	1
+se	O	O	1
+lancer	O	O	1
+d’urgence	O	O	1
+dans	O	O	1
+la	O	O	1
+compétition.	O	O	1
+Les	O	O	1
+dossiers	O	O	1
+papyrologiques	O	O	1
+retenus	O	O	1
+dans	O	O	1
+le	O	O	1
+projet	O	O	1
+pour	O	O	1
+illustrer	O	O	1
+«	O	O	1
+les	O	O	1
+magnifiques	O	O	1
+découvertes	O	O	1
+de	O	O	1
+papyrus	O	O	1
+qui	O	O	1
+ont	O	O	1
+été	O	B-PER	O
+faites	O	O	1
+en	O	O	1
+Égypte	B-LOC	O	O
+dans	O	O	1
+les	O	O	1
+dix	O	O	1
+dernières	O	O	1
+années	O	O	1
+»	O	O	1
+(doc.	B-LOC	O	O
+5),	O	O	1
+que	O	O	1
+nous	O	O	1
+avons	O	O	1
+énumérés	O	O	1
+plus	O	O	1
+haut,	O	O	1
+sont	O	O	1
+révélateurs	O	O	1
+de	O	O	1
+la	O	O	1
+supériorité	O	O	1
+concédée	O	O	1
+aux	O	O	1
+institutions	O	O	1
+britanniques.	O	O	1
+En	O	O	1
+1888,	O	O	1
+le	O	O	1
+British	B-LOC	O	O
+Museum	I-LOC	B-LOC	O
+avait	O	O	1
+en	O	O	1
+effet	O	O	1
+envoyé	O	O	1
+l’égyptologue	O	B-PER	O
+et	O	O	1
+orientaliste	O	O	1
+Wallis	B-PER	O	O
+Budge	I-PER	O	O
+en	O	O	1
+Égypte	B-LOC	O	O
+,	O	O	1
+afin	O	O	1
+d’enrichir	O	O	1
+ses	O	O	1
+collections	O	O	1
+en	O	O	1
+se	O	O	1
+fournissant	O	O	1
+sur	O	O	1
+le	O	O	1
+marché	O	O	1
+local	O	O	1
+des	O	O	1
+antiquités.	O	B-LOC	O
+Le	O	O	1
+musée	O	O	1
+londonien	O	O	1
+était	O	O	1
+ainsi	O	O	1
+entré	O	O	1
+en	O	O	1
+possession	O	O	1
+d’une	O	O	1
+exceptionnelle	O	O	1
+moisson	O	O	1
+de	O	O	1
+textes	O	O	1
+littéraires	O	O	1
+disparus,	O	O	1
+que	O	O	1
+le	O	O	1
+philologue	O	O	1
+Frederic	B-PER	O	O
+Kenyon	I-PER	O	O
+avait	O	O	1
+commencé	O	O	1
+à	O	O	1
+déchiffrer	O	O	1
+et	O	O	1
+à	O	O	1
+éditer	O	O	1
+en	O	O	1
+1890	O	O	1
+E.	B-PER	O	O
+Turner,	I-PER	B-PER	O
+Greek	B-PER	I-PER	O
+Papyri.	I-PER	O	O
+An	O	O	1
+Introduction,	O	O	1
+Oxford,	O	B-LOC	O
+1968	O	O	1
+(1980),	O	O	1
+p.	O	O	1
+22-24	O	B-PER	O
+;	O	I-PER	O
+J.	B-PER	O	O
+G.	I-PER	B-PER	O
+Keenan,	I-PER	I-PER	1
+«	O	O	1
+The	O	O	1
+History	O	O	1
+of	O	O	1
+the	O	O	1
+Discipline	O	B-PER	O
+»,	O	O	1
+in	O	O	1
+R.	O	O	1
+S.	O	O	1
+Bagnall	O	O	1
+(éd.),	O	O	1
+op.	O	O	1
+cit.,	B-LOC	B-LOC	1
+p.	O	O	1
+61	O	O	1
+.	O	O	1
+Le	O	O	1
+lot	O	O	1
+livra	O	O	1
+les	O	B-PER	O
+plaidoiries	O	O	1
+et	O	O	1
+manifestes	O	O	1
+politiques	O	O	1
+de	O	O	1
+grands	O	O	1
+orateurs	O	B-PER	O
+athéniens,	O	O	1
+Isocrate	B-PER	O	O
+,	O	O	1
+Démosthène,	B-PER	O	O
+Hypéride	B-PER	O	O
+-	O	O	1
+ce	O	O	1
+sont	O	O	1
+les	O	O	1
+«	O	O	1
+discours	O	O	1
+du	O	O	1
+temps	O	O	1
+de	O	O	1
+l’apogée	O	O	1
+d’Athènes	O	O	1
+»	O	O	1
+évoqués	O	O	1
+par	O	O	1
+Reitzenstein	B-PER	O	O
+et	O	O	1
+Spiegelberg	B-PER	O	O
+.	O	O	1
+De	O	O	1
+même,	O	O	1
+on	O	O	1
+identifie	O	O	1
+aisément	O	O	1
+sous	O	O	1
+leur	O	B-PER	O
+plume	O	O	1
+«	O	O	1
+les	O	O	1
+descriptions	O	O	1
+de	O	O	1
+sa	O	O	1
+constitution	O	O	1
+et	O	O	1
+de	O	O	1
+son	O	O	1
+histoire	O	O	1
+»	O	O	1
+comme	O	O	1
+l’Athènaiôn	O	O	1
+politeia,	O	O	1
+dont	O	O	1
+la	O	O	1
+publication	O	O	1
+par	O	O	1
+Kenyon	B-LOC	O	O
+en	O	O	1
+1891	O	O	1
+révolutionna	O	O	1
+la	O	O	1
+connaissance	O	O	1
+des	O	O	1
+institutions	O	O	1
+athéniennes.	O	O	1
+La	O	O	1
+même	O	O	1
+année,	O	O	1
+le	O	O	1
+chercheur	O	O	1
+anglais	O	O	1
+enchaîna	O	O	1
+sur	O	O	1
+l’édition	O	O	1
+des	O	O	1
+Mimes	B-LOC	O	O
+d’Hérondas,	O	O	1
+que	O	O	1
+les	O	O	1
+deux	O	O	1
+Strasbourgeois	B-LOC	O	O
+définissent	O	B-PER	O
+comme	O	I-PER	O
+«	O	O	1
+des	O	B-PER	O
+tableaux	O	I-PER	O
+de	O	O	1
+genre	O	O	1
+inspirés	O	B-PER	O
+de	O	I-PER	O
+la	O	O	1
+vie	O	B-PER	O
+quotidienne	O	O	1
+de	O	O	1
+l’époque	O	O	1
+alexandrine	O	O	1
+».	B-PER	O	O
+En	O	O	1
+1893/94	O	O	1
+et	O	O	1
+en	O	O	1
+1894/95,	O	O	1
+Flinders	O	O	1
+Petrie	O	O	1
+et	O	O	1
+Bernard	B-PER	O	O
+Grenfell	I-PER	O	O
+acquirent,	O	O	1
+pour	O	O	1
+le	O	O	1
+compte	O	O	1
+de	O	O	1
+la	O	O	1
+Bodleian	O	O	1
+Library	O	B-PER	O
+(	O	I-PER	O
+Oxford	B-LOC	O	O
+),	O	B-PER	O
+le	O	O	1
+papyrus	O	O	1
+des	O	O	1
+Revenue	O	O	1
+Laws,	O	O	1
+publié	O	O	1
+par	O	O	1
+Grenfell	B-PER	O	O
+en	O	O	1
+1896	O	O	1
+;	O	O	1
+pour	O	O	1
+reprendre	O	O	1
+les	O	O	1
+termes	O	O	1
+de	O	O	1
+la	O	O	1
+requête	O	O	1
+au	O	O	1
+gouverneur,	O	O	1
+ce	O	O	1
+document	O	O	1
+fiscal	O	O	1
+permet	O	O	1
+à	O	O	1
+l’historien	O	O	1
+d’étudier	O	O	1
+«	O	O	1
+l’administration	O	O	1
+générale	O	O	1
+de	O	O	1
+l’	O	O	1
+Égypte	O	O	1
+grecque	O	O	1
+et	O	O	1
+romaine	O	O	1
+à	O	O	1
+travers	O	O	1
+la	O	O	1
+réglementation	O	O	1
+des	O	O	1
+impôts	O	O	1
+du	O	O	1
+deuxième	O	O	1
+Ptolémée	B-PER	O	O
+».	I-PER	O	O
+Quant	I-PER	O	O
+au	O	O	1
+célèbre	O	O	1
+papyrus	O	O	1
+de	O	O	1
+Bacchylide	B-PER	O	O
+contenant	O	O	1
+«	O	O	1
+les	O	O	1
+chants	O	O	1
+puissants	O	O	1
+d’un	O	O	1
+rival	O	O	1
+de	O	O	1
+Pindare	B-PER	O	O
+à	O	O	1
+l’époque	O	O	1
+des	O	O	1
+guerres	O	O	1
+médiques	O	O	1
+»	O	O	1
+-	O	O	1
+papyrus	O	O	1
+qui	O	O	1
+aurait	O	O	1
+pu	O	O	1
+être	O	O	1
+acheté	O	O	1
+par	O	O	1
+Strasbourg	B-LOC	O	O
+-	O	O	1
+il	O	O	1
+aboutit	O	O	1
+en	O	O	1
+1896	O	O	1
+dans	O	O	1
+les	O	O	1
+collections	O	O	1
+du	O	O	1
+British	B-LOC	O	O
+Museum,	I-LOC	O	O
+pour	O	O	1
+être	O	O	1
+publié	O	O	1
+l’année	O	O	1
+suivante	O	O	1
+à	O	O	1
+nouveau	O	O	1
+par	O	O	1
+Kenyon.	B-PER	O	O
+Au	O	O	1
+travers	O	O	1
+des	O	O	1
+références	O	O	1
+implicites	O	O	1
+auxquelles	O	O	1
+il	O	O	1
+renvoie,	O	O	1
+le	O	O	1
+plaidoyer	O	O	1
+de	O	O	1
+Reitzenstein	B-PER	O	O
+et	O	O	1
+Spiegelberg	B-PER	O	O
+sur	O	O	1
+les	O	O	1
+apports	O	O	1
+de	O	O	1
+la	O	O	1
+papyrologie	O	O	1
+aux	O	O	1
+sciences	O	O	1
+de	O	O	1
+l’Antiquité	O	O	1
+est	O	O	1
+donc	O	O	1
+en	O	O	1
+soi	O	O	1
+un	O	O	1
+témoignage	O	O	1
+historique	O	O	1
+sur	O	O	1
+l’extraordinaire	O	O	1
+retentissement	O	O	1
+dont	O	O	1
+avaient	O	O	1
+bénéficié	O	O	1
+les	O	O	1
+acquisitions	O	O	1
+et	O	O	1
+les	O	O	1
+publications	O	O	1
+d’une	O	O	1
+poignée	O	O	1
+de	O	O	1
+savants	O	O	1
+anglais	O	O	1
+-	O	O	1
+en	O	O	1
+particulier	O	O	1
+pour	O	O	1
+le	O	O	1
+compte	O	O	1
+du	O	O	1
+British	B-LOC	O	O
+Museum	I-LOC	O	O
+-	O	O	1
+dans	O	O	1
+la	O	O	1
+dernière	O	O	1
+décennie	O	O	1
+du	O	O	1
+XIXe	O	O	1
+siècle.	O	O	1
+Dans	O	O	1
+ce	O	O	1
+contexte	O	O	1
+de	O	O	1
+vive	O	O	1
+émulation	O	O	1
+et	O	O	1
+sous	O	O	1
+la	O	O	1
+pression	O	O	1
+d’un	O	O	1
+marché	O	O	1
+en	O	O	1
+voie	O	O	1
+de	O	O	1
+saturation,	O	O	1
+la	O	O	1
+mission	O	O	1
+strasbourgeoise	O	O	1
+doit	O	O	1
+trouver	O	B-PER	O
+un	O	O	1
+angle	O	O	1
+d’attaque	O	O	1
+pour	O	O	1
+s’introduire	O	O	1
+rapidement	O	O	1
+sur	O	O	1
+les	O	O	1
+plaques	O	O	1
+tournantes	O	O	1
+du	O	O	1
+commerce.	O	O	1
+Elle	O	O	1
+peut	O	O	1
+compter	O	O	1
+à	O	O	1
+cette	O	O	1
+fin	O	O	1
+sur	O	O	1
+un	O	O	1
+atout	O	O	1
+providentiel	O	O	1
+:	O	O	1
+un	O	O	1
+ancien	O	O	1
+étudiant	O	O	1
+de	O	O	1
+l’université	O	O	1
+occupe	O	O	1
+en	O	O	1
+effet	O	O	1
+la	O	O	1
+fonction	O	O	1
+de	O	O	1
+premier	O	O	1
+drogman	O	O	1
+auprès	O	O	1
+du	O	O	1
+Consulat	O	O	1
+allemand	O	O	1
+au	B-LOC	O	O
+Caire	I-LOC	O	O
+,	O	O	1
+poste	O	B-LOC	O
+qui	O	O	1
+lui	O	O	1
+a	O	O	1
+permis	O	O	1
+d’acquérir	O	O	1
+une	O	O	1
+expérience	O	O	1
+inégalée	O	O	1
+du	O	O	1
+marché	O	O	1
+des	O	O	1
+antiquités	O	O	1
+:	O	O	1
+«	O	O	1
+Strasbourg	B-LOC	O	O
+serait	O	O	1
+justement	O	O	1
+déjà	O	B-PER	O
+en	O	O	1
+mesure	O	O	1
+de	O	O	1
+pouvoir	O	O	1
+entrer	O	O	1
+dans	O	O	1
+la	O	O	1
+compétition	O	O	1
+avec	O	O	1
+un	O	O	1
+certain	O	O	1
+espoir	O	B-PER	O
+de	O	O	1
+succès.	O	O	1
+Un	O	O	1
+élève	O	B-PER	O
+du	O	O	1
+professeur	O	O	1
+Nöldeke	O	O	1
+et	O	O	1
+docteur	O	O	1
+de	O	O	1
+notre	O	O	1
+université,	O	O	1
+Reinhardt,	O	O	1
+est	O	O	1
+employé	O	O	1
+comme	O	O	1
+premier	O	O	1
+drogman	O	B-PER	O
+auprès	O	I-PER	O
+du	O	O	1
+Consulat	O	O	1
+au	B-LOC	O	O
+Caire	I-LOC	O	O
+et	O	O	1
+est	O	O	1
+devenu,	O	O	1
+au	O	O	1
+travers	O	O	1
+de	O	O	1
+(son	O	O	1
+expérience)	O	O	1
+de	O	O	1
+collection	O	O	1
+et	O	O	1
+de	O	O	1
+recherche	O	O	1
+longue	O	O	1
+de	O	O	1
+quinze	O	B-PER	O
+ans,	O	O	1
+le	O	O	1
+meilleur	O	O	1
+connaisseur	O	O	1
+de	O	O	1
+cette	O	O	1
+situation	O	O	1
+et	O	O	1
+de	O	O	1
+ce	O	O	1
+commerce.	O	O	1
+Il	O	O	1
+nous	O	O	1
+a	O	O	1
+assuré	O	O	1
+avec	O	O	1
+beaucoup	O	O	1
+d’ardeur	O	O	1
+son	O	O	1
+soutien	O	O	1
+énergique	O	O	1
+pour	O	O	1
+une	O	O	1
+collection	O	O	1
+de	O	O	1
+papyrus	O	O	1
+strasbourgeoise	O	O	1
+»	O	O	1
+(doc.5).	O	O	1
+Et	O	O	1
+c’est	O	B-PER	O
+en	O	O	1
+effet	O	O	1
+grâce	O	B-PER	O
+à	O	O	1
+cette	O	O	1
+aide	O	O	1
+consulaire	O	O	1
+que,	O	O	1
+selon	O	O	1
+le	O	O	1
+rapport	O	O	1
+de	O	O	1
+mission	O	O	1
+de	O	O	1
+Reitzenstein	B-PER	O	O
+et	O	O	1
+Spiegelberg	B-PER	O	O
+,	O	O	1
+ceux-ci	O	O	1
+«	O	O	1
+ont	O	O	1
+tenu	O	O	1
+sous	O	O	1
+une	O	O	1
+surveillance	O	O	1
+constante	O	O	1
+le	O	O	1
+commerce	O	O	1
+des	O	O	1
+antiquités	O	O	1
+égyptien	O	B-PER	O
+sur	O	O	1
+ses	O	O	1
+deux	O	O	1
+marchés	O	O	1
+principaux	O	O	1
+du	O	B-PER	O
+Caire	B-LOC	O	O
+et	O	O	1
+de	O	O	1
+Louqsor	B-PER	O	O
+de	O	O	1
+la	O	O	1
+fin	O	O	1
+octobre	O	O	1
+à	O	O	1
+la	O	O	1
+mi-mars	O	O	1
+et,	O	O	1
+en	O	O	1
+outre,	O	O	1
+ont	O	O	1
+ratissé	O	O	1
+lors	O	O	1
+d’excursions	O	O	1
+longues	O	O	1
+et	O	O	1
+courtes	O	O	1
+les	O	O	1
+lieux	O	O	1
+de	O	B-PER	O
+découvertes	O	O	1
+dans	O	O	1
+les	O	O	1
+environs	O	O	1
+du	O	O	1
+Caire	B-LOC	O	O
+,	O	O	1
+le	O	B-PER	O
+Fayoum,	O	O	1
+Achmîm,	O	O	1
+Esna,	O	O	1
+Kena,	O	O	1
+Roda	O	O	1
+et	O	O	1
+Achmounein	O	O	1
+»	O	O	1
+(doc.7).	O	O	1
+Par	O	O	1
+l’entremise	O	O	1
+du	O	O	1
+vice-consul	O	O	1
+C.	O	O	1
+Reinhardt,	O	O	1
+les	O	O	1
+deux	O	O	1
+savants	O	O	1
+se	O	O	1
+sont	O	O	1
+ainsi	O	O	1
+initiés	O	O	1
+aux	O	O	1
+arcanes	O	O	1
+du	O	O	1
+marché	O	O	1
+des	O	O	1
+antiquités,	O	O	1
+dont	O	O	1
+les	O	O	1
+lieux	O	O	1
+de	O	O	1
+vente	O	O	1
+se	O	O	1
+répartissent	O	O	1
+en	O	O	1
+deux	O	O	1
+niveaux	O	O	1
+hiérarchiques	O	O	1
+:	O	O	1
+les	O	O	1
+sites	O	O	1
+archéologiques	O	O	1
+proprement	O	O	1
+dits,	O	O	1
+connus	O	O	1
+pour	O	O	1
+leurs	O	O	1
+gisements	O	O	1
+de	O	O	1
+papyrus	O	O	1
+et	O	O	1
+d’ostraca,	O	O	1
+et	O	O	1
+les	O	O	1
+plaques	O	O	1
+tournantes	O	B-PER	O
+principales	O	O	1
+du	O	O	1
+commerce	O	O	1
+-	O	O	1
+Le	B-LOC	O	O
+Caire	I-LOC	O	O
+et	O	O	1
+Louqsor	B-LOC	O	O
+-	O	O	1
+où	O	O	1
+les	O	O	1
+trouvailles	O	O	1
+sont	O	B-PER	O
+ensuite	O	O	1
+acheminées	O	O	1
+en	O	O	1
+direction	O	B-PER	O
+des	O	O	1
+acheteurs	O	O	1
+potentiels.	O	O	1
+Forts	O	O	1
+de	O	O	1
+cette	O	O	1
+expérience,	O	O	1
+les	O	O	1
+Strasbourgeois	B-LOC	O	O
+ont	O	O	1
+désormais	O	O	1
+établi	O	O	1
+leurs	O	O	1
+propres	O	O	1
+contacts	O	O	1
+avec	O	O	1
+les	O	O	1
+vendeurs,	O	O	1
+dont	O	O	1
+ils	O	O	1
+comptent	O	O	1
+bien	O	O	1
+tirer	O	O	1
+parti	O	O	1
+lors	O	O	1
+de	O	O	1
+leurs	O	O	1
+prochaines	O	O	1
+expéditions	O	O	1
+:	O	O	1
+«	O	O	1
+Les	O	O	1
+relations	O	O	1
+nouées	O	O	1
+cet	O	O	1
+hiver	O	O	1
+avec	O	O	1
+des	O	O	1
+marchands	O	O	1
+arabes	O	B-PER	O
+et	O	I-PER	O
+grecs,	O	O	1
+et	O	O	1
+la	O	O	1
+perspective	O	O	1
+presque	O	O	1
+certaine	O	O	1
+que	O	O	1
+l’un	O	O	1
+des	O	O	1
+soussignés	O	O	1
+voyage	O	O	1
+de	O	O	1
+nouveau	O	O	1
+en	O	O	1
+Égypte	B-LOC	O	O
+de	O	O	1
+temps	O	O	1
+en	O	O	1
+temps	O	O	1
+laissent	O	O	1
+espérer	O	O	1
+que	O	O	1
+se	O	O	1
+présente	O	O	1
+encore	O	O	1
+souvent	O	O	1
+une	O	O	1
+occasion	O	O	1
+d’achats	O	O	1
+opportuns	O	O	1
+et	O	O	1
+en	O	O	1
+particulier	O	O	1
+que	O	O	1
+la	O	O	1
+partie	O	O	1
+littéraire	O	O	1
+de	O	O	1
+la	O	O	1
+collection	O	B-PER	O
+soit	O	O	1
+encore	O	O	1
+accrue	O	O	1
+»	O	O	1
+(doc.	O	O	1
+7).	B-LOC	O	O
+Les	O	O	1
+retombées	O	O	1
+scientifiques	O	O	1
+et	O	O	1
+patrimoniales	O	O	1
+Il	O	O	1
+est	O	O	1
+temps	O	O	1
+de	O	B-LOC	O
+faire	O	O	1
+le	O	O	1
+point,	O	B-PER	O
+avec	O	O	1
+les	O	O	1
+acteurs	O	O	1
+de	O	O	1
+ces	O	O	1
+aventures,	O	O	1
+sur	O	O	1
+les	O	O	1
+fruits	O	O	1
+qu’ils	O	O	1
+retirèrent	O	O	1
+des	O	O	1
+expéditions	O	O	1
+menées	O	O	1
+lors	O	O	1
+des	O	O	1
+hivers	O	O	1
+1895/96	O	O	1
+et	O	O	1
+1898/99.	O	O	1
+Nous	O	O	1
+ne	O	O	1
+reviendrons	O	O	1
+que	O	O	1
+brièvement	O	O	1
+sur	O	O	1
+les	O	O	1
+libéralités	O	O	1
+dont	O	O	1
+Flinders	B-PER	O	O
+Petrie	I-PER	O	O
+et	O	O	1
+le	O	O	1
+marquis	B-PER	O	O
+de	I-PER	O	O
+Northampton	I-PER	O	O
+firent	O	O	1
+bénéficier	O	O	1
+l’Institut	O	O	1
+d’égyptologie	O	O	1
+de	O	B-PER	O
+l’université	O	O	1
+de	O	O	1
+Strasbourg	B-LOC	O	O
+.	O	O	1
+Leurs	O	O	1
+dons	O	O	1
+très	O	O	1
+importants	O	O	1
+ont	O	O	1
+constitué	O	O	1
+le	O	O	1
+noyau	O	O	1
+dur	O	O	1
+sur	O	O	1
+lequel	O	O	1
+se	O	O	1
+sont	O	O	1
+greffées	O	O	1
+les	O	O	1
+acquisitions	O	O	1
+ultérieures.	O	O	1
+Dans	O	O	1
+les	O	O	1
+années	O		O
+suivantes,	O		O
+en	O		O
+effet,	O		O
+l’Inventaire	O		O
+de	O		O
+l’Institut	O		O
+répertoriera	O		O
+encore	O		O
+les	O		O
+noms	O		O
+de	O		O
+nombreux	O		O
+donateurs	O		O
+:	O		O
+des	O		O
+collègues	O		O
+et	O		O
+des	O		O
+savants	O		O
+connus	O		O
+ou	O		O
+des	O		O
+mécènes	O		O
+occasionnels	O		O
+de	O		O
+l’entourage	O		O
+de	O		O
+Spiegelberg	B-PER		O
+-	O		O
+voire	O		O
+encore	O		O
+des	O		O
+associations	O		O
+comme	O		O
+le	O		O
+Club	O		O
+vosgien	O		O
+et	O		O
+la	O		O
+Deutsche	O		O
+Orient-Gesellschaft	O		O
+ou	O		O
+des	O		O
+musées	O		O
+allemands	O		O
+et	O		O
+étrangers	O		O
+(	O		O
+Berlin	B-LOC		O
+,	O		O
+Bonn	B-LOC		O
+,	O		O
+Liverpool	B-LOC		O
+et	O		O
+Bruxelles	B-LOC		O
+).	O		O
+Pour	O		O
+Spiegelberg	B-PER		O
+,	O		O
+les	O		O
+deux	O		O
+voyages	O		O
+sont	O		O
+l’occasion	O		O
+de	O		O
+s’immerger	O		O
+dans	O		O
+le	O		O
+milieu	O		O
+cosmopolite	O		O
+de	O		O
+l’égyptologie	O		O
+de	O		O
+terrain	O		O
+en	O		O
+Égypte	B-LOC		O
+.	O		O
+Au	O		O
+moment	O		O
+de	O		O
+lancer	O		O
+sa	O		O
+carrière	O		O
+et	O		O
+de	O		O
+fonder	O		O
+sa	O		O
+crédibilité	O		O
+locale	O		O
+sur	O		O
+un	O		O
+rayonnement	O		O
+scientifique	O		O
+international,	O		O
+les	O		O
+liens	O		O
+personnels	O		O
+qu’il	O		O
+tisse	O		O
+ainsi	O		O
+durablement,	O		O
+en	O		O
+particulier	O		O
+avec	O		O
+des	O		O
+savants	O		O
+britanniques,	O		O
+ont	O		O
+probablement	O		O
+autant	O		O
+de	O		O
+valeur	O		O
+que	O		O
+les	O		O
+bénéfices	O		O
+proprement	O		O
+patrimoniaux	O		O
+et	O		O
+documentaires	O		O
+de	O		O
+l’opération.	O		O
+À	O		O
+ce	O		O
+propos,	O		O
+il	O		O
+terminera	O		O
+seulement	O		O
+en	O		O
+1919,	O		O
+quelques	O		O
+mois	O		O
+après	O		O
+la	O		O
+prise	O		O
+de	O		O
+Strasbourg	O		O
+par	O		O
+les	O		O
+troupes	O		O
+françaises,	O		O
+la	O		O
+publication	O		O
+des	O		O
+graffitis	O		O
+copiés	O		O
+en	O		O
+1895/96.	O		O
+Lorsqu’il	B-LOC		O
+signe	O		O
+les	O		O
+avant-propos,	O		O
+le	O		O
+7	O		O
+janvier	O		O
+1919	O		O
+-	O		O
+à	O		O
+cette	O		O
+date,	O		O
+il	O		O
+s’est	O		O
+déjà	O		O
+fait	O		O
+notifier	O		O
+son	O		O
+expulsion	O		O
+vers	O		O
+l’	O		O
+Allemagne	B-LOC		O
+-	O		O
+c’est	O		O
+vers	O		O
+l’âge	O		O
+d’or	O		O
+de	O		O
+son	O		O
+premier	O		O
+voyage	O		O
+en	O		O
+Égypte	B-LOC		O
+que	O		O
+le	O		O
+professeur	O		O
+strasbourgeois	O		O
+tourne	O		O
+ses	O		O
+pensées	O		O
+:	O		O
+«	O		O
+Aujourd’hui,	B-PER		O
+au	O		O
+moment	O		O
+d’achever	O		O
+ce	O		O
+travail,	O		O
+mes	O		O
+pensées	O		O
+cheminent	O		O
+en	O		O
+arrière	O		O
+vers	O		O
+le	O		O
+temps	O		O
+où	O		O
+je	O		O
+dépistais	O		O
+les	O		O
+inscriptions	O		O
+avec	O		O
+la	O		O
+joyeuse	O		O
+hardiesse	O		O
+de	O		O
+la	O		O
+jeunesse.	O		O
+C’était	O		O
+encore	O		O
+la	O		O
+belle	O		O
+époque	O		O
+de	O		O
+l’harmonie	O		O
+scientifique,	O		O
+vers	O		O
+laquelle	O		O
+je	O		O
+jette	O		O
+aujourd’hui	O		O
+un	O		O
+regard	O		O
+rétrospectif	O		O
+comme	O		O
+vers	O		O
+un	O		O
+paradis	O		O
+perdu.	O		O
+De	O		O
+combien	O		O
+d’aide	O		O
+ce	O		O
+travail	O		O
+n’a-t-il	O		O
+pas	O		O
+bénéficié	O		O
+de	O		O
+la	O		O
+part	O		O
+des	O		O
+confrères	O		O
+anglais	O		O
+!	O		O
+»	O		O
+W.	B-PER		O
+Spiegelberg,	I-PER		O
+Ägyptische	I-PER		O
+und	O		O
+andere	O		O
+Graffiti	O		O
+(Inschriften	O		O
+und	O		O
+Zeichnungen)	O		O
+aus	O		O
+der	O		O
+thebanischen	O		O
+Nekropolis,	B-PER		O
+Heidelberg,	I-PER		O
+1921,	O		O
+p.	O		O
+VI	B-LOC		O
+.	O		O
+Ensuite,	O		O
+Spiegelberg	B-PER		O
+se	O		O
+remémore	O		O
+avec	O		O
+reconnaissance	O		O
+Percy	B-PER		O
+Newberry	I-PER		O
+,	O		O
+qui	O		O
+l’avait	O		O
+invité	O		O
+à	O		O
+loger	O		O
+dans	O		O
+sa	O		O
+maison	O		O
+de	O		O
+Dra	B-LOC		O
+Abou	I-LOC		O
+el-Nag	I-LOC		O
+a,	O		O
+Flinders	B-PER		O
+Petrie,	I-PER		O
+pour	O		O
+ses	O		O
+conseils	O		O
+et	O		O
+son	O		O
+aide	O		O
+et	O		O
+Idris	B-PER		O
+Awad,	I-PER		O
+dont	O		O
+le	O		O
+flair	O		O
+avait	O		O
+permis	O		O
+la	O		O
+découverte	O		O
+de	O		O
+si	O		O
+nombreuses	O		O
+inscriptions.	O		O
+«	O		O
+Avec	O		O
+une	O		O
+gratitude	O		O
+toute	O		O
+particulière	O		O
+»,	B-PER		O
+écrit-il	O		O
+encore,	O		O
+«	O		O
+je	O		O
+repense	O		O
+au	O		O
+cercle	O		O
+des	O		O
+égyptologues	O		O
+qui	O		O
+se	O		O
+rassemblait	O		O
+à	O		O
+cette	O		O
+époque	O		O
+autour	O		O
+de	O		O
+Flinders	B-PER		O
+Petrie	I-PER		O
+au	O		O
+Ramesseum,	O		O
+dans	O		O
+lequel	O		O
+chaque	O		O
+jour	O		O
+après	O		O
+l’achèvement	O		O
+de	O		O
+mon	O		O
+travail	O		O
+sur	O		O
+les	O		O
+graffitis	O		O
+je	O		O
+vécus	O		O
+des	O		O
+heures	O		O
+inoubliables	O		O
+».	O		O
+L’intensité	O		O
+des	O		O
+rapports	O		O
+sociaux	O		O
+que	O		O
+les	O		O
+savants	O		O
+entretenaient	O		O
+sur	O		O
+le	O		O
+terrain,	O		O
+parallèlement	O		O
+à	O		O
+la	O		O
+direction	O		O
+des	O		O
+fouilles,	O		O
+transparaît	O		O
+dans	O		O
+le	O		O
+journal	O		O
+que	O		O
+Newberry	B-PER		O
+écrivit	O		O
+pendant	O		O
+la	O		O
+durée	O		O
+des	O		O
+travaux	O		O
+menés	O		O
+en	O		O
+collaboration	O		O
+avec	O		O
+Spiegelberg	O		O
+Journal	O		O
+de	O		O
+Percy	O		O
+Newberry,	O		O
+Lord	O		O
+Northampton’s	O		O
+excavations	O		O
+1898/9,	O		O
+consulté	O		O
+au	O		O
+Griffith	O		O
+Institute	O		O
+(Oxford),	O		O
+avec	O		O
+l’aimable	O		O
+autorisation	O		O
+du	O		O
+Pr.	B-LOC		O
+Jaromir	I-LOC		O
+Málek	I-LOC		O
+.	O		O
+Le	O		O
+3	O		O
+janvier	O		O
+1899,	O		O
+par	O		O
+exemple,	O		O
+Newberry	B-PER		O
+,	O		O
+Reitzenstein	B-PER		O
+et	O		O
+Spiegelberg	B-PER		O
+se	O		O
+rendent	O		O
+au	O		O
+musée	B-LOC		O
+du	I-LOC		O
+Caire	I-LOC		O
+où	O		O
+ils	O		O
+rencontrent	O		O
+une	O		O
+belle	O		O
+brochette	O		O
+d’égyptologues	O		O
+:	O		O
+Erman,	O		O
+Brugsch,	B-PER		O
+Borchardt,	I-PER		O
+von	B-PER		O
+Bissing,	I-PER		O
+Quibell	I-PER		O
+et	O		O
+Chassinat	O		O
+!	O		O
+Deux	O		O
+jours	O		O
+plus	O		O
+tard,	O		O
+de	O		O
+retour	O		O
+à	O		O
+Dra	B-LOC		O
+Abou	I-LOC		O
+el-Naga	I-LOC		O
+,	O		O
+Newberry	B-PER		O
+,	O		O
+Spiegelberg	B-PER		O
+et	O		O
+leur	O		O
+raïs	O		O
+négocient	O		O
+avec	O		O
+le	O		O
+Français	B-LOC		O
+Daressy	I-LOC		O
+,	O		O
+représentant	O		O
+le	O		O
+Département	O		O
+des	O		O
+Antiquités,	O		O
+pour	O		O
+délimiter	O		O
+leur	O		O
+concession	O		O
+de	O		O
+fouille.	O		O
+Les	O		O
+deux	O		O
+archéologues	O		O
+reçoivent	O		O
+régulièrement	O		O
+des	O		O
+visites	O		O
+de	O		O
+courtoisie	O		O
+«	O		O
+to	O		O
+lunch	O		O
+»,	O		O
+«	O		O
+for	O		O
+tea	O		O
+»	O		O
+ou	O		O
+«	O		O
+to	O		O
+dinner	O		O
+».	B-PER		O
+Lisons	I-PER		O
+ainsi	O		O
+la	O		O
+notice	O		O
+du	O		O
+2	O		O
+février	O		O
+:	O		O
+«	O		O
+Schweinfurth	O		O
+(et)	O		O
+Northampton	B-LOC		O
+sont	O		O
+venus	O		O
+l’après-midi	O		O
+et	O		O
+après	O		O
+le	O		O
+dîner	O		O
+Spiegie	O		O
+et	O		O
+moi	O		O
+sommes	O		O
+allés	O		O
+chez	O		O
+Carter	B-PER		O
+(et)	O		O
+avons	O		O
+joué	O		O
+au	O		O
+whist.	O		O
+Lettre	O		O
+de	O		O
+Grenfell.	O		O
+Arrivée	O		O
+de	O		O
+Kahun	B-LOC		O
+Papyri	B-PER		O
+III	I-PER		O
+pour	O		O
+Spiegie	O		O
+».	O		O
+Ce	O		O
+sont	O		O
+quelques	O		O
+bribes	O		O
+d’une	O		O
+journée	O		O
+au	O		O
+paradis	O		O
+perdu,	O		O
+la	O		O
+réception	O		O
+d’une	O		O
+lettre	O		O
+postée	O		O
+par	O		O
+un	O		O
+génie	O		O
+de	O		O
+la	O		O
+papyrologie	O		O
+britannique,	O		O
+l’arrivée	O		O
+d’un	O		O
+ouvrage	O		O
+scientifique	O		O
+offert	O		O
+à	O		O
+«	O		O
+Spiegie	O		O
+»	O		O
+par	O		O
+un	O		O
+collègue,	O		O
+la	O		O
+visite	O		O
+d’un	O		O
+célèbre	O		O
+explorateur	O		O
+allemand	O		O
+et	O		O
+du	O		O
+diplomate	O		O
+anglais	O		O
+finançant	O		O
+la	O		O
+fouille,	O		O
+une	O		O
+partie	O		O
+de	O		O
+cartes	O		O
+entre	O		O
+trois	O		O
+jeunes	O		O
+prodiges	O		O
+de	O		O
+l’égyptologie	O		O
+tandis	O		O
+que	O		O
+la	O		O
+nuit	O		O
+tombe	O		O
+sur	O		O
+la	O		O
+nécropole	O		O
+thébaine…	O		O
+Parallèlement	O		O
+aux	O		O
+acquis	O		O
+proprement	O		O
+scientifiques,	O		O
+la	O		O
+«	O		O
+fouille	O		O
+en	O		O
+Égypte	B-LOC		O
+»,	I-LOC		O
+dans	O		O
+les	O		O
+conditions	O		O
+du	O		O
+XIXe	O		O
+siècle,	O		O
+conférait	O		O
+à	O		O
+son	O		O
+auteur	O		O
+une	O		O
+sorte	O		O
+de	O		O
+surplus	O		O
+d’autorité	O		O
+intellectuelle	O		O
+dans	O		O
+le	O		O
+monde	O		O
+des	O		O
+égyptologues,	O		O
+à	O		O
+l’image	O		O
+du	O		O
+«	O		O
+hadj	O		O
+»	O		O
+revenu	O		O
+d’un	O		O
+pèlerinage	O		O
+à	O		O
+La	O		O
+Mecque.	O		O
+Cette	O		O
+plus-value	O		O
+du	O		O
+curriculum	O		O
+vitae	O		O
+de	O		O
+Spiegelberg	B-PER		O
+au	O		O
+retour	O		O
+du	O		O
+terrain	O		O
+est	O		O
+clairement	O		O
+mise	O		O
+en	O		O
+évidence	O		O
+sous	O		O
+la	O		O
+plume	O		O
+de	O		O
+Jean	B-PER		O
+Capart	I-PER		O
+,	O		O
+conservateur	O		O
+adjoint	O		O
+aux	O		O
+Musées	B-LOC		O
+royaux	O		O
+des	O		O
+arts	O		O
+décoratifs	O		O
+et	O		O
+industriels	O		O
+de	O		O
+Bruxelles	B-LOC		O
+.	O		O
+Dans	O		O
+un	O		O
+courrier	O		O
+interne	O		O
+adressé	O		O
+en	O		O
+janvier	O		O
+1903	O		O
+au	O		O
+conservateur	O		O
+en	O		O
+chef	O		O
+Eugène	B-PER		O
+van	I-PER		O
+Overloop	I-PER		O
+,	O		O
+son	O		O
+supérieur,	O		O
+le	O		O
+savant	O		O
+belge	O		O
+valorise	O		O
+ses	O		O
+propres	O		O
+travaux	O		O
+grâce	O		O
+à	O		O
+une	O		O
+expertise	O		O
+établie	O		O
+par	O		O
+son	O		O
+collègue	O		O
+strasbourgeois	O		O
+-	O		O
+ce	O		O
+faisant,	O		O
+il	O		O
+est	O		O
+dans	O		O
+son	O		O
+intérêt	O		O
+d’attester	O		O
+les	O		O
+compétences	O		O
+de	O		O
+son	O		O
+éminent	O		O
+correspondant	O		O
+:	O		O
+«	O		O
+Le	O		O
+professeur	O		O
+Spiegelberg	B-PER		O
+de	I-PER		O
+Strasbourg	I-PER		O
+,	O		O
+un	O		O
+des	O		O
+maîtres	O		O
+de	O		O
+l’école	O		O
+allemande,	O		O
+a	O		O
+visité	O		O
+nos	O		O
+collections	O		O
+à	O		O
+mon	O		O
+retour	O		O
+d’	O		O
+Égypte	B-LOC		O
+et	O		O
+vous	O		O
+a	O		O
+envoyé	O		O
+à	O		O
+ce	O		O
+sujet	O		O
+un	O		O
+court	O		O
+rapport.	O		O
+Je	O		O
+tiens	O		O
+à	O		O
+faire	O		O
+remarquer	O		O
+que	O		O
+la	O		O
+compétence	O		O
+du	O		O
+professeur	O		O
+Spiegelberg	B-PER		O
+en	O		O
+ces	O		O
+matières	O		O
+ne	O		O
+peut	O		O
+être	O		O
+contestée.	O		O
+Élève	O		O
+du	O		O
+célèbre	O		O
+professeur	O		O
+Dümichen,	O		O
+Mr	O		O
+Spiegelberg	O		O
+fit	O		O
+des	O		O
+études	O		O
+également	O		O
+à	O		O
+Paris	B-LOC		O
+où	O		O
+il	O		O
+suivit	O		O
+naguère	O		O
+les	O		O
+cours	O		O
+de	O		O
+M.	B-PER		O
+Maspero	I-PER		O
+;	O		O
+il	O		O
+connaît	O		O
+par	O		O
+des	O		O
+séjours	O		O
+prolongés	O		O
+les	O		O
+diverses	O		O
+collections	O		O
+d’	O		O
+Europe	B-LOC		O
+et	O		O
+a	O		O
+fait	O		O
+de	O		O
+nombreux	O		O
+voyages	O		O
+en	O		O
+Égypte	B-LOC		O
+où	O		O
+il	O		O
+fit	O		O
+encore	O		O
+il	O		O
+y	O		O
+a	O		O
+quatre	O		O
+années	O		O
+\il	O		O
+exécuta/	O		O
+des	O		O
+fouilles	O		O
+pour	O		O
+le	O		O
+marquis	B-PER		O
+de	I-PER		O
+Northampthon	I-PER		O
+(…)	O		O
+»	O		O
+AMRAH,	O		O
+dossier	O		O
+«	O		O
+Capart	B-LOC		O
+objets	O		O
+1903-1905	O		O
+»,	B-PER		O
+minute	O		O
+d’une	O		O
+lettre	O		O
+de	O		O
+Capart	B-PER		O
+à	O		O
+van	B-PER		O
+Overloop	I-PER		O
+en	O		O
+réponse	O		O
+à	O		O
+son	O		O
+précédent	O		O
+courrier.	O		O
+Je	O		O
+remercie	O		O
+Valérie	B-PER		O
+Montens	I-PER		O
+,	O		O
+responsable	O		O
+des	O		O
+archives,	O		O
+pour	O		O
+son	O		O
+aide	O		O
+dans	O		O
+leur	O		O
+consultation.	O		O
+.	O		O
+L’aventure	B-LOC		O
+thébaine	O		O
+de	O		O
+1898/99,	B-LOC		O
+et	O		O
+l’expérience	O		O
+archéologique	O		O
+de	O		O
+terrain	O		O
+qu’elle	O		O
+suppose,	O		O
+occupe	O		O
+désormais	O		O
+une	O		O
+place	O		O
+de	O		O
+choix	O		O
+sur	O		O
+la	O		O
+carte	O		O
+de	O		O
+visite	O		O
+scientifique	O		O
+du	O		O
+«	O		O
+professeur	O		O
+Spiegelberg	B-PER		O
+de	I-PER		O
+Strasbourg	I-PER		O
+».	O		O
+Puisque	O		O
+nous	O		O
+en	O		O
+sommes	O		O
+venus	O		O
+à	O		O
+considérer	O		O
+la	O		O
+rhétorique	O		O
+de	O		O
+mise	O		O
+en	O		O
+valeur	O		O
+des	O		O
+travaux	O		O
+scientifiques,	O		O
+laissons	O		O
+à	O		O
+Reitzenstein	B-PER		O
+et	O		O
+Spiegelberg	B-PER		O
+le	O		O
+soin	O		O
+de	O		O
+présenter	O		O
+eux-mêmes	O		O
+les	O		O
+résultats	O		O
+de	O		O
+leur	O		O
+mission	O		O
+de	O		O
+chasse	O		O
+aux	O		O
+papyrus	O		O
+:	O		O
+«	O		O
+Bien	O		O
+que	O		O
+nous	O		O
+ayons	O		O
+surtout	O		O
+dirigé	O		O
+notre	O		O
+attention	O		O
+sur	O		O
+de	O		O
+grands	O		O
+papyrus	O		O
+littéraires,	O		O
+du	O		O
+même	O		O
+genre	O		O
+que	O		O
+ceux	O		O
+qui	O		O
+étaient	O		O
+apparus	O		O
+il	O		O
+y	O		O
+a	O		O
+plusieurs	O		O
+années	O		O
+-	O		O
+mais	O		O
+il	O		O
+est	O		O
+vrai,	O		O
+de	O		O
+façon	O		O
+tout	O		O
+à	O		O
+fait	O		O
+momentanée	O		O
+-	O		O
+sur	O		O
+le	O		O
+marché	O		O
+des	O		O
+antiquités,	O		O
+nos	O		O
+recherches	O		O
+de	O		O
+telles	O		O
+pièces	O		O
+rares	O		O
+sont	O		O
+cependant	O		O
+restées	O		O
+sans	O		O
+succès	O		O
+»	O		O
+(doc.	O		O
+7).	O		O
+Autant	O		O
+le	O		O
+dire	O		O
+d’entrée,	O		O
+les	O		O
+rêves	O		O
+de	O		O
+manuscrits	O		O
+littéraires	O		O
+prestigieux,	O		O
+qui	O		O
+à	O		O
+eux	O		O
+seuls	O		O
+hisseraient	O		O
+la	O		O
+bibliothèque	O		O
+strasbourgeoise	O		O
+au	O		O
+premier	O		O
+rang	O		O
+des	O		O
+institutions	O		O
+culturelles	O		O
+de	O		O
+l’	O		O
+Allemagne	B-LOC		O
+,	O		O
+ne	O		O
+se	O		O
+sont	O		O
+pas	O		O
+réalisés	O		O
+!	O		O
+Pour	O		O
+l’acquisition	O		O
+de	O		O
+colonnes	O		O
+complètes	O		O
+d’orateurs	O		O
+athéniens,	O		O
+de	O		O
+poètes	O		O
+alexandrins,	O		O
+de	O		O
+rivaux	O		O
+de	O		O
+Pindare	B-PER		O
+-	O		O
+un	O		O
+argument	O		O
+central	O		O
+du	O		O
+projet	O		O
+de	O		O
+compensation	O		O
+des	O		O
+manuscrits	O		O
+perdus	O		O
+en	O		O
+1870	O		O
+-	O		O
+il	O		O
+ne	O		O
+reste	O		O
+plus	O		O
+qu’à	O		O
+attendre	O		O
+une	O		O
+prochaine	O		O
+campagne…	O		O
+Mais	O		O
+qu’à	O		O
+cela	O		O
+ne	O		O
+tienne.	O		O
+«	O		O
+D’autant	O		O
+plus	O		O
+fructueux	O		O
+furent	O		O
+nos	O		O
+efforts	O		O
+en	O		O
+vue	O		O
+de	O		O
+trésors	O		O
+de	O		O
+papyrus	O		O
+d’autre	O		O
+nature.	O		O
+Car	O		O
+à	O		O
+cet	O		O
+égard	O		O
+s’est	O		O
+présenté	O		O
+un	O		O
+matériel	O		O
+étonnamment	O		O
+riche,	O		O
+composé	O		O
+de	O		O
+fragments	O		O
+d’oeuvres	O		O
+littéraires	O		O
+petits	O		O
+mais	O		O
+extrêmement	O		O
+importants	O		O
+pour	O		O
+la	O		O
+science,	O		O
+d’une	O		O
+valeur	O		O
+si	O		O
+remarquable	O		O
+que	O		O
+les	O		O
+soussignés	O		O
+se	O		O
+sont	O		O
+crus	O		O
+autorisés,	O		O
+et	O		O
+même	O		O
+forcés	O		O
+d’utiliser	O		O
+la	O		O
+plus	O		O
+grande	O		O
+partie	O		O
+de	O		O
+la	O		O
+somme	O		O
+mise	O		O
+à	O		O
+leur	O		O
+disposition.	O		O
+Ainsi	O		O
+furent	O		O
+acquises	O		O
+environ	O		O
+2	O		O
+000	O		O
+pièces	O		O
+grandes	O		O
+et	O		O
+petites,	O		O
+parmi	O		O
+lesquelles	O		O
+se	O		O
+dégagent	O		O
+déjà	O		O
+maintenant	O		O
+les	O		O
+pièces	O		O
+plus	O		O
+importantes	O		O
+suivantes.	O		O
+1)	O		O
+dans	O		O
+le	O		O
+domaine	O		O
+égyptologique,	O		O
+une	O		O
+assez	O		O
+grosse	O		O
+collection	O		O
+d’ostraca	O		O
+(documents	O		O
+sur	O		O
+des	O		O
+tessons)	O		O
+hiératiques	O		O
+de	O		O
+l’époque	O		O
+ramesside	O		O
+(vers	O		O
+1	O		O
+200	O		O
+av.	O		O
+J.-C.),	O		O
+une	O		O
+série	O		O
+de	O		O
+documents	O		O
+sur	O		O
+papyrus	O		O
+en	O		O
+démotique	O		O
+ancien	O		O
+du	O		O
+huitième	O		O
+siècle	O		O
+avant	O		O
+le	O		O
+Christ,	O		O
+tels	O		O
+qu’il	O		O
+s’en	O		O
+présente	O		O
+peu	O		O
+même	O		O
+dans	O		O
+les	O		O
+plus	O		O
+grandes	O		O
+collections	O		O
+égyptiennes.	O		O
+De	O		O
+l’époque	O		O
+plus	O		O
+tardive	O		O
+doivent	O		O
+être	O		O
+mentionnés	O		O
+une	O		O
+assez	O		O
+grande	O		O
+pièce	O		O
+littéraire	O		O
+avec	O		O
+un	O		O
+hymne	O		O
+à	O		O
+Osiris	B-PER		O
+et	O		O
+surtout	O		O
+des	O		O
+documents	O		O
+juridiques	O		O
+de	O		O
+l’époque	O		O
+ptolémaïque	O		O
+d’une	O		O
+étendue	O		O
+tout	O		O
+à	O		O
+fait	O		O
+inhabituelle	O		O
+et	O		O
+dans	O		O
+un	O		O
+état	O		O
+de	O		O
+conservation	O		O
+excellent,	O		O
+et	O		O
+pour	O		O
+finir	O		O
+une	O		O
+collection	O		O
+d’ostraca	O		O
+et	O		O
+de	O		O
+petites	O		O
+tablettes	O		O
+en	O		O
+bois	O		O
+démotiques.	O		O
+Très	O		O
+importants	O		O
+paraissent	O		O
+en	O		O
+outre	O		O
+les	O		O
+papyrus	O		O
+coptes,	O		O
+parmi	O		O
+lesquels	O		O
+une	O		O
+série	O		O
+de	O		O
+précieuses	O		O
+pièces	O		O
+littéraires	O		O
+à	O		O
+contenu	O		O
+théologique	O		O
+a	O		O
+déjà	O		O
+été	O		O
+identifiée	O		O
+grâce	O		O
+à	O		O
+un	O		O
+examen	O		O
+superficiel.	O		O
+Également	O		O
+les	O		O
+lettres,	O		O
+les	O		O
+textes	O		O
+magiques	O		O
+et	O		O
+les	O		O
+documents	O		O
+juridiques,	O		O
+en	O		O
+grande	O		O
+partie	O		O
+conservés	O		O
+dans	O		O
+un	O		O
+excellent	O		O
+état,	O		O
+semblent	O		O
+promettre	O		O
+de	O		O
+riches	O		O
+bénéfices.	O		O
+Doit	B-PER		O
+encore	O		O
+être	O		O
+mentionné	O		O
+un	O		O
+papyrus	O		O
+araméen,	O		O
+qui	O		O
+selon	O		O
+toute	O		O
+vraisemblance	O		O
+est	O		O
+conservé	O		O
+de	O		O
+façon	O		O
+complète	O		O
+et	O		O
+ainsi	O		O
+prend	O		O
+la	O		O
+première	O		O
+place	O		O
+parmi	O		O
+les	O		O
+documents	O		O
+de	O		O
+ce	O		O
+genre	O		O
+qui	O		O
+ont	O		O
+été	O		O
+identifiés	O		O
+jusqu’à	O		O
+présent,	O		O
+de	O		O
+même	O		O
+que	O		O
+quelques	O		O
+documents	O		O
+pahlavi	O		O
+(de	O		O
+l’époque	O		O
+sassanide),	O		O
+qui	O		O
+doivent	O		O
+également	O		O
+être	O		O
+signalés	O		O
+comme	O		O
+tout	O		O
+particulièrement	O		O
+précieux.	O		O
+Moins	O		O
+remarquables	O		O
+apparaissent	O		O
+jusqu’ici	O		O
+les	O		O
+monuments	O		O
+écrits	O		O
+arabes	O		O
+et	O		O
+hébreux.	O		O
+2)	O		O
+Dans	O		O
+le	O		O
+domaine	O		O
+du	O		O
+grec	O		O
+doivent	O		O
+surtout	O		O
+être	O		O
+mentionnés	O		O
+une	O		O
+pièce	O		O
+d’une	O		O
+étendue	O		O
+d’environ	O		O
+sept	O		O
+colonnes,	O		O
+quoique	O		O
+fortement	O		O
+abîmée,	O		O
+d’un	O		O
+auteur	O		O
+semble-t-il	O		O
+inconnu,	O		O
+d’assez	O		O
+longues	O		O
+pièces	O		O
+d’un	O		O
+poème	O		O
+épique	O		O
+tardif	O		O
+nouveau	O		O
+pour	O		O
+nous,	O		O
+un	O		O
+petit	O		O
+fragment	O		O
+d’un	O		O
+poème	O		O
+perdu	O		O
+d’Hésiode,	O		O
+plusieurs	O		O
+fragments	O		O
+de	O		O
+comédies	O		O
+grecques,	O		O
+des	O		O
+pièces	O		O
+d’une	O		O
+nouvelle	O		O
+anthologie	O		O
+et	O		O
+de	O		O
+traités	O		O
+grammaticaux	O		O
+et	O		O
+médicaux	O		O
+de	O		O
+même	O		O
+que	O		O
+de	O		O
+plus	O		O
+petits	O		O
+fragments	O		O
+de	O		O
+différents	O		O
+autres	O		O
+auteurs.	O		O
+Parmi	O		O
+les	O		O
+nombreux	O		O
+documents	O		O
+se	O		O
+distinguent	O		O
+particulièrement	O		O
+huit	O		O
+pièces	O		O
+d’archive	O		O
+de	O		O
+l’époque	O		O
+ptolémaïque,	O		O
+complètement	O		O
+conservées	O		O
+et	O		O
+pour	O		O
+certaines	O		O
+de	O		O
+grandes	O		O
+dimensions,	O		O
+un	O		O
+assez	O		O
+long	O		O
+document	O		O
+testamentaire	O		O
+de	O		O
+l’époque	O		O
+romaine,	O		O
+trois	O		O
+grands	O		O
+rouleaux,	O		O
+toutefois	O		O
+assez	O		O
+abîmés,	O		O
+avec	O		O
+l’allivrement	O		O
+d’une	O		O
+petite	O		O
+ville,	O		O
+enfin	O		O
+un	O		O
+nombre	O		O
+de	O		O
+fragments	O		O
+de	O		O
+lettres	O		O
+impériales.	O		O
+D’une	O		O
+façon	O		O
+annexe,	O		O
+une	O		O
+assez	O		O
+longue	O		O
+lettre	O		O
+latine	O		O
+complètement	O		O
+conservée	O		O
+peut	O		O
+également	O		O
+être	O		O
+mentionnée	O		O
+comme	O		O
+une	O		O
+rareté	O		O
+toute	O		O
+particulière	O		O
+et	O		O
+comme	O		O
+intéressante	O		O
+à	O		O
+plus	O		O
+d’un	O		O
+point	O		O
+de	O		O
+vue	O		O
+».	O		O
+Cette	O		O
+première	O		O
+description	O		O
+provisoire	O		O
+de	O		O
+la	O		O
+collection	O		O
+révèle	O		O
+un	O		O
+ensemble	O		O
+documentaire	O		O
+et	O		O
+littéraire	O		O
+d’une	O		O
+très	O		O
+grande	O		O
+valeur	O		O
+scientifique,	O		O
+qui	O		O
+promet	O		O
+des	O		O
+recherches	O		O
+fructueuses	O		O
+pour	O		O
+des	O		O
+décennies	O		O
+de	O		O
+papyrologues	O		O
+-	O		O
+bien	O		O
+au-delà	O		O
+du	O		O
+changement	O		O
+de	O		O
+souveraineté	O		O
+sur	O		O
+l’	O		O
+Alsace	B-LOC		O
+,	O		O
+qui	O		O
+menace	O		O
+sans	O		O
+qu’ils	O		O
+le	O		O
+sachent	O		O
+les	O		O
+savants	O		O
+allemands.	O		O
+Dans	O		O
+cette	O		O
+liste	O		O
+à	O		O
+la	O		O
+Prévert,	B-LOC		O
+le	O		O
+spécialiste	O		O
+reconnaît	O		O
+des	O		O
+lots	O		O
+qui	O		O
+ne	O		O
+seront	O		O
+publiés	O		O
+que	O		O
+beaucoup	O		O
+plus	O		O
+tard,	O		O
+le	O		O
+plus	O		O
+souvent	O		O
+sous	O		O
+le	O		O
+régime	O		O
+français,	O		O
+grand	O		O
+bénéficiaire	O		O
+du	O		O
+butin	O		O
+papyrologique	O		O
+ramené	O		O
+grâce	O		O
+aux	O		O
+crédits	O		O
+alloués	O		O
+par	O		O
+le	O		O
+gouvernement	O		O
+du	O		O
+Reichsland.	B-LOC		O
+Encore	O		O
+dernièrement,	O		O
+le	O		O
+12	O		O
+mai	O		O
+2010,	O		O
+a	O		O
+été	O		O
+soutenue	O		O
+à	O		O
+la	O		O
+Maison	O		O
+interuniversitaire	O		O
+des	O		O
+sciences	O		O
+de	O		O
+l’homme-Alsace	O		O
+une	O		O
+thèse	O		O
+intitulée	O		O
+Un	O		O
+dossier	O		O
+fiscal	O		O
+hermopolitain	O		O
+d’époque	O		O
+romaine	O		O
+conservé	O		O
+à	O		O
+la	O		O
+Bibliothèque	B-LOC		O
+nationale	I-LOC		O
+et	I-LOC		O
+universitaire	I-LOC		O
+de	I-LOC		O
+Strasbourg	I-LOC		O
+Brillamment	I-LOC		O
+soutenue	O		O
+par	O		O
+Ruey-Lin	B-PER		O
+Chang,	I-PER		O
+sous	O		O
+la	O		O
+direction	O		O
+des	O		O
+professeurs	O		O
+Jean	B-PER		O
+Gascou	I-PER		O
+et	O		O
+Andrea	B-PER		O
+Jördens.	I-PER		O
+.	O		O
+Il	O		O
+est	O		O
+vraisemblable	O		O
+que	O		O
+ce	O		O
+bel	O		O
+ensemble	O		O
+de	O		O
+fragments	O		O
+provenant	O		O
+de	O		O
+trois	O		O
+volumina,	O		O
+qui	O		O
+ont	O		O
+demandé	O		O
+à	O		O
+leur	O		O
+déchiffreur	O		O
+des	O		O
+trésors	O		O
+de	O		O
+science	O		O
+et	O		O
+de	O		O
+patience	O		O
+à	O		O
+cause	O		O
+de	O		O
+la	O		O
+grande	O		O
+détérioration	O		O
+du	O		O
+papyrus,	O		O
+puisse	O		O
+être	O		O
+identifié	O		O
+avec	O		O
+le	O		O
+document	O		O
+fiscal	O		O
+que	O		O
+les	O		O
+deux	O		O
+signataires	O		O
+du	O		O
+rapport	O		O
+définissaient	O		O
+comme	O		O
+«	O		O
+trois	O		O
+grands	O		O
+rouleaux,	O		O
+toutefois	O		O
+assez	O		O
+abîmés,	O		O
+avec	O		O
+l’allivrement	O		O
+d’une	O		O
+petite	O		O
+ville	O		O
+».	O		O
+Les	O		O
+mystérieuses	O		O
+malles	O		O
+du	O		O
+steamer	O		O
+Silesia	O		O
+:	O		O
+retombées	O		O
+patrimoniales	O		O
+et	O		O
+matrimoniales	O		O
+?	O		O
+Le	O		O
+printemps	O		O
+1899,	O		O
+au	O		O
+retour	O		O
+d’une	O		O
+mission	O		O
+prestigieuse	O		O
+menée	O		O
+avec	O		O
+succès,	O		O
+est	O		O
+pour	O		O
+Spiegelberg	B-PER		O
+la	O		O
+saison	O		O
+de	O		O
+toutes	O		O
+les	O		O
+promotions	O		O
+sociales	O		O
+et	O		O
+professionnelles.	O		O
+Mais	O		O
+sur	O		O
+le	O		O
+plan	O		O
+existentiel,	O		O
+sa	O		O
+désignation	O		O
+comme	O		O
+professeur	O		O
+extraordinaire,	O		O
+puis	O		O
+comme	O		O
+directeur	O		O
+d’un	O		O
+Institut	O		O
+d’égyptologie	O		O
+spécialement	O		O
+créé	O		O
+autour	O		O
+de	O		O
+la	O		O
+collection	O		O
+d’antiques	O		O
+acquise	O		O
+par	O		O
+ses	O		O
+soins,	O		O
+ne	O		O
+sont	O		O
+vraisemblablement	O		O
+pas	O		O
+les	O		O
+plus	O		O
+vitales	O		O
+des	O		O
+transformations	O		O
+de	O		O
+son	O		O
+statut.	O		O
+Dès	O		O
+le	O		O
+4	O		O
+avril,	O		O
+en	O		O
+effet,	O		O
+il	O		O
+épouse	O		O
+Elisabeth,	B-LOC		O
+fille	O		O
+du	O		O
+célèbre	O		O
+médecin	O		O
+Friedrich	B-PER		O
+Daniel	I-PER		O
+von	I-PER		O
+Recklinghausen	I-PER		O
+,	O		O
+titulaire	O		O
+de	O		O
+la	O		O
+chaire	O		O
+de	O		O
+pathologie	O		O
+et	O		O
+ancien	O		O
+recteur	O		O
+de	O		O
+la	O		O
+Kaiser-Wilhelms-Universität	B-LOC		O
+de	O		O
+Strasbourg	B-LOC		O
+.	O		O
+Ce	O		O
+mariage	O		O
+endogamique	O		O
+contribuera	O		O
+vraisemblablement	O		O
+à	O		O
+renforcer	O		O
+et	O		O
+à	O		O
+élargir	O		O
+le	O		O
+réseau	O		O
+social	O		O
+du	O		O
+jeune	O		O
+savant	O		O
+au	O		O
+sein	O		O
+de	O		O
+l’université	O		O
+impériale,	O		O
+au-delà	O		O
+de	O		O
+la	O		O
+Faculté	O		O
+de	O		O
+philosophie.	O		O
+Un	O		O
+détail	O		O
+insolite,	O		O
+caché	O		O
+au	O		O
+fin	O		O
+fond	O		O
+d’un	O		O
+dossier	O		O
+de	O		O
+comptabilité,	O		O
+pourrait	O		O
+du	O		O
+moins	O		O
+le	O		O
+suggérer.	O		O
+Le	O		O
+9	O		O
+mai,	O		O
+la	O		O
+société	O		O
+de	O		O
+transport	O		O
+«	O		O
+Grewe	B-LOC		O
+&amp;	I-LOC		O
+Co	I-LOC		O
+»,	I-LOC		O
+sur	O		O
+les	O		O
+instructions	O		O
+de	O		O
+Spiegelberg	B-PER		O
+,	O		O
+adresse	O		O
+au	O		O
+secrétaire	O		O
+du	O		O
+Kuratorium	O		O
+une	O		O
+facture	O		O
+de	O		O
+204,75	O		O
+marks	O		O
+pour	O		O
+l’acheminement	O		O
+de	O		O
+dix	O		O
+malles	O		O
+depuis	O		O
+Le	B-LOC		O
+Caire	I-LOC		O
+jusqu’à	O		O
+Brême	B-LOC		O
+.	O		O
+Les	O		O
+caisses,	O		O
+embarquées	O		O
+sur	O		O
+le	O		O
+steamer	O		O
+Silesia,	O		O
+que	O		O
+l’on	O		O
+attend	O		O
+dans	O		O
+les	O		O
+prochains	O		O
+jours,	O		O
+sont	O		O
+énumérées	O		O
+comme	O		O
+suit	O		O
+:	O		O
+«	O		O
+5	O		O
+malles	O		O
+d’antiquités	O		O
+pour	O		O
+la	O		O
+collection	O		O
+égyptologique	O		O
+»,	O		O
+«	O		O
+3	O		O
+malles	O		O
+de	O		O
+même	O		O
+contenu	O		O
+pour	O		O
+l’Institut	O		O
+d’anatomie	O		O
+»,	B-PER		O
+«	O		O
+2	O		O
+malles	O		O
+d’équipements	O		O
+etc.	O		O
+pour	O		O
+Monsieur	B-PER		O
+le	O		O
+Dr.	O		O
+Spiegelberg	O		O
+»	O		O
+ADBR	O		O
+AL	O		O
+103	O		O
+873	O		O
+.	O		O
+Sans	O		O
+surprise,	O		O
+l’université	O		O
+remboursera	O		O
+seulement	O		O
+le	O		O
+transport	O		O
+des	O		O
+huit	O		O
+caisses	O		O
+qui	O		O
+lui	O		O
+sont	O		O
+directement	O		O
+destinées	O		O
+-	O		O
+Reitzenstein	B-PER		O
+et	O		O
+Spiegelberg	B-PER		O
+s’étaient	O		O
+engagés	O		O
+à	O		O
+prendre	O		O
+en	O		O
+charge	O		O
+eux-mêmes	O		O
+leurs	O		O
+propres	O		O
+frais	O		O
+de	O		O
+voyage.	O		O
+Mais	O		O
+pourquoi	O		O
+adresser	O		O
+trois	O		O
+cantines	O		O
+à	O		O
+l’Institut	O		O
+d’anatomie,	O		O
+quelle	O		O
+sorte	O		O
+d’«	O		O
+antiquités	O		O
+»	O		O
+égyptiennes	O		O
+peuvent-elles	O		O
+bien	O		O
+contenir	O		O
+?	O		O
+Une	O		O
+autre	O		O
+pièce	O		O
+comptable	O		O
+du	O		O
+même	O		O
+dossier	O		O
+contribue	O		O
+à	O		O
+résoudre	O		O
+cette	O		O
+énigme	O		O
+:	O		O
+il	O		O
+s’agit	O		O
+d’un	O		O
+tableau	O		O
+récapitulant	O		O
+les	O		O
+dépenses	O		O
+effectuées	O		O
+au	O		O
+bénéfice	O		O
+de	O		O
+la	O		O
+collection	O		O
+égyptienne	O		O
+et	O		O
+de	O		O
+l’Institut	O		O
+d’anatomie,	O		O
+dont	O		O
+le	O		O
+directeur	O		O
+Gustav	O		O
+Schwalbe	O		O
+ainsi	O		O
+que	O		O
+Spiegelberg	B-PER		O
+certifient	O		O
+l’exactitude.	O		O
+Le	O		O
+document,	O		O
+daté	O		O
+des	O		O
+8	O		O
+et	O		O
+11	O		O
+juillet,	O		O
+s’intitule	O		O
+«	O		O
+Liste	O		O
+des	O		O
+factures	O		O
+à	O		O
+propos	O		O
+des	O		O
+frais	O		O
+de	O		O
+l’emballage	O		O
+et	O		O
+du	O		O
+transport	O		O
+des	O		O
+objets	O		O
+déterminés	O		O
+trouvés	O		O
+par	O		O
+le	O		O
+Professeur	O		O
+Dr.	O		O
+Spiegelberg	O		O
+à	O		O
+l’occasion	O		O
+des	O		O
+fouilles	O		O
+sur	O		O
+le	O		O
+site	O		O
+de	O		O
+la	O		O
+Thèbes	B-LOC		O
+égyptienne,	O		O
+pour	O		O
+la	O		O
+collection	O		O
+égyptologique	O		O
+et	O		O
+pour	O		O
+l’Institut	O		O
+d’anatomie	O		O
+».	O		O
+Les	O		O
+dépenses	O		O
+couvrent	O		O
+les	O		O
+frais	O		O
+de	O		O
+douane	O		O
+pour	O		O
+le	O		O
+transport	O		O
+des	O		O
+caisses	O		O
+d’antiquités	O		O
+en	O		O
+Égypte	O		O
+,	O		O
+la	O		O
+traversée	O		O
+depuis	O		O
+Thèbes	B-LOC		O
+ouest	O		O
+jusqu’à	O		O
+Louqsor	B-PER		O
+,	O		O
+l’acheminement	O		O
+jusqu’au	O		O
+Caire	O		O
+,	O		O
+le	O		O
+fret	O		O
+maritime	O		O
+jusqu’à	O		O
+Brême	B-LOC		O
+et	O		O
+enfin	O		O
+le	O		O
+trajet	O		O
+continental	O		O
+jusqu’à	O		O
+Strasbourg	B-LOC		O
+.	O		O
+Les	O		O
+caisses	O		O
+de	O		O
+la	O		O
+collection	O		O
+égyptienne	O		O
+sont	O		O
+entreposées	O		O
+pour	O		O
+étude	O		O
+au	O		O
+Jardin	B-LOC		O
+botanique,	O		O
+tandis	O		O
+que	O		O
+les	O		O
+trois	O		O
+autres	O		O
+sont	O		O
+dûment	O		O
+inventoriées	O		O
+à	O		O
+l’Institut	O		O
+d’anatomie.	O		O
+Sans	O		O
+jamais	O		O
+énoncer	O		O
+explicitement	O		O
+le	O		O
+contenu	O		O
+des	O		O
+malles,	O		O
+une	O		O
+note	O		O
+elliptique,	O		O
+attestant	O		O
+la	O		O
+légitimité	O		O
+des	O		O
+dépenses,	O		O
+laisse	O		O
+en	O		O
+réalité	O		O
+peu	O		O
+de	O		O
+place	O		O
+au	O		O
+doute	O		O
+:	O		O
+«	O		O
+Les	O		O
+trois	O		O
+malles	O		O
+sont	O		O
+utilisées	O		O
+pour	O		O
+l’objectif	O		O
+de	O		O
+l’Institut	O		O
+».	O		O
+Elles	O		O
+contiennent	O		O
+donc	O		O
+évidemment	O		O
+des	O		O
+pièces	O		O
+anatomiques	O		O
+prélevées	O		O
+dans	O		O
+la	O		O
+nécropole	O		O
+thébaine,	O		O
+des	O		O
+parties	O		O
+de	O		O
+momies	O		O
+égyptiennes	O		O
+telles	O		O
+qu’on	O		O
+peut	O		O
+en	O		O
+voir	O		O
+encore	O		O
+aujourd’hui	O		O
+dans	O		O
+la	O		O
+collection	O		O
+de	O		O
+l’Institut	O		O
+d’anatomie	O		O
+normale	O		O
+à	O		O
+l’hôpital	O		O
+civil	O		O
+de	O		O
+Strasbourg	B-LOC		O
+!	O		O
+L’intérêt	O		O
+des	O		O
+spécimens	O		O
+momifiés	O		O
+antiques	O		O
+pour	O		O
+les	O		O
+travaux	O		O
+de	O		O
+l’Institut	O		O
+est	O		O
+patent	O		O
+:	O		O
+anatomiste	O		O
+de	O		O
+grand	O		O
+renom,	O		O
+Gustav	O		O
+Schwalbe	O		O
+menait	O		O
+en	O		O
+effet	O		O
+ces	O		O
+années-là	O		O
+des	O		O
+recherches	O		O
+d’anthropologie	O		O
+physique	O		O
+sur	O		O
+des	O		O
+populations	O		O
+diverses	O		O
+dans	O		O
+le	O		O
+temps	O		O
+et	O		O
+dans	O		O
+l’espace	O		O
+(Zur	O		O
+Anthropologie	B-LOC		O
+der	O		O
+nordamerikanischen	O		O
+Indianer,	O		O
+1897	O		O
+;	O		O
+Über	B-PER		O
+die	I-PER		O
+Schädelformen	O		O
+der	O		O
+ältesten	O		O
+Menschenrassen	B-PER		O
+mit	O		O
+besonderer	O		O
+Berücksichtigung	B-PER		O
+des	O		O
+Schädels	B-PER		O
+von	I-PER		O
+Eguisheim,	I-PER		O
+1897	O		O
+;	O		O
+Studien	B-PER		O
+über	O		O
+Pithecanthropus	B-PER		O
+erectus	O		O
+Dubois,	B-PER		O
+1899	O		O
+;	O		O
+Der	O		O
+Neanderthalschädel,	O		O
+1901,	O		O
+etc.).	O		O
+Dans	O		O
+la	O		O
+foulée	O		O
+du	O		O
+Pithécanthrope,	O		O
+du	O		O
+Néandertal,	O		O
+du	O		O
+crâne	O		O
+d’	O		O
+Eguisheim	B-PER		O
+ou	O		O
+des	O		O
+Indiens	B-LOC		O
+d’Amérique,	O		O
+quoi	O		O
+de	O		O
+plus	O		O
+naturel	O		O
+que	O		O
+de	O		O
+s’intéresser	O		O
+à	O		O
+la	O		O
+morphologie	O		O
+des	O		O
+anciens	O		O
+habitants	O		O
+de	O		O
+la	O		O
+vallée	B-LOC		O
+du	I-LOC		O
+Nil	I-LOC		O
+?	O		O
+Schwalbe	B-LOC		O
+avait	O		O
+d’ailleurs	O		O
+ramené	O		O
+lui-même	O		O
+d’un	O		O
+voyage	O		O
+égyptien,	O		O
+en	O		O
+1892,	O		O
+de	O		O
+nombreux	O		O
+crânes	O		O
+et	O		O
+têtes	O		O
+de	O		O
+momies,	O		O
+pour	O		O
+compléter	O		O
+la	O		O
+collection	O		O
+strasbourgeoise	O		O
+d’ossements	O		O
+représentatifs	O		O
+des	O		O
+populations	O		O
+humaines	O		O
+J.-M.	O		O
+Le	O		O
+Minor,	O		O
+«	O		O
+Gustav	O		O
+Schwalbe	O		O
+(1844-1916)	O		O
+»,	B-LOC		O
+in	I-LOC		O
+B.	I-LOC		O
+Schnitzler,	I-LOC		O
+J.-M.	I-LOC		O
+Le	O		O
+Minor,	O		O
+B.	O		O
+Ludes,	O		O
+E.	O		O
+Boës	O		O
+(éd.),	O		O
+Histoire(s)	O		O
+de	O		O
+squelettes.	O		O
+Archéologie,	O		O
+médecine	O		O
+et	O		O
+anthropologie	O		O
+en	O		O
+Alsace,	B-LOC		O
+Strasbourg,	I-LOC		O
+2005,	O		O
+p.	O		O
+295-297	O		O
+-	O		O
+le	O		O
+consul	O		O
+allemand	O		O
+à	O		O
+Louqsor	B-PER		O
+,	O		O
+par	O		O
+exemple,	O		O
+lui	O		O
+avait	O		O
+ainsi	O		O
+remis	O		O
+160	O		O
+crânes	O		O
+contenus	O		O
+dans	O		O
+quatre	O		O
+sacs…	O		O
+G.	B-PER		O
+Schwalbe,	I-PER		O
+Reisebriefe	I-PER		O
+aus	O		O
+Aegypten,	B-PER		O
+Jena,	I-PER		O
+1893,	O		O
+p.	O		O
+123,	O		O
+cf.	O		O
+p.	O		O
+59-60	O		O
+;	O		O
+103-104	O		O
+;	O		O
+121	O		O
+;	O		O
+135	O		O
+;	O		O
+161-162	O		O
+;	O		O
+174	O		O
+Dans	O		O
+cette	O		O
+lignée,	O		O
+la	O		O
+livraison	O		O
+des	O		O
+trois	O		O
+malles	O		O
+de	O		O
+Spiegelberg	B-PER		O
+,	O		O
+sept	O		O
+ans	O		O
+plus	O		O
+tard,	O		O
+doit-elle	O		O
+s’interpréter	O		O
+comme	O		O
+une	O		O
+sorte	O		O
+de	O		O
+cadeau	O		O
+scientifique	O		O
+au	O		O
+milieu	O		O
+de	O		O
+la	O		O
+recherche	O		O
+médicale	O		O
+et	O		O
+anthropologique	O		O
+auquel	O		O
+appartenait	O		O
+son	O		O
+beau-père	O		O
+von	O		O
+Recklinghausen	B-PER		O
+,	O		O
+en	O		O
+accompagnement	O		O
+des	O		O
+nouvelles	O		O
+sociabilités	O		O
+inaugurées	O		O
+par	O		O
+le	O		O
+mariage	O		O
+?	O		O
+Abréviations	O		O
+ABNU	O		O
+DPK	O		O
+A	O		O
+:	O		O
+Archives	O		O
+de	O		O
+la	O		O
+BNU,	O		O
+Deutsches	O		O
+Papyruskartell	O		O
+Abteilung	O		O
+A	O		O
+ABDR	O		O
+AL	O		O
+:	O		O
+Archives	O		O
+départementales	O		O
+du	O		O
+Bas-Rhin,	O		O
+Alsace-Lorraine	O		O
+AMRAH	O		O
+:	O		O
+Archives	O		O
+des	O		O
+Musées	B-LOC		O
+royaux	O		O
+d’art	O		O
+et	O		O
+d’histoire	O		O
+(Bruxelles)	O		O
