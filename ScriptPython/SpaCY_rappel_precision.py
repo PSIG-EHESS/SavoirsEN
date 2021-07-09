@@ -25,7 +25,7 @@ def pretty_print(result, outfile=None):
     y_name = []
     rows = []
     for evaluation in result:
-        print(evaluation)
+        # print(evaluation)
         metrics = result[evaluation]
         row = []
         for metric, score in metrics.items():
@@ -34,12 +34,12 @@ def pretty_print(result, outfile=None):
             row.append(round(score, 3)) # Arrondir
         rows.append(row)
     grid = [score for score in [column for column in zip(*rows)]]
-    print(*x_name, sep='\t', file=outfile)
+    # print(*x_name, sep='\t', file=outfile)
     for i, row in enumerate(grid):
-        print(y_name[i], *map(str, row), sep='\t', file=outfile)
+        # print(y_name[i], *map(str, row), sep='\t', file=outfile)
         
         
-for input_file in glob.iglob("/Users/alexsoares/Desktop/EHESS/dev/Savoirs_Spacy/db_results/SpaCy_prediction/prediction_sm/*"):
+for input_file in glob.iglob("/Users/alexsoares/Desktop/EHESS/dev/Savoirs_env/8_db_SpaCy_results/SpaCy_prediction/prediction_BERT/*"):
     '''Loop throug the directory'''
     st_annotation = []
     gold_annotation = []
@@ -55,7 +55,7 @@ for input_file in glob.iglob("/Users/alexsoares/Desktop/EHESS/dev/Savoirs_Spacy/
                 token, automatique, gold, validity = line.split('\t') 
                 #print(token)
             except ValueError:
-                print(line)
+                # print(line)
             automatique = automatique.upper()
             # begin formatting the tags in the 'conll' format
             st_annotation.append(f"{token}\t{automatique}")
@@ -69,17 +69,17 @@ for input_file in glob.iglob("/Users/alexsoares/Desktop/EHESS/dev/Savoirs_Spacy/
     # generate precision and recall report
     evaluator = Evaluator(true, pred_st, tags=['LOC', 'PER'], loader="conll")
     results, results_by_tag = evaluator.evaluate()
-        
+    #print(results_by_tag)    
         
     # We can automatize it to do better
     # directory out
-    output_dir = "/Users/alexsoares/Desktop/EHESS/dev/Savoirs_Spacy/db_results/SpaCy_precision_rappel/precision_rappel_sm/"
+    output_dir = "/Users/alexsoares/Desktop/EHESS/dev/Savoirs_env/test_db/"
     
     # new files out with original's name plus _text and its new format .txt
     results_file = "%s%s_precision_rappel.csv"%(output_dir, os.path.splitext(os.path.basename(input_file))[0])
-    print(results_file)
+    # print(results_file)
     
     # save it as blabla_text.csv
     with open(results_file, 'w', encoding="utf-8") as fpout: 
-        pretty_print(results, outfile=fpout)
+        # pretty_print(results, outfile=fpout)
         
