@@ -1,0 +1,622 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" xmlns:dcr="http://www.isocat.org/ns/dcr" xmlns:examples="http://www.tei-c.org/ns/Examples" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:marcrel="http://www.loc.gov/loc.terms/relators" xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:ns="http://www.tei-c.org/ns/1.0" xmlns:trans="http://docbook.org/ns/transclusion" xmlns:xhtml="http://www.w3.org/TR/xhtml/strict" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xila="http://www.w3.org/2001/XInclude/local-attributes" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" lock="ndufournaud" time="2020-11-17T08:41:38.594+01:00" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.ehess.fr/crh/schemas/savoirs.xsd" xml:id="BNU_15_Mohnike">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Les mots et les choses : Johannes Schefferus et la
+        philologie du réel entre Rhin et Laponie</title>
+        <title type="collection">La Revue de la BNU n<hi rend="sup">o</hi> 8</title>
+        <author role="aut">
+          <forename>Thomas</forename>
+          <surname>Mohnike</surname>
+          <idno type="IDREF">131243128</idno>
+        </author>
+        <funder>EHESS</funder>
+        <principal>Projet Savoirs</principal>
+        <respStmt>
+          <resp>encodage et supervision</resp>
+          <name xml:id="ND">
+            <forename>Nicole</forename>
+            <surname>Dufournaud</surname>
+          </name>
+        </respStmt>
+        <respStmt>
+          <resp>supervision</resp>
+          <name xml:id="ALR">
+            <forename>Axel</forename>
+            <surname>Le Roy</surname>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Première édition numérique, Paris, <date when="2020">2020</date> dans le cadre du projet Savoirs.</edition>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>EHESS</distributor>
+        <address>
+          <addrLine>54 bd Raspail</addrLine>
+          <addrLine>75006 Paris</addrLine>
+          <addrLine>FRANCE</addrLine>
+        </address>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/3.0/deed.fr">Creative
+          Commons Attribution</licence>
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/2.0/fr/">BNU
+          BY-NC-SA Attribution - Pas d’Utilisation Commerciale - Partage dans
+          les Mêmes Conditions</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>« Savoirs » est une plateforme de publication numérique vouée à
+        l’histoire et à l’anthropologie des sciences et des savoirs. Le projet
+        est porté par l’EHESS (Paris) avec le soutien de différents
+        partenaires. Plus qu’une revue, une archive d’articles ou une
+        collection de livres, il s’agit d’une bibliothèque « intelligente » et
+        expérimentale qui propose des parcours de lecture heuristiques et
+        réflexifs entre les textes, grâce à différents algorithmes de
+        recherche et de suggestions reposant notamment sur un balisage des
+        lieux, des dates et des concepts en XML-TEI.</p>
+      </projectDesc>
+      <appInfo>
+        <application ident="metopes-savoirs" version="1.0">
+          <label>Métopes</label>
+          <label>Savoirs</label>
+          <desc>Environnement de transformation, d’édition et d’annotation
+          XML-TEI-Savoirs (XMLMind-XMLEditor Pro 7.6.)</desc>
+          <ref target="www.metopes.fr"/>
+        </application>
+        <application ident="certic" version="1.0">
+          <label>PluCo</label>
+          <desc>Plugin d’édition XML collaborative pour le logiciel
+          XMLMind-XMLEditor</desc>
+          <ref target="http://www.unicaen.fr/recherche/mrsh/document_numerique/outils/pluco"/>
+        </application>
+      </appInfo>
+      <classDecl>
+        <taxonomy xml:id="geonames">
+          <desc>
+            <ref target="https://www.geonames.org/"/>GeoNames : base de
+          données géographique</desc>
+        </taxonomy>
+        <taxonomy xml:id="idref">
+          <desc>
+            <ref target="https://idref.fr/"/>IdRef : Identifiants et
+          Référentiels pour l'enseignement supérieur et la recherche</desc>
+        </taxonomy>
+        <taxonomy xml:id="savoirs">
+          <desc>
+            <ref target="http://datu.ehess.fr"/>Thésaurus Savoirs</desc>
+        </taxonomy>
+        <taxonomy xml:id="zotero">
+          <desc>
+            <ref target="https://www.zotero.org/"/>Zotero : gestionnaire
+          de références Savoirs</desc>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="fra"/>
+        <language ident="deu"/>
+        <language ident="lat"/>
+        <language ident="eng"/>
+      </langUsage>
+      <!--Mots clefs proposés dans la source par l'auteur-->
+      <textClass/>
+      <!--Mots clefs proposés par l'annoteur à partir du Thésaurus Savoirs-->
+      <textClass>
+        <keywords>
+          <term/>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2019-08-22T14:36:00" who="Microsoft Office User">Révision</change>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:id="text">
+    <front>
+      <titlePage>
+        <docTitle>
+          <titlePart type="main">Les mots et les choses : Johannes Schefferus
+          et la philologie du réel entre Rhin et Laponie</titlePart>
+        </docTitle>
+        <byline>
+          <docAuthor>Thomas Mohnike</docAuthor>
+        </byline>
+      </titlePage>
+    </front>
+    <body>
+      <div type="chapitre" xml:id="d1e120">
+        <p xml:id="d1e122">Quand j’ai appris pour la première fois l’existence
+        d’un catalogue électronique des manuscrits conservés en <placeName ref="3017382" type="geonames" xml:base="https://www.geonames.org/">France</placeName>, j’ai tout de
+        suite regardé si <placeName ref="6441375" type="geonames" xml:base="https://www.geonames.org/">Strasbourg</placeName> disposait
+        de manuscrits d’origine nordique. Je ne m’attendais pas à une grande
+        découverte, mais l’un des manuscrits trouvés m’a profondément
+        intriguépar l’improbabilité de son existence strasbourgeoise : il
+        s’agit d’un rapport du <date from="1600" ref="_temp" to="1699">17<hi rend="sup">e</hi> siècle</date> écrit par un pasteur suédois, Olaus
+        Graan, qui exerçait son office tout au nord du pays, à <placeName ref="603570" type="geonames" xml:base="https://www.geonames.org/">Piteå</placeName>. Son texte
+        traite des mœurs et des coutumes des Sames, peuple habitant la région
+        communément appelée la <placeName ref="648958" type="geonames" xml:base="https://www.geonames.org/">Laponie</placeName>. Comment un
+        rapport d’une telle « nordicité », pour ainsi dire, avait-il pu
+        trouver le chemin de <placeName ref="6441375" type="geonames" xml:base="https://www.geonames.org/">Strasbourg</placeName> ?</p>
+        <p xml:id="d1e152">La découverte de ce manuscrit fut pour moi
+        l’occasion d’un profond étonnement, d’une expérience d’étrangeté dans
+        mes attentes quotidiennes qui m’a conduit à me questionner. C’était
+        pour ainsi dire un exemple du phénomène que le célèbre théoricien
+        français Roland Barthes a jadis appelé l’expérience du « punctum » :
+        le vécu d’une singularité qui crée un « effet de ponctuation », un
+        arrêt de pensée qui mène à la réflexion et parfois à la découverte de
+        quelque chose de nouveau. Un rapport du <date from="1600" ref="_temp" to="1699">17<hi rend="sup">e</hi> siècle</date>, rédigé aux alentours
+        du cercle polaire par un prêtre suédois, qui se retrouve dans une
+        bibliothèque de <placeName ref="6441375" type="geonames" xml:base="https://www.geonames.org/">Strasbourg</placeName> ! C’était
+        pour moi quelque chose de presque plus étrange et exotique que la
+        présence de la fameuse momie égyptienne dans la collection de cette
+        dernière.</p>
+        <p xml:id="d1e164">Quelques questions suivirent cette découverte : qui
+        était ce pasteur suédois, pourquoi et dans quel but avait-il rédigé
+        son rapport ? À qui avait-il envoyé ce document, et pour quelle raison
+        l’avait-on proposé à la collection strasbourgeoise ? Et pourquoi
+        avait-on décidé de le garder, de le conserver ? Quel intérêt pour le
+        Grand Nord se cachait derrière cet écrit ? Les réponses à ces
+        interrogations font apparaître, de façon tout à fait passionnante, un
+        paysage des pratiques du savoir et de sa circulation entre la région
+        rhénane et la <placeName ref="648958" type="geonames" xml:base="https://www.geonames.org/">Laponie</placeName> à la fin du
+        <date from="1600" ref="_temp" to="1699">17<hi rend="sup">e</hi>
+          </date>
+        et au cours du <date from="1700" ref="_temp" to="1799">18<hi rend="sup">e</hi> siècle</date>.</p>
+        <p xml:id="d1e186">Hélas, nos sources ne nous disent pas grand-chose
+        sur les circonstances exactes de l’acquisition du manuscrit<note n="1" place="foot" type="standard" xml:id="ftn1">
+            <p>Il fut acquis, pour le compte de la Kaiserliche Universitäts-
+            und Landesbibliothek (ancêtre de la BNU), en <date ref="_temp" when="1879">1879</date> par la Fondation Saint-Thomas auprès du
+            libraire d’ancien Fidelis Butsch à <placeName ref="_temp">Augsbourg</placeName>. S’il est assez probable que son
+            acquisition était destinée à renforcer le fonds encyclopédique que
+            l’on entendait constituer alors à <placeName ref="_temp">Strasbourg</placeName> (voir aussi à ce sujet
+            l’article de Pierre-Brice Stahl p. 39), nous ignorons par contre
+            pour quelle raison il s’était retrouvé en vente, et qui était son
+            précédent propriétaire.</p>
+          </note>. Sur la première page, nous pouvons lire en français (nous
+        retranscrivons le texte littéralement) :</p>
+        <p xml:id="d1e207">« Ce manuscrit a esté composé en langue suédoise
+        par Olaus Graan pasteur luthérien de la province de Pitha pour
+        l’instruction des Lapons qui estoient souz sa conduite. Il avoit esté
+        auparavant musicien de la reine Christine de <placeName ref="2661886" type="geonames" xml:base="https://www.geonames.org/">Suède</placeName>, il se mesloit
+        aussi de l’astronomie et de l’astrologie judiciaire, de la chimie et
+        de la médecine, il estoit gendre du fameux Joannes Torneus pasteur de
+        la province de Torna dont les mémoires sur la <placeName ref="648958" type="geonames" xml:base="https://www.geonames.org/">Laponie</placeName> ont beaucoup
+        servi à M. Scheffer pour composer l’histoire qu’il en a faite ».</p>
+        <p xml:id="d1e225">Malheureusement, l’auteur de cette notice nous est
+        inconnu. Elle semble avoir été rédigée quelque temps après la
+        rédaction du rapport. La langue employée pourrait indiquer que son
+        auteur vivait au <date from="1700" ref="_temp" to="1799">18<hi rend="sup">e</hi> siècle</date> ; il était peut-être strasbourgeois,
+        mais utilisait la langue française et venait donc, en tout cas, d’une
+        couche sociale plutôt privilégiée.</p>
+        <p xml:id="d1e235">Il est fort probable qu’il ne comprenait pas le
+        suédois, car il se trompe sur le contenu du manuscrit : ce dernier
+        n’était pas fait pour l’instruction des Lapons, mais à usage
+        d’enseignement, au sujet des Lapons, pour les suédophones. Ce n’était
+        donc pas la valeur informative de l’objet qui l’intéressait, mais sa
+        valeur idéelle et symbolique comme témoin d’un milieu culturel
+        vivant : il indique que l’auteur du manuscrit, Olaus Graan, était
+        musicien de la fameuse reine de <placeName ref="2661886" type="geonames" xml:base="https://www.geonames.org/">Suède</placeName>, Christine, et
+        membre de la famille d’un écrivain dont s’est inspiré l’auteur reconnu
+        du premier livre moderne sur la <placeName ref="648958" type="geonames" xml:base="https://www.geonames.org/">Laponie</placeName> (paru
+        en <date ref="_temp" when="1673">1673</date>), <persName ref="03297129X" type="idref" xml:base="https://www.idref.fr/">Johannes
+        Schefferus</persName>. La <hi rend="italic">Lapponia </hi>de ce
+        dernier fut un succès immédiat sur le marché des livres de géographie
+        culturelle ; il a été rédigé en latin et tout de suite traduit en
+        anglais, français, allemand et néerlandais.</p>
+        <p xml:id="d1e247">Pour cet inconnu du <date from="1700" ref="_temp" to="1799">18<hi rend="sup">e</hi> siècle</date>, la valeur du
+        manuscrit s’explique donc par sa participation symbolique à la vie et
+        à l’activité de deux acteurs culturels et politiques auxquels il
+        attache une grande importance – la reine Christine et <persName ref="03297129X" type="idref" xml:base="https://www.idref.fr/">Johannes
+        Schefferus</persName>. Ce fut donc probablement pour lui une bonne
+        raison de le garder dans la collection dont il faisait partie avant
+        d’être intégré à celle de la <foreign xml:lang="ger">Kaiserliche
+        Universitäts- und Landesbibliothek</foreign> de <placeName ref="6441375" type="geonames" xml:base="https://www.geonames.org/">Strasbourg</placeName> après
+        <date ref="_temp" when="1871">1871</date>.</p>
+        <p xml:id="d1e265">Mis à part Olaus Graan, le premier nom cité par
+        notre commentateur anonyme reste de nos jours largement connu en
+        dehors du cercle des spécialistes. La reine Christine avait pendant un
+        certain temps gouverné la <placeName ref="2661886" type="geonames" xml:base="https://www.geonames.org/">Suède</placeName> dans une
+        période de puissance pour le pays. Son père Gustave II Adolphe était
+        intervenu avec un grand succès pendant la <date ref="_temp">guerre de
+        Trente Ans</date>, aux côtés des protestants, et son succès militaire
+        avait surpris et intrigué ses contemporains, la <placeName ref="2661886" type="geonames" xml:base="https://www.geonames.org/">Suède</placeName> étant une
+        « terra incognita », presque totalement inconnue pour les acteurs
+        d’autres pays européens, et pour cette raison souvent imaginée comme
+        fondamentalement non civilisée. La propagande de ses ennemis proposa
+        beaucoup de raisons pour expliquer ce succès. Une de ces raisons nous
+        intéresse tout particulièrement : on soupçonnait les Suédois
+        d’employer des magiciens lapons.</p>
+        <p xml:id="d1e277">À la mort de son père en <date ref="_temp" when="1632">1632</date>, Christine avait cinq ans. Elle fut cependant
+        reine de <placeName ref="2661886" type="geonames" xml:base="https://www.geonames.org/">Suède</placeName> jusqu’à sa
+        conversion au catholicisme en <date ref="_temp" when="1654">1654</date>. Cette période est caractérisée par l’effort
+        suédois d’ajouter à des compétences militaires désormais reconnues une
+        reconnaissance culturelle sur la scène européenne. Parmi les
+        nombreuses actions entreprises par le gouvernement dans ce but, il
+        convient de citer l’invitation faite aux intellectuels et artistes
+        européens les plus connus de venir à la cour de la reine et dans les
+        universités du pays. Une place-clé dans ce « conseil de sagesse »
+        était réservée à <persName ref="027287165" type="idref" xml:base="https://www.idref.fr/">René Descartes</persName>. Au grand
+        regret de Christine, il décéda quelques mois après son arrivée dans le
+        pays.</p>
+        <p xml:id="d1e289">Le deuxième nom cité par le commentateur inconnu du
+        manuscrit faisait partie de ce cercle d’intellectuels appelés à
+        développer les compétences scientifiques des milieux universitaires et
+        académiques suédois et, partant, la renommée du pays dans ce domaine.
+        <persName ref="03297129X" type="idref" xml:base="https://www.idref.fr/">Johannes Schefferus</persName>,
+        philologue reconnu et archéologue avant la lettre, a saisi cet appel
+        qui est devenu le fil conducteur de sa vie professionnelle, et peut
+        être considéré aujourd’hui comme l’un des grands innovateurs du champ
+        de la philologie au sens large en <placeName ref="2661886" type="geonames" xml:base="https://www.geonames.org/">Suède</placeName>, ou pour le
+        dire avec les mots de <persName ref="029259150" type="idref" xml:base="https://www.idref.fr/">Sten Lindroth</persName>, comme « le
+        créateur de la philologie classique en <placeName ref="2661886" type="geonames" xml:base="https://www.geonames.org/">Suède</placeName> ». On pourrait
+        également l’appeler le fondateur des études sames, même si cet effort
+        ne fut qu’un produit secondaire de ses activités. Rien ne semblait le
+        prédisposer à ce destin à sa naissance. <persName ref="03297129X" type="idref" xml:base="https://www.idref.fr/">Johannes
+        Schefferus</persName> (<date from="1621" ref="_temp" to="1680">1621-1680</date>) était originaire de <placeName ref="6441375" type="geonames" xml:base="https://www.geonames.org/">Strasbourg</placeName>. Né dans
+        une famille aisée, <persName ref="03297129X" type="idref" xml:base="https://www.idref.fr/">Schefferus</persName> fit sa
+        scolarité et une grande partie de ses études universitaires dans sa
+        ville natale. Il y étudia particulièrement la philologie avec
+        <persName ref="080247318" type="idref" xml:base="https://www.idref.fr/">Matthias Bernegger</persName>,
+        <persName ref="028191293" type="idref" xml:base="https://www.idref.fr/">Johannes Henricus
+        Boeclerus</persName> et <persName ref="030805147" type="idref" xml:base="https://www.idref.fr/">Johan Freinshemius</persName>, trois
+        grands noms de la philologie de son temps. Pour compléter son
+        éducation, il fit des voyages d’études en <placeName ref="2658434" type="geonames" xml:base="https://www.geonames.org/">Suisse</placeName> et dans les
+        <placeName ref="2750405" type="geonames" xml:base="https://www.geonames.org/">Provinces-Unies
+        néerlandaises</placeName>, surtout à l’université de <placeName ref="2751773" type="geonames" xml:base="https://www.geonames.org/">Leyde</placeName>, où il suivit
+        les cours de <persName ref="029112540" type="idref" xml:base="https://www.idref.fr/">Gerhard Johan Vossius</persName>,
+        <persName ref="032018126" type="idref" xml:base="https://www.idref.fr/">Marcus Zueris Boxhornius</persName>,
+        <persName ref="029158664" type="idref" xml:base="https://www.idref.fr/">Daniel Heinsius</persName>, <persName ref="07640059X" type="idref" xml:base="https://www.idref.fr/">Petrus
+        Cunæus</persName>, <persName ref="027914836" type="idref" xml:base="https://www.idref.fr/">Hugo Grotius</persName> et beaucoup
+        d’autres enseignant dans ce grand centre intellectuel européen.</p>
+        <p xml:id="d1e312">L’intérêt principal des philologues strasbourgeois,
+        dont il faisait partie, était l’édition et l’étude des écrivains
+        classiques et donc latins. On peut citer ainsi son édition de la <hi rend="italic">Varia historia </hi>de Claudius Aelianus, imprimée à
+        Strasbourg en 1647. Une spécificité strasbourgeoise était cependant la
+        curiosité particulière pour la culture matérielle des civilisations de
+        l’<date ref="_temp">Antiquité</date>. Dans cet esprit, <persName ref="03297129X" type="idref" xml:base="https://www.idref.fr/">Schefferus</persName> rédigea l’une
+        de ses premières publications sur les différents types de bateaux
+        connus par les Anciens, la <hi rend="italic">Dissertatio de varietate
+        navium, </hi>imprimée à Strasbourg en 1643 – champ d’investigation
+        qu’il continuera à travailler en <placeName ref="2661886" type="geonames" xml:base="https://www.geonames.org/">Suède</placeName>
+        avec des publications comme <hi rend="italic">De militia navali
+        veterum libri quatuor. Ad historiam græcam latinamque utiles</hi>,
+        publiée à Upsal en 1654, ou encore <hi rend="italic">De re vehiculari
+        veterum, </hi>publiée à Francfort en 1671. La philologie n’était donc
+        pas pour lui uniquement une question de mots, mais aussi de choses.
+        C’était une philologie du réel, basée sur l’étude des textes.</p>
+        <p xml:id="d1e359">C’est avec ce bagage, et sur la recommandation de
+        son professeur <persName ref="028191293" type="idref" xml:base="https://www.idref.fr/">Johann Henrik Boeclerus</persName>,
+        qu’il fut invité en <placeName ref="2661886" type="geonames" xml:base="https://www.geonames.org/">Suède</placeName> pour devenir
+        professeur d’éloquence et de politique à <placeName ref="636513" type="geonames" xml:base="https://www.geonames.org/">Skytte</placeName>, l’une des
+        chaires universitaires suédoises les plus reconnues, à l’âge de
+        vingt-sept ans. <persName ref="028191293" type="idref" xml:base="https://www.idref.fr/">Boeclerus</persName> le rejoignit
+        plus tard en <placeName ref="2661886" type="geonames" xml:base="https://www.geonames.org/">Suède</placeName> comme historien
+        du royaume (Rikshistoriograf) de <date from="1649" ref="_temp" to="1652">1649 à 1652</date>. Son prédécesseur était <persName ref="030805147" type="idref" xml:base="https://www.idref.fr/">Johan
+        Freinshemius</persName>, beau-fils de l’autre professeur de Scheffer,
+        <persName ref="080247318" type="idref" xml:base="https://www.idref.fr/">Bernegger</persName>, également
+        représentant de la philologie strasbourgeoise de l’époque.</p>
+        <p xml:id="d1e374">Entre <placeName ref="6441375" type="geonames" xml:base="https://www.geonames.org/">Strasbourg</placeName> et la cour
+        de <placeName ref="2661886" type="geonames" xml:base="https://www.geonames.org/">Suède</placeName> existaient donc
+        des échanges intellectuels et personnels significatifs. Cependant, ces
+        rapports « bilatéraux » faisaient partie d’un réseau professionnel
+        plus important, qui devient visible quand on étudie les provenances
+        des autres collègues étrangers de <persName ref="03297129X" type="idref" xml:base="https://www.idref.fr/">Schefferus</persName> en
+        <placeName ref="2661886" type="geonames" xml:base="https://www.geonames.org/">Suède</placeName>. Parmi eux, il
+        convient de citer <persName ref="030769590" type="idref" xml:base="https://www.idref.fr/">Nicolaus Heinsius</persName>,
+        <persName ref="027572919" type="idref" xml:base="https://www.idref.fr/">Claudius Salmasius</persName> ou
+        <persName ref="035113596" type="idref" xml:base="https://www.idref.fr/">Isaac Vossius</persName>, tous des
+        savants issus du milieu académique de <placeName ref="2751773" type="geonames" xml:base="https://www.geonames.org/">Leyde</placeName>. L’intérêt
+        porté par les Suédois aux intellectuels de <placeName ref="6441375" type="geonames" xml:base="https://www.geonames.org/">Strasbourg</placeName>, et les
+        relations qui s’ensuivirent, étaient vraisemblablement facilités par
+        un réseau rhénan préétabli. Ils ont été employés en tant que membres
+        de ce réseau : selon <persName ref="030446554" type="idref" xml:base="https://www.idref.fr/">Allan Ellenius</persName> par
+        exemple, la méthode philologique néerlandaise – ou devrait-on
+        l’appeler plutôt « rhénane » ? – était considérée comme à la pointe de
+        ce que produisait le monde d’alors.</p>
+        <p xml:id="d1e395">Parmi tous ses collègues provenant d’autres pays,
+        <persName ref="03297129X" type="idref" xml:base="https://www.idref.fr/">Schefferus</persName> fut peut-être
+        celui qui s’investit le plus dans la politique et les intérêts de son
+        employeur, sans pour autant y perdre son autonomie scientifique. Pour
+        introduire les méthodes philologiques de la région rhénane en
+        <placeName ref="2661886" type="geonames" xml:base="https://www.geonames.org/">Suède</placeName> en particulier
+        et dans le monde savant en général, il rédigea des manuels et établit
+        des éditions d’auteurs classiques pour l’enseignement. Plus
+        importante, cependant, fut sa participation à la grande aventure
+        historiographique suédoise, le gothicisme – implication qui toutefois
+        n’alla pas sans complications.</p>
+        <p xml:id="d1e398">Quand la <placeName ref="2661886" type="geonames" xml:base="https://www.geonames.org/">Suède</placeName> avait accédé à
+        sa position de puissance pendant la <date ref="_temp">guerre de Trente
+        Ans</date>, la question de son histoire était devenue urgente. Bien
+        évidemment, elle ne pouvait pas revendiquer une appartenance à la
+        tradition gréco-romaine autrement que par un apprentissage tardif. Les
+        républiques italiennes, le royaume français, même le Saint-Empire
+        romain dit germanique pouvaient expliquer leur descendance des Anciens
+        de façon relativement convaincante. Pour les Suédois, par contre, ce
+        chemin était difficile. Ils eurent recours pour cela à la théorie de
+        leur origine gothique.</p>
+        <p xml:id="d1e408">Celle-ci n’était pas nouvelle en soi. Nous savons
+        que l’évêque Nils Ragvaldsson l’avait déjà exprimée lors du concile de
+        <placeName ref="2661602" type="geonames" xml:base="https://www.geonames.org/">Bâle</placeName> en <date ref="_temp" when="1434">1434</date>, et quand les frères Johannes et
+        Olaus Magnus rédigèrent leurs histoires et descriptions des pays
+        nordiques au <date from="1500" ref="_temp" to="1599">16<hi rend="sup">e</hi> siècle</date> en <placeName ref="3175395" type="geonames" xml:base="https://www.geonames.org/">Italie</placeName>, afin de
+        susciter un intérêt pour ces pays abandonnés à la Réforme, ils
+        utilisèrent la descendance supposée des peuples nordiques du peuple
+        guerrier qui avait conquis l’Empire romain sous la conduite du roi
+        Théodoric. Si l’on n’appartenait pas aux Romains, au moins, on était
+        la cause de la fin de leur période de gloire ! De plus, selon
+        l’historiographe des Goths du <date from="0500" to="0599" type="_temp">6<hi rend="sup">e</hi> siècle</date>, Jordanès, le Nord
+        et donc probablement la Scandinavie étaient le berceau de tous ces
+        peuples guerriers, formés par son climat hostile ; la région était
+        l’« <foreign xml:lang="lat">officina gentium</foreign> », ou encore la
+        « <foreign xml:lang="lat">vagina nationum</foreign> ». La <placeName ref="2661886" type="geonames" xml:base="https://www.geonames.org/">Suède</placeName> n’était-elle
+        donc pas un pays d’une grande importance culturelle, le lieu d’une
+        autre <date ref="_temp">Antiquité</date> ? De cette manière, la
+        « terra incognita » de la Scandinavie devenait une « terra heroica »,
+        et un pays significatif pour l’histoire européenne.</p>
+        <p xml:id="d1e442">Ces efforts n’eurent pas un grand impact jusqu’au
+        <date from="1600" ref="_temp" to="1699">17<hi rend="sup">e</hi> siècle</date>. La situation changea après la <date ref="_temp">guerre de Trente Ans</date>, et <persName ref="03297129X" type="idref" xml:base="https://www.idref.fr/">Schefferus</persName> y
+        fut impliqué. Les familles royales et nobles de la <placeName ref="2661886" type="geonames" xml:base="https://www.geonames.org/">Suède</placeName> investirent
+        beaucoup de moyens pour aboutir à la reconstruction et à la visibilité
+        d’un passé supposé glorieux. Des acheteurs de manuscrits étaient
+        envoyés en <placeName ref="2629691" type="geonames" xml:base="https://www.geonames.org/">Islande</placeName> pour y
+        chercher des sources écrites ; elles étaient par la suite éditées,
+        traduites et analysées. Les pierres runiques et autres sources du
+        patrimoine historique étaient inventoriées, décrites et interprétées,
+        les premières fouilles archéologiques conduites de façon méthodique...
+        Toute la gloire historique que l’on en attendait devait ensuite
+        rayonner sur la <placeName ref="2661886" type="geonames" xml:base="https://www.geonames.org/">Suède</placeName>.</p>
+        <p xml:id="d1e460">Pour organiser ces efforts fut fondé en <date ref="_temp" when="1667">1667</date> une sorte de « <foreign xml:lang="eng">think tank</foreign> » historique, le Collegium
+        Antiquitatum à <placeName ref="8126373" type="geonames" xml:base="https://www.geonames.org/">Upsal</placeName>. Parmi ses
+        membres figuraient <persName ref="029096618" type="idref" xml:base="https://www.idref.fr/">Georg Stiernhielm</persName>,
+        <persName ref="116127120" type="idref" xml:base="https://www.idref.fr/">Johannes Loccenius</persName>,
+        <persName ref="181619016" type="idref" xml:base="https://www.idref.fr/">Olof Verelius</persName>, <persName ref="077701925" type="idref" xml:base="https://www.idref.fr/">Johan
+        Hadorph</persName>, et bien entendu <persName ref="03297129X" type="idref" xml:base="https://www.idref.fr/">Johannes
+        Schefferus</persName>. Les travaux de ce collectif érudit étaient
+        suivis par les savants étrangers, particulièrement dans les pays
+        germanophones, qui étaient engagés dans des projets similaires, mais
+        moins bien financés. L’ouvrage le plus conséquent et le plus connu de
+        cette école, par contre, est l’oeuvre d’Olof Rudbeck, savant extérieur
+        à ce groupe, mais proche de son esprit et lié à lui par des rapports
+        personnels. Dans son <hi rend="italic">Atland eller Manheim
+        – Atlantica sive Manheim, vera Japheti posterum sedes ac patria,
+        </hi>publié à partir de 1679<hi rend="italic">, </hi>Rudbeck
+        entreprend un vaste travail d’histoire et de philologie comparatives
+        pour montrer que la <placeName ref="2661886" type="geonames" xml:base="https://www.geonames.org/">Suède</placeName> était identique
+        à l’Atlantide de Platon et, par conséquent, elle aussi un berceau de
+        l’humanité. Aujourd’hui, les méthodes employées par Rudbeck ne sont
+        plus considérées comme scientifiques, et le résultat auquel il arrive
+        est par là peu crédible. À la fin du <date from="1600" ref="_temp" to="1699">17<hi rend="sup">e</hi> siècle</date>, il en allait
+        autrement. Rudbeck avait beaucoup d’admirateurs, même en dehors de la
+        <placeName ref="2661886" type="geonames" xml:base="https://www.geonames.org/">Suède</placeName>, et les
+        critiques formulées à son encontre étaient souvent plus le fait d’un
+        patriotisme différent du sien que d’une critique de sa méthode<note n="2" place="foot" type="standard" xml:id="ftn2">
+            <p>Cf. Sonia Brough, <hi rend="italic">The Goths and the concept
+            of Gothic in Germany from 1500 to 1750</hi>, Bern, Peter Lang,
+            1985</p>
+          </note>. Il est évident que le patriotisme, la volonté de mettre la
+        <placeName ref="2661886" type="geonames" xml:base="https://www.geonames.org/">Suède</placeName> et ses familles
+        royales et nobles en avant, dans un contexte de montée en puissance,
+        étaient à la base des efforts des érudits suédois, et que cet amour
+        pour la patrie facilitait parfois l’acceptation de reconstructions
+        historiques très spéculatives et les inconséquences méthodologiques
+        que celles-ci pouvaient occasionner. <persName ref="030446554" type="idref" xml:base="https://www.idref.fr/">Allan
+        Ellenius</persName> souligne toutefois que cet élan patriotique était
+        moins virulent chez <persName ref="03297129X" type="idref" xml:base="https://www.idref.fr/">Schefferus</persName>, peut-être en
+        raison de son origine, mais surtout à cause de sa formation
+        universitaire philologique qui le distinguait de ses collègues. Ses
+        propres travaux dans ce contexte témoignent par conséquent d’une
+        distance scientifique par rapport aux rêves gothiques et aux
+        controverses que ces derniers pouvaient occasionner – comme ils
+        témoignent aussi des innovations philologiques et archéologiques du
+        temps.</p>
+        <p xml:id="d1e503">Pour <persName ref="03297129X" type="idref" xml:base="https://www.idref.fr/">Schefferus</persName> en effet, la
+        méthode scientifique revendiquait d’abord l’établissement d’un
+        inventaire de toutes les sources disponibles sur un sujet donné, ainsi
+        que l’examen critique des vestiges archéologiques et des autres
+        témoins matériels. Ces analyses le conduisirent entre autres à la
+        contestation de la fiabilité des traditions orales, que ses collègues
+        avaient utilisées pour remonter au temps d’Abraham, comme en témoigne
+        la datation, finalement du <date from="1400" ref="_temp" to="1499">15<hi rend="sup">e</hi> siècle</date>, d’une statue qui
+        auparavant était considérée comme un reste de l’ancien temple païen
+        d’<placeName ref="8126373" type="geonames" xml:base="https://www.geonames.org/">Upsal</placeName>. Le grand
+        chancelier du royaume, <persName ref="027347206" type="idref" xml:base="https://www.idref.fr/">Magnus De la Gardie</persName>, et
+        d’autres considéraient ses travaux d’ailleurs avec inquiétude – pas
+        forcément en raison des idées de <persName ref="03297129X" type="idref" xml:base="https://www.idref.fr/">Schefferus</persName>,
+        mais à cause des conséquences de celles-ci pour la réputation des
+        études menées en <placeName ref="2661886" type="geonames" xml:base="https://www.geonames.org/">Suède</placeName> sur le passé du
+        pays. Car si <persName ref="03297129X" type="idref" xml:base="https://www.idref.fr/">Schefferus</persName> avait raison,
+        cela signifiait que les travaux des autres grands noms suédois étaient
+        devenus obsolètes.</p>
+        <p xml:id="d1e518">Par une ironie de l’Histoire, le nom de cet esprit
+        critique et indépendant sera surtout associé pour la postérité à un
+        sujet et à une région dont il ne savait presque rien et qu’il n’a
+        jamais lui-même visitée : la <placeName ref="648958" type="geonames" xml:base="https://www.geonames.org/">Laponie</placeName>. La <hi rend="italic">Lapponia</hi>, publiée en 1673 à Francfort et tout de
+        suite traduite en plusieurs langues (entre autres en français,
+        en <date ref="_temp" when="1678">1678</date>, sous le titre <hi rend="italic">Histoire de la Laponie : sa description, l’origine, les
+        moeurs, la manière de vivre de ses habitans, leur religion, leur
+        magie, &amp; les choses rares du païs</hi>), était une commande du
+        grand chancelier du royaume déjà cité, <persName ref="027347206" type="idref" xml:base="https://www.idref.fr/">Magnus De la
+        Gardie</persName>. Dans sa préface, qui ne fut malheureusement pas
+        traduite en français, il explique les raisons qui ont conduit à ce
+        travail : <persName ref="027347206" type="idref" xml:base="https://www.idref.fr/">De la Gardie</persName> avait vu que
+        « <foreign xml:lang="lat">circumferri pluscula de Lapponibus apud
+        exteros, quædam fabulis anilibus, quam veritati propiora ; quædam
+        etiam in odium gentis Sueticæ, &amp; diminutionem gloriæ, quam armis
+        victricibus per tot annos sibi peperit, labemque conficta ; interesse
+        Patriæ putavit, ne sineret diutius in tenebris latere, quæ ad mores
+        hujus gentis, indolemque, ad ingenium regionis, in qua degit rectius
+        noscenda possunt pertinere</foreign> »<note n="3" place="foot" type="standard" xml:id="ftn3">
+            <p>« De nombreuses histoires circulent sur les Lapons à
+            l’étranger, certaines plus proches des contes de vieilles femmes
+            que de la vérité ; certaines aussi ont été forgées par haine du
+            peuple suédois, pour diminuer la gloire qu'il s'est acquise par
+            ses victoires militaires pendant de nombreuses années, et pour sa
+            ruine ; il [De la Gardie] a pensé qu’il importait à la patrie
+            qu’il ne laissât pas plus longtemps cachés dans les ténèbres les
+            éléments devant être connus avec plus de justesse, éléments qui
+            peuvent toucher aux moeurs de ce peuple, à son tempérament et à la
+            nature de la contrée dans laquelle il vit ». Merci à Eléonore Salm
+            pour ses conseils indispensables à la traduction.</p>
+          </note>. Son but était donc explicitement politique : il fallait
+        montrer la vraie nature des Lapons, car les rumeurs qui circulaient
+        sur eux en Europe étaient problématiques pour la réputation de la
+        <placeName ref="2661886" type="geonames" xml:base="https://www.geonames.org/">Suède</placeName>.</p>
+        <p xml:id="d1e552">Cependant, comment procéder si l’on n’a pas de
+        connaissances, à l’instar du professeur de rhétorique et d’histoire
+        qu’était <persName ref="03297129X" type="idref" xml:base="https://www.idref.fr/">Schefferus</persName> – et ce
+        d’autant plus que la <placeName ref="648958" type="geonames" xml:base="https://www.geonames.org/">Laponie</placeName> est loin
+        d’<placeName ref="8126373" type="geonames" xml:base="https://www.geonames.org/">Upsal</placeName> ? Il est
+        intéressant de noter qu’il se met en scène dans un mouvement d’une
+        « double étrangeté ». D’après les indications de la couverture, il est
+        originaire de <placeName ref="6441375" type="geonames" xml:base="https://www.geonames.org/">Strasbourg</placeName>
+        (Argentoratensis), et non d’<placeName ref="8126373" type="geonames" xml:base="https://www.geonames.org/">Upsal</placeName>. D’une certaine
+        manière, il apparaît de cette façon plus objectif et plus proche de
+        son lecteur potentiel. La préface le souligne : il y dit qu’il habite
+        un lieu où il est aussi étranger que les Lapons. <placeName ref="8126373" type="geonames" xml:base="https://www.geonames.org/">Upsal</placeName> devient de
+        cette façon un lieu tiers, un endroit de rencontre qui n’est ni son
+        propre habitat naturel ni celui de son objet d’études, les Lapons – un
+        lieu neutre qui aide à l’objectivité de son propos.</p>
+        <p xml:id="d1e571">La structure de l’ouvrage témoigne d’un esprit
+        méthodologique et philologique. Le premier chapitre traite du « nom de
+        la <placeName ref="648958" type="geonames" xml:base="https://www.geonames.org/">Laponie</placeName>, &amp; de
+        celuy de ses Peuples » ; s’ensuivent des rapports sur « la situation
+        de la <placeName ref="648958" type="geonames" xml:base="https://www.geonames.org/">Laponie</placeName> », « du
+        climat, &amp; et de la nature du Païs », la « division de la
+        <placeName ref="648958" type="geonames" xml:base="https://www.geonames.org/">Laponie</placeName> », « de la
+        manière dont sont faits les Lapons, leur naturel, &amp; du caractère
+        de leur esprit », « de l’origine des Lapons », « de la première
+        religion des Lapons », « de la seconde religion des Lapons qui est la
+        chrétienne », etc. – au total 35 chapitres. Cette forme tout à fait
+        classique et inspirée par l’esprit de méthode sert vraisemblablement à
+        diminuer l’exotisme du pays, et un chapitre surprenant comme celui sur
+        « la seconde religion des Lapons » ne fait qu’abonder dans ce sens, en
+        soulignant l’état civilisé de ces peuples.</p>
+        <p xml:id="d1e580">Les chapitres eux-mêmes ressemblent souvent à des
+        collections de citations de toutes les sources de <persName ref="03297129X" type="idref" xml:base="https://www.idref.fr/">Schefferus</persName>, dont il fait
+        parfois à la fin une synthèse critique. Le discours devient de cette
+        manière polyphonique ; la <placeName ref="648958" type="geonames" xml:base="https://www.geonames.org/">Laponie</placeName> est dans son
+        livre un paysage composé de voix différentes qui se soutiennent l’une
+        l’autre. L’effet recherché est celui de l’objectivité de l’auteur, qui
+        n’invente rien lui-même, mais qui rassemble et compare avec esprit
+        critique les différentes perspectives.</p>
+        <p xml:id="d1e583">Au cours de ses analyses, <persName ref="03297129X" type="idref" xml:base="https://www.idref.fr/">Schefferus</persName>
+        traite aussi de l’appartenance linguistique du peuple étudié. Il
+        souligne, tout à fait correctement, que les langues sames n’ont rien à
+        voir ni avec le suédois, ni avec le russe, mais qu’elles sont plutôt à
+        rapprocher des langues finnoise et samoyède. On pourrait presque voir
+        en lui l’un des fondateurs de la linguistique des langues
+        finno-ougriennes. Dans son analyse du caractère du peuple, les Sames
+        apparaissent comme différents des Suédois ; <persName ref="03297129X" type="idref" xml:base="https://www.idref.fr/">Schefferus</persName>
+        souligne qu’ils ne sont pas très doués pour la guerre – à la
+        différence des Suédois – mais qu’ils sont des êtres humains tout à
+        fait capables d’être civilisés, et donc à considérer à l’instar des
+        autres peuples.</p>
+        <p xml:id="d1e586">Dans ce paysage textuel, un certain nombre de
+        textes ressortent – en particulier deux chants sames qu’il cite en
+        langue originale pour les traduire ensuite en latin. L’effet recherché
+        est celui de l’authenticité, un « effet du réel », pour parler comme
+        Roland Barthes. En s’appuyant sur ses informateurs sames, <persName ref="03297129X" type="idref" xml:base="https://www.idref.fr/">Schefferus</persName> raconte des
+        scènes de marché, en hiver et en été, où de jeunes Sames utilisent des
+        chants pour déclarer leur amour, il les cite – et ce faisant séduit
+        son lecteur qui devient témoin de la vie du peuple.</p>
+        <p xml:id="d1e592">« Kulnasatz, mon petit Renne, il faut nous hâter,
+        car nous avons du chemin à faire, les terres humides sont vastes. Tu
+        ne me seras pas toutefois ennuyeux marais Kaige, marais Kailvva je te
+        dis à dieu. Plusieurs pensées roulent dans mon esprit, lorsque je suis
+        porté par le marais Kaige. Mon Renne nous sommes agiles &amp; légers,
+        ainsi nous verrons plûtost la fin de nôtre travail, &amp; nous
+        arriverons où nous avons résolu d’aller ; je verrai là ma maîtresse
+        aller à la promenade. Kulnasatz, mon Renne regarde &amp; considère, si
+        tu n’aperceveras point qu’elle se lave »<note n="4" place="foot" type="standard" xml:id="ftn4">
+            <p>In Johannes Scheffer, <hi rend="italic">Histoire de la
+            Laponie : sa description, l'origine,</hi>
+              <hi rend="italic">les
+            moeurs, la maniere de vivre de ses habitans, leur religion, leur
+            magie, &amp; les choses rares du païs. Avec plusieurs additions
+            &amp; augmentations fort curieuses, qui jusques-icy n'ont pas esté
+            imprimées. </hi>Traduites du latin de Monsieur Scheffer. Par L[e]
+            P[ère] A[ugustin] L[ubin] geographe ordinaire de sa Majesté
+            (Paris, Veuve Olivier de Varennes, 1678), p. 263. Nous avons gardé
+            l’orthographe et la graphie du texte original.</p>
+          </note>.</p>
+        <p xml:id="d1e611">Un lecteur lointain, mais qui deviendra fameux,
+        <persName ref="026919869" type="idref" xml:base="https://www.idref.fr/">Johann Gottlieb Herder</persName>, se
+        laissera séduire à un siècle de distance, et sera amené à utiliser le
+        matériau laissé par <persName ref="03297129X" type="idref" xml:base="https://www.idref.fr/">Schefferus</persName> comme point de
+        départ de sa réflexion sur la chanson populaire et de son anthologie
+        <hi rend="italic">Stimmen der Völker in Liedern</hi>, dont on sait
+        l’influence qu’elle a eue par la suite.</p>
+        <p xml:id="d1e617">Le succès de son livre fut donc peut-être dû à la
+        double étrangeté que <persName ref="03297129X" type="idref" xml:base="https://www.idref.fr/">Schefferus</persName> mit en scène.
+        La <placeName ref="648958" type="geonames" xml:base="https://www.geonames.org/">Laponie</placeName>, alors
+        inconnue, était décrite dans un langage connu du public cultivé
+        européen : c’était celui de la philologie classique, telle qu’elle
+        était pratiquée dans les milieux rhénans, enrichie par l’étude, conçue
+        dans le même esprit, des antiquités et de la culture matérielle.
+        L’exotisme du Nord était domestiqué, compréhensible, détaché de son
+        contexte suédois par la forme, la méthode et même par une idéologie
+        qui s’abstenait de références trop appuyées au « gothicisme ».</p>
+        <p xml:id="d1e623">Le rapport manuscrit d’Olaus Graan qui se trouve à
+        <placeName ref="6441375" type="geonames" xml:base="https://www.geonames.org/">Strasbourg</placeName> n’a pas
+        servi à <persName ref="03297129X" type="idref" xml:base="https://www.idref.fr/">Schefferus</persName> ; il fut
+        réalisé vingt ans après la parution de l’œuvre de ce dernier, et
+        quelques années après sa mort. Il montre, quoi qu’il en soit, que les
+        échanges entre le Grand Nord et la région rhénane étaient bien
+        établis. Les compétences linguistiques, à l’époque, n’étaient
+        peut-être pas toujours suffisamment développées pour qu’un nombre
+        important de lecteurs en profite. Aujourd'hui, sa présence à
+        <placeName ref="6441375" type="geonames" xml:base="https://www.geonames.org/">Strasbourg</placeName> montre que
+        l’intérêt pour cette immense partie de l’Europe, et la conscience de
+        son importance pour notre histoire commune, sont toujours
+        d'actualité.</p>
+      </div>
+    </body>
+    <back>
+      <div type="bibliographie" xml:id="d1e639">
+        <head xml:id="d1e641">Orientations bibliographques :</head>
+        <listBibl xml:id="d1e644">
+          <bibl xml:id="d1e646">
+            <hi rend="bold">Sonia Brough / </hi>The Goths
+          and the concept of Gothic in Germany from 1500 to 1750, Bern, Peter
+          Lang, 1985</bibl>
+          <bibl xml:id="d1e652">
+            <hi rend="bold">Allan Ellenius / </hi>Johannes
+          Schefferus and Swedish Antiquity, in Journal of the Warburg and
+          Courtauld Institutes, 20 (1957), n<hi rend="sup">o</hi> 1/2,
+          p. 59-74</bibl>
+          <bibl xml:id="d1e661">
+            <hi rend="bold">Christian Jacob (dir.) /
+          </hi>Lieux de savoir, Paris, Albin Michel, 2007</bibl>
+          <bibl xml:id="d1e667">
+            <hi rend="bold">Sten Lindroth / </hi>Svensk
+          Lärdomshistoria, Stormaktstiden, Stockholm, Norstedts förlag,
+          1975</bibl>
+          <bibl xml:id="d1e673">
+            <hi rend="bold">David N. Livingstone /
+          </hi>Putting science in its place : geographies of scientific
+          knowledge, Chicago, University of Chicago Press, 2003</bibl>
+          <bibl xml:id="d1e680">
+            <hi rend="bold">Erland Sellberg /
+          </hi>Johannes Schefferus och hans roll, in Centralantikvariatet,
+          Johannes Schefferus och fyra andrautländska lärda i Stormaktstidens
+          Sverige, Stockholm, Centralantikvariatet, 2008, p. 7-16</bibl>
+          <bibl xml:id="d1e686">
+            <hi rend="bold">Stig Strömholm / </hi>Johannes
+          Schefferus, un Strasbourgeois en Suède, in Société savante d’Alsace
+          et des régions de l’Est (éd.), L’Europe, l’Alsace et la France.
+          Problèmes intérieurs et relations internationales à l’époque
+          moderne. Etudes réunies en l’honneur du doyen Georges Livet pour son
+          70<hi rend="sup">e</hi> anniversaire, Colmar, Editions d’Alsace,
+          1986, p. 302-306</bibl>
+        </listBibl>
+      </div>
+    </back>
+  </text>
+</TEI>
