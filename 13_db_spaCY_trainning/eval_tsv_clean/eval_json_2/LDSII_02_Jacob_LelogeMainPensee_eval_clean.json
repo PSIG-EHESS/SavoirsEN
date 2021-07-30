@@ -1,0 +1,4375 @@
+[
+  {
+    "id":0,
+    "paragraphs":[
+      {
+        "raw":null,
+        "sentences":[
+          {
+            "tokens":[
+              {
+                "id":0,
+                "orth":"ses",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":1,
+                "orth":"doigts",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":2,
+                "orth":"\u2013",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":3,
+                "orth":"et",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":4,
+                "orth":"de",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":5,
+                "orth":"mesure",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":6,
+                "orth":"\u2013",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":7,
+                "orth":"leur",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":8,
+                "orth":"\u00e9cart",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":9,
+                "orth":"horizontal",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":10,
+                "orth":"ou",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":11,
+                "orth":"vertical",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":12,
+                "orth":"module",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":13,
+                "orth":"les",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":14,
+                "orth":"dimensions",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":15,
+                "orth":"d\u2019un",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":16,
+                "orth":"objet,",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":17,
+                "orth":"pr\u00e9sent",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":18,
+                "orth":"ou",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":19,
+                "orth":"absent",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":20,
+                "orth":":",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":21,
+                "orth":"elles",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":22,
+                "orth":"peuvent",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":23,
+                "orth":"ainsi",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":24,
+                "orth":"d\u00e9finir",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":25,
+                "orth":"l\u2019espace-temps",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":26,
+                "orth":"d\u2019un",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":27,
+                "orth":"parcours",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":28,
+                "orth":"comme",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":29,
+                "orth":"l\u2019\u00e9chelle",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":30,
+                "orth":"d\u2019une",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":31,
+                "orth":"topographie.",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":32,
+                "orth":"Elles",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":33,
+                "orth":"viennent",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":34,
+                "orth":"aussi",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":35,
+                "orth":"accompagner,",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":36,
+                "orth":"ponctuer",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":37,
+                "orth":"le",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":38,
+                "orth":"discours,",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":39,
+                "orth":"en",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":40,
+                "orth":"d\u00e9finir",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":41,
+                "orth":"l\u2019ampleur",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":42,
+                "orth":"et",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":43,
+                "orth":"le",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":44,
+                "orth":"rythme,",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":45,
+                "orth":"en",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":46,
+                "orth":"appuyer",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":47,
+                "orth":"les",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":48,
+                "orth":"effets",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":49,
+                "orth":"persuasifs",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":50,
+                "orth":"ou",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":51,
+                "orth":"dramatiques",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":52,
+                "orth":":",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":53,
+                "orth":"la",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":54,
+                "orth":"gestuelle",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":55,
+                "orth":"participe",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":56,
+                "orth":"de",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":57,
+                "orth":"ce",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":58,
+                "orth":"que",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":59,
+                "orth":"les",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":60,
+                "orth":"th\u00e9oriciens",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":61,
+                "orth":"antiques",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":62,
+                "orth":"appelaient",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":63,
+                "orth":"l\u2019",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":64,
+                "orth":"actio",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":65,
+                "orth":"oratoire,",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":66,
+                "orth":"o\u00f9",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":67,
+                "orth":"la",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":68,
+                "orth":"voix",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":69,
+                "orth":"et",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":70,
+                "orth":"le",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":71,
+                "orth":"corps",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":72,
+                "orth":"apportent",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":73,
+                "orth":"un",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":74,
+                "orth":"surcro\u00eet",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":75,
+                "orth":"de",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":76,
+                "orth":"sens",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":77,
+                "orth":"au",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":78,
+                "orth":"discours.",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":79,
+                "orth":"Les",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":80,
+                "orth":"mains",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":81,
+                "orth":"jouent",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":82,
+                "orth":"aussi",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":83,
+                "orth":"un",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":84,
+                "orth":"r\u00f4le",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":85,
+                "orth":"dans",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":86,
+                "orth":"le",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":87,
+                "orth":"th\u00e9\u00e2tre",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":88,
+                "orth":"de",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":89,
+                "orth":"la",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":90,
+                "orth":"pens\u00e9e,",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":91,
+                "orth":"en",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":92,
+                "orth":"accompagnant",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":93,
+                "orth":"le",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":94,
+                "orth":"d\u00e9roulement",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":95,
+                "orth":"didactique",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":96,
+                "orth":"ou",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":97,
+                "orth":"d\u00e9monstratif",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":98,
+                "orth":"d\u2019une",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":99,
+                "orth":"id\u00e9e",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":100,
+                "orth":"ou",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":101,
+                "orth":"d\u2019un",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":102,
+                "orth":"savoir.",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":103,
+                "orth":"Elles",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":104,
+                "orth":"font",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":105,
+                "orth":"surgir",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":106,
+                "orth":"l\u2019invisible,",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":107,
+                "orth":"le",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":108,
+                "orth":"nombre",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":109,
+                "orth":"et",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":110,
+                "orth":"le",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":111,
+                "orth":"concept,",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":112,
+                "orth":"lorsqu\u2019elles",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":113,
+                "orth":"dessinent",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":114,
+                "orth":"dans",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":115,
+                "orth":"le",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":116,
+                "orth":"vide",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":117,
+                "orth":"un",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":118,
+                "orth":"contour,",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":119,
+                "orth":"une",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":120,
+                "orth":"forme.",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":121,
+                "orth":"Elles",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":122,
+                "orth":"transforment",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":123,
+                "orth":"enfin",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":124,
+                "orth":"la",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":125,
+                "orth":"pens\u00e9e",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":126,
+                "orth":"en",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":127,
+                "orth":"signes",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":128,
+                "orth":":",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":129,
+                "orth":"manuscrite",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":130,
+                "orth":"ou",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":131,
+                "orth":"m\u00e9canis\u00e9e,",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":132,
+                "orth":"l\u2019\u00e9criture",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":133,
+                "orth":"dans",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":134,
+                "orth":"ses",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":135,
+                "orth":"multiples",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":136,
+                "orth":"formes",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":137,
+                "orth":"associe",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":138,
+                "orth":"au",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":139,
+                "orth":"plus",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":140,
+                "orth":"pr\u00e8s",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":141,
+                "orth":"les",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":142,
+                "orth":"op\u00e9rations",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":143,
+                "orth":"mentales,",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":144,
+                "orth":"la",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":145,
+                "orth":"m\u00e9moire,",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":146,
+                "orth":"la",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":147,
+                "orth":"construction",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":148,
+                "orth":"d\u2019un",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":149,
+                "orth":"discours,",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":150,
+                "orth":"avec",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":151,
+                "orth":"les",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":152,
+                "orth":"gestes",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":153,
+                "orth":"de",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":154,
+                "orth":"l\u2019inscription",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":155,
+                "orth":"sur",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":156,
+                "orth":"un",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":157,
+                "orth":"support",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":158,
+                "orth":"externe.",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":159,
+                "orth":"Tablette",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":160,
+                "orth":"tenue",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":161,
+                "orth":"en",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":162,
+                "orth":"main",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":163,
+                "orth":"ou",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":164,
+                "orth":"rouleau",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":165,
+                "orth":"de",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":166,
+                "orth":"papyrus",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":167,
+                "orth":"ouvert",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":168,
+                "orth":"entre",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":169,
+                "orth":"les",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":170,
+                "orth":"cuisses,",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":171,
+                "orth":"feuille",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":172,
+                "orth":"pos\u00e9e",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":173,
+                "orth":"sur",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":174,
+                "orth":"une",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":175,
+                "orth":"table,",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":176,
+                "orth":"clavier",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":177,
+                "orth":"m\u00e9canique",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":178,
+                "orth":"ou",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":179,
+                "orth":"num\u00e9rique,",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":180,
+                "orth":"les",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":181,
+                "orth":"supports",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":182,
+                "orth":"comme",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":183,
+                "orth":"les",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":184,
+                "orth":"instruments",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":185,
+                "orth":"de",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":186,
+                "orth":"l\u2019\u00e9crit",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":187,
+                "orth":"mobilisent",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":188,
+                "orth":"diff\u00e9rentes",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":189,
+                "orth":"postures",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":190,
+                "orth":"du",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":191,
+                "orth":"corps,",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":192,
+                "orth":"diff\u00e9rentes",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":193,
+                "orth":"techniques",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":194,
+                "orth":"de",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":195,
+                "orth":"la",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":196,
+                "orth":"main,",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":197,
+                "orth":"des",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":198,
+                "orth":"poin\u00e7ons",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":199,
+                "orth":"m\u00e9sopotamiens",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":200,
+                "orth":"au",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":201,
+                "orth":"calame",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":202,
+                "orth":"grec,",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":203,
+                "orth":"des",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":204,
+                "orth":"pleins",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":205,
+                "orth":"et",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":206,
+                "orth":"d\u00e9li\u00e9s",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":207,
+                "orth":"des",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":208,
+                "orth":"plumes",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":209,
+                "orth":"de",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":210,
+                "orth":"l\u2019\u00e2ge",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":211,
+                "orth":"moderne",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":212,
+                "orth":"\u00e0",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":213,
+                "orth":"la",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":214,
+                "orth":"dactylographie,",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":215,
+                "orth":"o\u00f9",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":216,
+                "orth":"l\u2019\u00e9criture",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":217,
+                "orth":"est",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":218,
+                "orth":"rythme",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":219,
+                "orth":"percussif",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":220,
+                "orth":"reposant",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":221,
+                "orth":"sur",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":222,
+                "orth":"de",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":223,
+                "orth":"nouvelles",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":224,
+                "orth":"capacit\u00e9s",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":225,
+                "orth":"tactiles",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":226,
+                "orth":"et",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":227,
+                "orth":"motrices,",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":228,
+                "orth":"selon",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":229,
+                "orth":"que",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":230,
+                "orth":"l\u2019on",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":231,
+                "orth":"tape",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":232,
+                "orth":"d\u2019un",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":233,
+                "orth":"doigt",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":234,
+                "orth":"ou",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":235,
+                "orth":"des",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":236,
+                "orth":"deux",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":237,
+                "orth":"mains.",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":238,
+                "orth":"Lente",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":239,
+                "orth":"ou",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":240,
+                "orth":"rapide,",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":241,
+                "orth":"calligraphi\u00e9e",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":242,
+                "orth":"ou",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":243,
+                "orth":"cursive,",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":244,
+                "orth":"manuscrite,",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":245,
+                "orth":"m\u00e9canique",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":246,
+                "orth":"ou",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":247,
+                "orth":"virtuelle,",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":248,
+                "orth":"l\u2019\u00e9criture",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":249,
+                "orth":"projette",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":250,
+                "orth":"la",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":251,
+                "orth":"pens\u00e9e,",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":252,
+                "orth":"l\u2019id\u00e9e,",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":253,
+                "orth":"le",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":254,
+                "orth":"raisonnement,",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":255,
+                "orth":"le",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":256,
+                "orth":"r\u00e9cit,",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":257,
+                "orth":"l\u2019exp\u00e9rience",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":258,
+                "orth":"personnelle",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":259,
+                "orth":"sur",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":260,
+                "orth":"un",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":261,
+                "orth":"support",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":262,
+                "orth":"mat\u00e9riel",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":263,
+                "orth":"Les",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":264,
+                "orth":"m\u00eames",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":265,
+                "orth":"r\u00e9flexions",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":266,
+                "orth":"pourraient",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":267,
+                "orth":"s\u2019appliquer",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":268,
+                "orth":"\u00e0",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":269,
+                "orth":"la",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":270,
+                "orth":"manipulation",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":271,
+                "orth":"des",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":272,
+                "orth":"supports",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":273,
+                "orth":"\u00e9crits",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":274,
+                "orth":"et",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":275,
+                "orth":"de",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":276,
+                "orth":"la",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":277,
+                "orth":"lecture",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":278,
+                "orth":":",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":279,
+                "orth":"le",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":280,
+                "orth":"rouleau",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":281,
+                "orth":"et",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":282,
+                "orth":"le",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":283,
+                "orth":"codex",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":284,
+                "orth":"d\u00e9finissent",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":285,
+                "orth":"deux",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":286,
+                "orth":"modes",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":287,
+                "orth":"de",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":288,
+                "orth":"d\u00e9filement,",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":289,
+                "orth":"continu",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":290,
+                "orth":"et",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":291,
+                "orth":"discontinu,",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":292,
+                "orth":"et",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":293,
+                "orth":"organisent",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":294,
+                "orth":"des",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":295,
+                "orth":"espaces",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":296,
+                "orth":"visuels,",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":297,
+                "orth":"discursifs",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":298,
+                "orth":"et",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":299,
+                "orth":"mentaux",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":300,
+                "orth":"diff\u00e9rents.",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":301,
+                "orth":"De",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":302,
+                "orth":"m\u00eame",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":303,
+                "orth":"les",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":304,
+                "orth":"interfaces",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":305,
+                "orth":"de",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":306,
+                "orth":"consultation",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":307,
+                "orth":"des",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":308,
+                "orth":"textes",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":309,
+                "orth":"sur",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":310,
+                "orth":"les",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":311,
+                "orth":"ordinateurs",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":312,
+                "orth":"actuels,",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":313,
+                "orth":"qui",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":314,
+                "orth":"simulent",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":315,
+                "orth":"le",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":316,
+                "orth":"d\u00e9roulement",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":317,
+                "orth":"vertical",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":318,
+                "orth":"ou",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":319,
+                "orth":"le",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":320,
+                "orth":"feuilletage",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":321,
+                "orth":"horizontal.",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":322,
+                "orth":"Quant",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":323,
+                "orth":"aux",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":324,
+                "orth":"\u00e9crans",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":325,
+                "orth":"tactiles",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":326,
+                "orth":"(iPad),",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":327,
+                "orth":"ils",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":328,
+                "orth":"ouvrent",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":329,
+                "orth":"la",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":330,
+                "orth":"voie",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":331,
+                "orth":"\u00e0",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":332,
+                "orth":"de",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":333,
+                "orth":"nouvelles",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":334,
+                "orth":"gestuelles",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":335,
+                "orth":":",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":336,
+                "orth":"pointer",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":337,
+                "orth":"du",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":338,
+                "orth":"doigt",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":339,
+                "orth":"pour",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":340,
+                "orth":"ouvrir",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":341,
+                "orth":"ou",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":342,
+                "orth":"fermer,",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":343,
+                "orth":"\u00e9carter",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":344,
+                "orth":"ou",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":345,
+                "orth":"resserrer",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":346,
+                "orth":"deux",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":347,
+                "orth":"doigts",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":348,
+                "orth":"pour",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":349,
+                "orth":"\u00e9largir",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":350,
+                "orth":"ou",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":351,
+                "orth":"r\u00e9tr\u00e9cir",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":352,
+                "orth":"le",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":353,
+                "orth":"champ",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":354,
+                "orth":"de",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":355,
+                "orth":"vision.",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":356,
+                "orth":".",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              }
+            ],
+            "brackets":[
+
+            ]
+          }
+        ],
+        "cats":[
+
+        ],
+        "entities":[
+
+        ],
+        "links":[
+
+        ]
+      },
+      {
+        "raw":null,
+        "sentences":[
+          {
+            "tokens":[
+              {
+                "id":0,
+                "orth":"Mais",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":1,
+                "orth":"qu\u2019est-ce",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":2,
+                "orth":"que",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":3,
+                "orth":"penser,",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":4,
+                "orth":"sinon",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":5,
+                "orth":"user",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":6,
+                "orth":"des",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":7,
+                "orth":"mains",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":8,
+                "orth":"de",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":9,
+                "orth":"l\u2019intellect",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":10,
+                "orth":"pour",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":11,
+                "orth":"manier",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":12,
+                "orth":"des",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":13,
+                "orth":"objets,",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":14,
+                "orth":"des",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":15,
+                "orth":"questions,",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":16,
+                "orth":"des",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":17,
+                "orth":"probl\u00e8mes",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":18,
+                "orth":"et",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":19,
+                "orth":"des",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":20,
+                "orth":"abstractions",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":21,
+                "orth":"?",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              }
+            ],
+            "brackets":[
+
+            ]
+          }
+        ],
+        "cats":[
+
+        ],
+        "entities":[
+
+        ],
+        "links":[
+
+        ]
+      },
+      {
+        "raw":null,
+        "sentences":[
+          {
+            "tokens":[
+              {
+                "id":0,
+                "orth":"Parler",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":1,
+                "orth":"sur",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":2,
+                "orth":"un",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":3,
+                "orth":"mode",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":4,
+                "orth":"r\u00e9flexif",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":5,
+                "orth":"du",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":6,
+                "orth":"travail",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":7,
+                "orth":"intellectuel",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":8,
+                "orth":"en",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":9,
+                "orth":"tant",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":10,
+                "orth":"que",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":11,
+                "orth":"tel,",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":12,
+                "orth":"et",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":13,
+                "orth":"non",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":14,
+                "orth":"de",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":15,
+                "orth":"ses",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":16,
+                "orth":"contenus,",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":17,
+                "orth":"c\u2019est",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":18,
+                "orth":"raconter",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":19,
+                "orth":"des",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":20,
+                "orth":"cha\u00eenes",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":21,
+                "orth":"d\u2019op\u00e9rations,",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":22,
+                "orth":"c\u2019est",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":23,
+                "orth":"puiser",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":24,
+                "orth":"dans",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":25,
+                "orth":"le",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":26,
+                "orth":"r\u00e9pertoire",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":27,
+                "orth":"des",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":28,
+                "orth":"gestes",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":29,
+                "orth":"de",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":30,
+                "orth":"m\u00e9tier",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":31,
+                "orth":"et",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":32,
+                "orth":"des",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":33,
+                "orth":"techniques",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":34,
+                "orth":"de",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":35,
+                "orth":"son",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":36,
+                "orth":"temps",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":37,
+                "orth":"les",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":38,
+                "orth":"mots",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":39,
+                "orth":"et",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":40,
+                "orth":"les",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":41,
+                "orth":"images",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":42,
+                "orth":"pour",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":43,
+                "orth":"le",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":44,
+                "orth":"dire.",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":45,
+                "orth":"On",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":46,
+                "orth":"prend",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":47,
+                "orth":"la",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":48,
+                "orth":"mesure",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":49,
+                "orth":"d\u2019un",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":50,
+                "orth":"probl\u00e8me",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":51,
+                "orth":"comme",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":52,
+                "orth":"on",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":53,
+                "orth":"se",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":54,
+                "orth":"saisit",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":55,
+                "orth":"d\u2019une",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":56,
+                "orth":"question,",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":57,
+                "orth":"que",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":58,
+                "orth":"l\u2019on",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":59,
+                "orth":"tourne",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":60,
+                "orth":"et",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":61,
+                "orth":"retourne,",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":62,
+                "orth":"dans",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":63,
+                "orth":"tous",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":64,
+                "orth":"les",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":65,
+                "orth":"sens,",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":66,
+                "orth":"sous",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":67,
+                "orth":"tous",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":68,
+                "orth":"les",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":69,
+                "orth":"angles.",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":70,
+                "orth":"Il",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":71,
+                "orth":"est",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":72,
+                "orth":"des",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":73,
+                "orth":"sujets",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":74,
+                "orth":"que",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":75,
+                "orth":"l\u2019on",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":76,
+                "orth":"effleure",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":77,
+                "orth":"ou",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":78,
+                "orth":"que",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":79,
+                "orth":"l\u2019on",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":80,
+                "orth":"laisse",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":81,
+                "orth":"de",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":82,
+                "orth":"c\u00f4t\u00e9,",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":83,
+                "orth":"des",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":84,
+                "orth":"probl\u00e8mes",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":85,
+                "orth":"que",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":86,
+                "orth":"l\u2019on",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":87,
+                "orth":"creuse,",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":88,
+                "orth":"avec",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":89,
+                "orth":"une",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":90,
+                "orth":"obstination",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":91,
+                "orth":"de",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":92,
+                "orth":"terrassier.",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":93,
+                "orth":"Il",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":94,
+                "orth":"est",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":95,
+                "orth":"des",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":96,
+                "orth":"sources",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":97,
+                "orth":"que",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":98,
+                "orth":"l\u2019on",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":99,
+                "orth":"trie,",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":100,
+                "orth":"manuellement,",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":101,
+                "orth":"en",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":102,
+                "orth":"les",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":103,
+                "orth":"r\u00e9partissant",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":104,
+                "orth":"dans",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":105,
+                "orth":"des",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":106,
+                "orth":"dossiers",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":107,
+                "orth":"et",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":108,
+                "orth":"des",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":109,
+                "orth":"fichiers,",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":110,
+                "orth":"et",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":111,
+                "orth":"mentalement,",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":112,
+                "orth":"en",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":113,
+                "orth":"les",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":114,
+                "orth":"soumettant",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":115,
+                "orth":"\u00e0",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":116,
+                "orth":"la",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":117,
+                "orth":"critique,",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":118,
+                "orth":"\u00e0",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":119,
+                "orth":"la",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":120,
+                "orth":"comparaison",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":121,
+                "orth":"et",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":122,
+                "orth":"\u00e0",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":123,
+                "orth":"la",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":124,
+                "orth":"hi\u00e9rarchisation.",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":125,
+                "orth":"Quant",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":126,
+                "orth":"aux",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":127,
+                "orth":"id\u00e9es,",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":128,
+                "orth":"elles",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":129,
+                "orth":"filent",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":130,
+                "orth":"parfois",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":131,
+                "orth":"entre",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":132,
+                "orth":"les",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":133,
+                "orth":"doigts,",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":134,
+                "orth":"aussi",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":135,
+                "orth":"faut-il",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":136,
+                "orth":"les",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":137,
+                "orth":"rassembler",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":138,
+                "orth":"quand",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":139,
+                "orth":"elles",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":140,
+                "orth":"sont",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":141,
+                "orth":"dispers\u00e9es,",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":142,
+                "orth":"les",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":143,
+                "orth":"travailler,",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":144,
+                "orth":"les",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":145,
+                "orth":"ordonner",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":146,
+                "orth":"et",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":147,
+                "orth":"les",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":148,
+                "orth":"articuler,",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":149,
+                "orth":"de",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":150,
+                "orth":"m\u00eame",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":151,
+                "orth":"que",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":152,
+                "orth":"des",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":153,
+                "orth":"arguments",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":154,
+                "orth":"doivent",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":155,
+                "orth":"\u00eatre",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":156,
+                "orth":"pes\u00e9s",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":157,
+                "orth":"et",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":158,
+                "orth":"parfois",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":159,
+                "orth":"pond\u00e9r\u00e9s.",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":160,
+                "orth":"On",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":161,
+                "orth":"charpente",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":162,
+                "orth":"un",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":163,
+                "orth":"raisonnement",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":164,
+                "orth":"comme",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":165,
+                "orth":"on",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":166,
+                "orth":"b\u00e9tonne",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":167,
+                "orth":"une",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":168,
+                "orth":"d\u00e9monstration,",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":169,
+                "orth":"on",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":170,
+                "orth":"d\u00e9roule",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":171,
+                "orth":"une",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":172,
+                "orth":"r\u00e9flexion",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":173,
+                "orth":"comme",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":174,
+                "orth":"on",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":175,
+                "orth":"manie",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":176,
+                "orth":"un",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":177,
+                "orth":"concept,",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":178,
+                "orth":"on",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":179,
+                "orth":"utilise",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":180,
+                "orth":"des",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":181,
+                "orth":"grilles",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":182,
+                "orth":"et",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":183,
+                "orth":"des",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":184,
+                "orth":"outils,",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":185,
+                "orth":"on",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":186,
+                "orth":"prend",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":187,
+                "orth":"appui",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":188,
+                "orth":"sur",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":189,
+                "orth":"des",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":190,
+                "orth":"autorit\u00e9s",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":191,
+                "orth":"comme",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":192,
+                "orth":"on",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":193,
+                "orth":"\u00e9tablit",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":194,
+                "orth":"des",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":195,
+                "orth":"ponts",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":196,
+                "orth":"entre",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":197,
+                "orth":"des",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":198,
+                "orth":"champs.",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":199,
+                "orth":"Au",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":200,
+                "orth":"moment",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":201,
+                "orth":"de",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":202,
+                "orth":"refermer",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":203,
+                "orth":"ce",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":204,
+                "orth":"pr\u00e9ambule,",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":205,
+                "orth":"esquissons",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":206,
+                "orth":"une",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":207,
+                "orth":"proposition",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":208,
+                "orth":"d\u2019ordre",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":209,
+                "orth":"programmatique.",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":210,
+                "orth":"Le",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":211,
+                "orth":"champ",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":212,
+                "orth":"d\u2019une",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":213,
+                "orth":"anthropologie",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":214,
+                "orth":"historique",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":215,
+                "orth":"des",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":216,
+                "orth":"repr\u00e9sentations",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":217,
+                "orth":"des",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":218,
+                "orth":"arts",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":219,
+                "orth":"de",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":220,
+                "orth":"la",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":221,
+                "orth":"pens\u00e9e",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":222,
+                "orth":"et",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":223,
+                "orth":"du",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":224,
+                "orth":"discours",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":225,
+                "orth":"reste",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":226,
+                "orth":"\u00e0",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":227,
+                "orth":"constituer.",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":228,
+                "orth":"Il",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":229,
+                "orth":"pourrait",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":230,
+                "orth":"s\u2019appuyer",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":231,
+                "orth":"sur",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":232,
+                "orth":"la",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":233,
+                "orth":"sp\u00e9cificit\u00e9",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":234,
+                "orth":"des",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":235,
+                "orth":"lexiques",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              }
+            ],
+            "brackets":[
+
+            ]
+          }
+        ],
+        "cats":[
+
+        ],
+        "entities":[
+
+        ],
+        "links":[
+
+        ]
+      }
+    ]
+  }
+]
