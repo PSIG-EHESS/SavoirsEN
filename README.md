@@ -354,6 +354,36 @@ dans la base de données db_7_SpaCy/ il y a les versions BIOLU et BIO output
  
 ## 6 - step
 
+### Objectif: 
+Créer un fichier validity ou comparaison
+L'objectif de cette comparaison est de savoir si les spaCy's pipelines trained ont su identifier les entités nommées annotées par les taggeurs.
+
+### Input: 
+db_7_SpaCy/SpaCy_BIO
+db_5_NERbeyond_BIO
+
+  #### example:
+  
+  regardez les exemples correspondant à chaque input
+
+### Output: 
+db_8_SpaCy_results/SpaCy_prediction
+#### obs:
+0 = ERROR
+1 = VALIDITY
+  #### example:
+  
+  TOKEN	PREDICTION	GOLD	VALIDITY
+    À	      O	        O	      1
+    la	    O	        O	      1
+    fin	    O	        O	      1
+    ...
+    Bibliothèque	B-LOC	O	    O
+    impériale	I-LOC	  O	      O
+    de	  I-LOC	      O	      O
+    l’université	I-LOC	O	    O
+    
+    
 
 
 
