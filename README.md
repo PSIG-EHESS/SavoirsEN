@@ -359,8 +359,8 @@ Créer un fichier validity ou comparaison
 L'objectif de cette comparaison est de savoir si les spaCy's pipelines trained ont su identifier les entités nommées annotées par les taggeurs.
 
 ### Input: 
-db_7_SpaCy/SpaCy_BIO
-db_5_NERbeyond_BIO
+ - db_7_SpaCy/SpaCy_BIO
+ - db_5_NERbeyond_BIO
 
   #### example:
   
@@ -383,82 +383,57 @@ db_8_SpaCy_results/SpaCy_prediction
   | impériale	| I-LOC	  |  O	  |     O
   | de	 | I-LOC	      | O	    |  O
   | l’université |I-LOC |	O	    |  O
-    
-    
-
-
-
-
-
-
-
-
-
-
-
  
-
-
-
-
-
-
- 
-BILOU_to_BIO_ transformation.ipynb
-
-BIO_ transformation_HAND.ipynb
-
-BIO_to_BIOLU_automatized.ipynb
-
-BIO_to_BIOLU_hand.ipynb
-
-Evaluation des textes_handly.ipynb
-
-Result_average.ipynb
-
-Stanza_procedure.ipynb
-
-TEST_SpaCY.ipynb
-
-Token_BIO.ipynb
-
-Token_BIO_SpaCy.ipynb
-
-average_LOC_PER.ipynb
-
-columns_TOKEN_IOB.ipynb
-
-concatenate_eval_train_test.ipynb
-
-database_procedure.ipynb
-
-db_beyondNER.ipynb
-
-division_train_eval_test.ipynb
-
-precision_rappel.ipynb
-
-precision_rappel_dic.ipynb
-
-precision_rappel_handly.ipynb
-
-precision_rappel_tag.ipynb
-
+ #### fichier: 
 prediction_automatized.ipynb
 
-prediction_handly.ipynb
+## 7 - step
 
-presentation.ipynb
+### Objectif: 
+Alors que nous avons le fichier de prediction organisé, nous pouvons faire le rappel et precision pour calculer ces deux derniers.
+Nous allons utiliser NERevaluate pour cet étape.
+### Input: 
+ db_8_SpaCy_results/SpaCy_prediction/
+#### obs:
+data cet input existent plusieurs résultats precisions et rappels
+par pipelines / par fichiers / par tags /
 
-stanza.ipynb
+  #### example:
+  
+  -  voir l'exemple avant
+  
+### Output: 
+db_8_SpaCy_results/SpaCy_prediction
+#### obs:
 
-tab_BILOU.ipynb
+- pour comprendre les résultalts lire la documentation 
+- https://pypi.org/project/nervaluate/
 
-table_creation.ipynb
+- plusieurs résultats sont disponibles
 
-table_savoirs.xlsx
+  #### example:
+  
+  Measure	  | ent_type 	| partial	 | strict |	exact |
+  :-------: |  :------: | :-----:  | :-----:| :----:|
+   correct	|      10	  |      0   |    0	  |    0  |
+   incorrect|	    0	    |      0	 |    10	|    10 |
+   partial	|    0	    |      10	 |     0	|     0 |
+   missed	  |    26	    |    26	   |     26	|    26 |
+   spurious	|    62	    |  62	     |     62	|    62 |
+   possible	|    36	    |  36	     |   36	  |    36 |
+   actual	  |    72	    |  72	     |   72	  |    72 |
+   precision|	 0.139	  |  0.069   |	0.0   | 	0.0 |
+   recall	  |  0.278	  |   0.139	 |   0.0	|   0.0 |
+   f1	      |  0.185	  |    0.093 |    0	  |    0  |
+   
+   #### fichier :
+   precision_rappel.ipynb
+   
+   
+   
 
-test_evaluation_tag.ipynb
+
+    
 
 
 
@@ -467,6 +442,17 @@ test_evaluation_tag.ipynb
 
 
 
+
+
+
+ 
+
+
+
+
+
+
+ 
 
 
 
