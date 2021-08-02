@@ -566,6 +566,57 @@ db_10_tokenIOB
 #### fichier :
   command line for a terminal (for d in *; do echo $d ; python -m spacy convert $d /Users/alexsoares/Desktop/EHESS/dev/Savoirs_env/13_db_spaCY_trainning/ -t json -s -c iob ; done
 
+## 12 - step
+
+### Objectif: 
+  - transformer les fichiers .json en spacy binary pour lancer l'entrainement
+  
+### Input: 
+13_db_spaCY_trainning/
+  #### example:
+  
+  [
+  {
+    "id":0,
+    "paragraphs":[
+      {
+        "raw":null,
+        "sentences":[
+          {
+            "tokens":[
+              {
+                "id":0,
+                "orth":"appara\u00eet",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":1,
+                "orth":"plus",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+                "id":2,
+                "orth":"complexe",
+                "space":" ",
+                "tag":"-",
+                "ner":"O"
+              },
+              {
+
+### output:
+13_db_spaCY_trainning/
+  ### example:
+  fichier binary. spacy
+
+#### fichier :
+  command line for a terminal (for d in *; do echo $d ; python -m spacy convert $d /Users/alexsoares/Desktop/EHESS/dev/Savoirs_env/13_db_spaCY_trainning/ -t spacy; done
+  
+ 
+
 
 
 
