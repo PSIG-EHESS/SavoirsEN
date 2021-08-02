@@ -435,25 +435,15 @@ db_8_SpaCy_results/SpaCy_prediction
 Concatenate les résultats pour avoir une moyenne
 
 ### Input: 
-db_8_SpaCy_results/recal_precision
-
-#### obs:
-data cet input existent plusieurs résultats precisions et rappels
-par pipelines / par fichiers / par tags /
-
+8_db_SpaCy_results/SpaCy_precision_rappel/
   #### example:
   
   voir exemple anterieur
   
-### Input: 
-db_8_SpaCy_results/recal_precision
-
-#### obs:
-data cet input existent plusieurs résultats precisions et rappels
-par pipelines / par fichiers / par tags /
-
 ### output:
 8_db_SpaCy_results/SpaCy_precision_rappel/
+#### obs:
+On a mis le résultat de la moyenne par tag dans input directory
    
   #### example:
   
@@ -472,6 +462,111 @@ par pipelines / par fichiers / par tags /
   
 #### fichier :
   Result_average.ipynb
+
+## 9 - step
+
+### Objectif: 
+  - les dernières reglages avant d'entrainer notre pipeline pour creer notre best model
+  - D'abord nous allons concatener les fichiers puis les diviser selon notre metrique pour l'entrainement 
+  * 70% train
+  * 20% evaluation
+  * 10% test
+  
+### Input: 
+db_10_tokenIOB
+  #### example:
+          
+          de	O
+          deux	O
+          personnages	O
+          symbolisent	O
+          les	O
+          facultés	O
+          de	O
+          l’université	O
+          de	O
+          Strasbourg	B-LOC
+          :	O
+          au	O
+          sud	O
+          Hippocrate	B-PER
+          et	O
+          Grotius	B-PER
+          pour	O
+          la	O
+          médecine	O
+          et	O
+          le	O
+          droit,	O
+          au	O
+          nord	O
+          Erasme	B-PER
+          et	O
+          Scaliger	B-PER
+
+### output:
+13_db_spaCY_trainning
+
+  #### example:
+  
+  tokenization de tous les textes
+    
+#### fichier :
+  concatenate_eval_train_test.ipynb
+
+## 10 - step
+
+### Objectif: 
+  - Après avoir reglagé quelques problèmes de concatenation pour avoir un fichier json  bien formé, nous allons transformer notre fichier manuellement annoté (GOLD) en format .tsv et le diviser selon la percentage choisie par Carmen Brando et moi.
+  
+  * 70% train
+  * 20% evaluation et developement
+  * 10% test
+  
+### Input:
+  
+13_db_spaCY_trainning
+  
+  #### example:
+  
+  tokenization 
+  
+### output:
+
+13_db_spaCY_trainning/
+  
+  #### example:
+  
+  tokenization 
+    
+#### fichier :
+  division_train_eval_test.ipynb
+
+## 11 - step
+
+### Objectif: 
+  - transformer les fichiers divisés en json selon les percentage détérminée
+  
+  * 70% train
+  * 20% evaluation et developement
+  * 10% test
+ 
+  - maintenant ces fichiers doivent être en json
+  -  command line for a terminal (for d in *; do echo $d ; python -m spacy convert $d /Users/alexsoares/Desktop/EHESS/dev/Savoirs_env/13_db_spaCY_trainning/ -t json -s -c iob ; done
+  - cette division est validate pour chaque pipeline
+### Input: 
+13_db_spaCY_trainning/
+  #### example:
+  
+  voir la db
+  
+### output:
+13_db_spaCY_trainning/
+
+#### fichier :
+  command line for a terminal (for d in *; do echo $d ; python -m spacy convert $d /Users/alexsoares/Desktop/EHESS/dev/Savoirs_env/13_db_spaCY_trainning/ -t json -s -c iob ; done
+
+
 
 
     
