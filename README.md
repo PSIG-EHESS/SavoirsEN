@@ -265,6 +265,96 @@ U - Unique
 #### fichier: 
 tok_SpaCy_BILOU.py
 
+## 5 - step
+
+### Objectif:
+Nous avons les output prediction cependant leur étiquetage a été faite en BIOLU format et notre GOLD est en BIO format
+allons devoir faire une transformation pour revenir vers un output prediction laballed BIO tout en savant que nous allons perdre une richesse descriptive dans
+cette régression vers BIO format
+Dans cette transformation nous faisons également le replacement de les étiquettes 
+    
+            'B-ORG': 'O',
+            'U-ORG': 'O',
+            'I-ORG': 'O',
+            'L-ORG': 'O',
+            
+            'B-MISC': 'O',
+            'U-MISC': 'O',
+            'I-MISC': 'O',
+            'L-MISC': 'O',
+            
+            'U-PER': 'B-PER',
+            'U-LOC': 'B-LOC',
+            'L-PER': 'I-PER',
+            'L-LOC': 'I-LOC',
+
+
+ ### Input: 
+ db_7_SpaCy/SpaCy_BIOLU
+ 
+#### example:
+  
+          parlement),	O
+          mêmes	O
+          architectes	O
+          (Hartel	O
+          et	O
+          Neckelmann	U-PER
+          ),	O
+          mêmes	O
+          matériaux	O
+          employés	O
+          (grès	O
+          vosgien	O
+          pour	O
+          l’extérieur,	O
+          grès	O
+          de	O
+          la	O
+          Forêt-Noire	U-LOC
+          pour	O
+          les	O
+          escaliers	O          
+
+### Output: 
+db_7_SpaCy/SpaCy_BIO
+#### obs:
+dans la base de données db_7_SpaCy/ il y a les versions BIOLU et BIO output
+  #### example:
+  
+          1892	O
+          pour	O
+          le	O
+          parlement),	O
+          mêmes	O
+          architectes	O
+          (Hartel	O
+          et	O
+          Neckelmann	B-PER
+          ),	O
+          mêmes	O
+          matériaux	O
+          employés	O
+          (grès	O
+          vosgien	O
+          pour	O
+          l’extérieur,	O
+          grès	O
+          de	O
+          la	O
+          Forêt-Noire	B-LOC
+          pour	O
+          les	O
+          escaliers	O
+          intérieurs),	O
+          enfin	O
+
+#### fichier: 
+ faite avec regex sublime text
+ 
+## 6 - step
+
+
 
 
 
