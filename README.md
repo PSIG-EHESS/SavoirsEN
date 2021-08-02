@@ -373,15 +373,16 @@ db_8_SpaCy_results/SpaCy_prediction
 1 = VALIDITY
   #### example:
   
-  TOKEN	PREDICTION	GOLD	VALIDITY
-    À	      O	        O	      1
-    la	    O	        O	      1
-    fin	    O	        O	      1
-    ...
-    Bibliothèque	B-LOC	O	    O
-    impériale	I-LOC	  O	      O
-    de	  I-LOC	      O	      O
-    l’université	I-LOC	O	    O
+  |TOKEN |	PREDICTION	| GOLD	| VALIDITY
+  | :--: | :----------: | :----:|  :----:
+  |  À	 |      O	      |  O	  |    1
+  |  la	 |     O	      |  O	  |    1
+  |  fin |	   O	      |  O	  |    1
+  |  ... |              |       |
+  |  Bibl|	B-LOC	      |    O	|    O
+  | impériale	| I-LOC	  |  O	  |     O
+  | de	 | I-LOC	      | O	    |  O
+  | l’université |I-LOC |	O	    |  O
     
     
 
