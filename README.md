@@ -428,9 +428,50 @@ db_8_SpaCy_results/SpaCy_prediction
    
    #### fichier :
    precision_rappel.ipynb
+
+## 8 - step
+
+### Objectif: 
+Concatenate les résultats pour avoir une moyenne
+
+### Input: 
+db_8_SpaCy_results/recal_precision
+
+#### obs:
+data cet input existent plusieurs résultats precisions et rappels
+par pipelines / par fichiers / par tags /
+
+  #### example:
+  
+  voir exemple anterieur
+  
+### Input: 
+db_8_SpaCy_results/recal_precision
+
+#### obs:
+data cet input existent plusieurs résultats precisions et rappels
+par pipelines / par fichiers / par tags /
+
+### output:
+8_db_SpaCy_results/SpaCy_precision_rappel/
    
-   
-   
+  #### example:
+  
+ "Measure	 |  ent_type |	partial |	strict |	exact"
+ :-------: |  :------: | :-----:  | :-----:| :----:|
+  "correct | 	204	     |	222	    |190	   |222"
+ "incorrect|	35		   |0	        |49	     |17"
+"partial	 | 0		     |   0      |17		   |0"
+"missed		 | 36		     |36	      |36	     |36"
+"spurious	 |167		     |167	      |167	   |167"
+"possible	 | 275		   |275	      |275	   |275"
+"actual		 | 406		   |406	      |406	   |406"
+"precision |	0.502		 |0.568	    |0.468	 |0.547"
+"recall		 |0.742		   |0.838	    |0.691	 |0.807"
+"f1		     |0.599		   |0.677	    |0.558	 |0.652"
+  
+#### fichier :
+  Result_average.ipynb
 
 
     
