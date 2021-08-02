@@ -186,7 +186,93 @@ db_6_TOKenized_text
           und
 
 #### fichier: 
- faite avec regex sublime text 
+ faite avec regex sublime text
+ 
+## 4 - step
+
+### Objectif: 
+Lorsque nous avons les output tokenized, nous allons creer les fichiers predictions pour pouvoir comparer avec le gold. 
+SpaCy dans sa version v3 offre 4 pipelines trained dont une transformer 
+
+    fr_core_news_sm size 16mb
+    fr_core_news_md size 43mb
+    fr_core_news_lg size 545mb
+    fr_dep_news_trf French transformer pipeline (camembert-base) 
+
+### Input: 
+db_6_TOKenized_text
+  
+  #### example:
+  
+          À
+          la
+          fin
+          du
+          XIXe
+          siècle,
+          le
+          nouveau
+          bâtiment
+          de
+          la
+          Bibliothèque
+          impériale
+          de
+          l’université
+          et
+          de
+          la
+          régionespaces
+          savantslieubibliothèque
+          (Kaiserliche
+          Universitäts-
+          und
+
+### Output:
+db_7_SpaCy
+#### obs:
+Dans cette base de données il y a la sortie des 4 pipelines en format BIOLU car dans sa version 3 spaCy a choisi le format plus riche c'est BIOLU
+B - Begin
+I - Interior
+O - Other
+L - Last
+U - Unique
+  
+  #### example:
+  
+          parlement),	O
+          mêmes	O
+          architectes	O
+          (Hartel	O
+          et	O
+          Neckelmann	U-PER
+          ),	O
+          mêmes	O
+          matériaux	O
+          employés	O
+          (grès	O
+          vosgien	O
+          pour	O
+          l’extérieur,	O
+          grès	O
+          de	O
+          la	O
+          Forêt-Noire	U-LOC
+          pour	O
+          les	O
+          escaliers	O
+
+#### fichier: 
+tok_SpaCy_BILOU.py
+
+
+
+
+
+
+
+
+
 
 
  
