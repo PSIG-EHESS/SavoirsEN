@@ -8,7 +8,7 @@ sur la reconnaissance des entités nommées dans le cadre de projet Savoirs de l
 ## 1 - step
 
 ### Objectif: 
-recuperer le corps du text, tag (text) ainsi que remplacer les (persName) par (persName.name) et (placeName) par (top.gr) et enlever leurs attributs dans 
+récupérer le corp du text, tag (text) puis remplacer les (persName) par (persName.name) et (placeName) par (top.gr) et enlever leurs attributs dans 
 le but d'utiliser le transformateur NER & Beyond pour avoir un text tokenized.
 
 ### Input: 
