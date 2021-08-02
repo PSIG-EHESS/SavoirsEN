@@ -11,7 +11,8 @@ sur la reconnaissance des entités nommées dans le cadre de projet Savoirs de l
 recuperer le corps du text, tag (text) ainsi que remplacer les (persName) par (persName.name) et (placeName) par (top.gr) et enlever leurs attributs dans 
 le but d'utiliser le transformateur NER & Beyond pour avoir un text tokenized.
 
-### Input: db_1_savoirs_XMLtei
+### Input: 
+db_1_savoirs_XMLtei
   #### example:
   
               <TEI lock="ndufournaud" time="2020-06-22T10:26:36.289+02:00" 
@@ -30,7 +31,8 @@ le but d'utiliser le transformateur NER & Beyond pour avoir un text tokenized.
               <author role="aut">
               <forename>Christophe</forename>
 
-### Output: db_2_NERbeyond
+### Output: 
+db_2_NERbeyond
   #### example:
   
             <text>
@@ -44,7 +46,8 @@ le but d'utiliser le transformateur NER & Beyond pour avoir un text tokenized.
             fonction politique qui prend sa place dans le programme de reconquête idéologique de l’
             <top.gr>Alsace</top.gr>
 
- - fichier: db_beyondNER.ipynb
+ #### fichier: 
+ db_beyondNER.ipynb
  
 ## 2 - step
 
@@ -52,7 +55,8 @@ le but d'utiliser le transformateur NER & Beyond pour avoir un text tokenized.
 creation du fichier manuellement annoté (gold), remplacer les tags (B-TOP_GR) par (B-LOC),(I-TOP_GR) par (B-LOC), 
 (B-PERSNAME_NAME) par (B-PER), (I-PERSNAME_NAME) par (I-PER) pour avoir le format IOB CONLL03
 
-### Input: db_4_OutputNerBeyond 
+### Input: 
+db_4_OutputNerBeyond 
 #### obs : 
 NER & Beyond output est fait en deux format .CONLL et .TXT
 Cet outil n'accepte que 10 textes à la fois, je vous conseille de lire la doc.
@@ -86,7 +90,9 @@ Cet outil n'accepte que 10 textes à la fois, je vous conseille de lire la doc.
           la O
           philosophie O
  
-### Output: db_5_NERbeyond_BIO
+### Output: 
+db_5_NERbeyond_BIO
+  
   #### example:
   
           Martin B-PER
@@ -113,6 +119,78 @@ Cet outil n'accepte que 10 textes à la fois, je vous conseille de lire la doc.
           le O
           biais O
           de O
+
+## 3 - step
+
+### Objectif:
+ À partir de la sortie NER & Beyond CONLL, nous allons produire une tokenization pour pouvoir faire les annotations (prédiction)
+ pour passer spaCy, autrement dit nous allons enlever la column IOB format CONLL pour avoir une tokenization syncronisée.
+ 
+ ### Input: 
+ db_5_NERbeyond_BIO
+ 
+  #### example:
+  
+          Martin B-PER
+          Schongauer I-PER
+          pour O
+          la O
+          Haute-Alsace B-LOC
+          . O
+          Le O
+          dernier O
+          médaillon O
+          est O
+          symboliquement O
+          consacré O
+          à O
+          Herrade B-PER
+          de I-PER
+          Landsberg I-PER
+          , O
+          faisant O
+          ainsi O
+          écho, O
+          par O
+          le O
+          biais O
+          de O
+
+### Output: 
+db_6_TOKenized_text
+  
+  #### example:
+  
+          À
+          la
+          fin
+          du
+          XIXe
+          siècle,
+          le
+          nouveau
+          bâtiment
+          de
+          la
+          Bibliothèque
+          impériale
+          de
+          l’université
+          et
+          de
+          la
+          régionespaces
+          savantslieubibliothèque
+          (Kaiserliche
+          Universitäts-
+          und
+
+#### fichier: 
+ faite avec regex sublime text 
+
+
+ 
+
 
 
 
