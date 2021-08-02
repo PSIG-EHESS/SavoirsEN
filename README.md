@@ -271,7 +271,7 @@ tok_SpaCy_BILOU.py
 Nous avons les output prediction cependant leur étiquetage a été faite en BIOLU format et notre GOLD est en BIO format
 allons devoir faire une transformation pour revenir vers un output prediction laballed BIO tout en savant que nous allons perdre une richesse descriptive dans
 cette régression vers BIO format
-Dans cette transformation nous faisons également le replacement de les étiquettes 
+Dans cette transformation nous faisons également le replacement de les étiquettes pour avoir une similarité dans notre prochaine étape 
     
             'B-ORG': 'O',
             'U-ORG': 'O',
@@ -350,7 +350,7 @@ dans la base de données db_7_SpaCy/ il y a les versions BIOLU et BIO output
           enfin	O
 
 #### fichier: 
- faite avec regex sublime text
+ SpaCyBILOU_toBIO.py
  
 ## 6 - step
 
