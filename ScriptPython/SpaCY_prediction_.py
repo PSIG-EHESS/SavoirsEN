@@ -13,8 +13,9 @@ import re
 def compare(x):    
 	return '1' if x['PREDICTION'] == x['GOLD'] else 'O'
 
+# input directory
 path_hand = r'/Users/alexsoares/Desktop/EHESS/dev/Savoirs_Spacy/hand_pandas' # use your path
-path_clean = r'/Users/alexsoares/Desktop/EHESS/dev/Savoirs_Spacy/SpaCy_BIO/SpaCy_sm_BIO' 
+path_clean = r'/Users/alexsoares/Desktop/EHESS/dev/Savoirs_Spacy/SpaCy_BIO/SpaCy_sm_BIO/' 
 
 # inform the path
 for file_path in glob.iglob(path_hand + "/*.txt"):

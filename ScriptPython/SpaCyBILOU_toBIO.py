@@ -5,18 +5,9 @@ import re
 # retrives file support
 import glob
 # inform the path
-for file_path in glob.iglob('SpaCy_tok/SpaCy_sm/*.tsv'):
-    #transform path into a readable file
-    f_name = (file_path)
-    #print(f_name)
-    
-    # open the variable to be read and split into words
-    with open(f_name, 'r', encoding='utf8') as f:
-        # read and split into words to count word in file
-        text = f.read()
-        #print(text)
-        
-    _replacements = {
+
+# replacements from BILOU to BIO format conll03
+_replacements = {
             'B-ORG': 'O',
             'U-ORG': 'O',
             'I-ORG': 'O',
@@ -33,12 +24,24 @@ for file_path in glob.iglob('SpaCy_tok/SpaCy_sm/*.tsv'):
             'L-LOC': 'I-LOC',
             }
 
-    def _do_replace(text):
-        return _replacements.get(text.group(0))
+# apply replacements
+def _do_replace(text):
+    return _replacements.get(text.group(0))
 
-    def replace_tags(text, _re=re.compile('|'.join(re.escape(r) for r in _replacements))):
-        return _re.sub(_do_replace, text)
+# apply the rules
+def replace_tags(text, _re=re.compile('|'.join(re.escape(r) for r in _replacements))):
+    return _re.sub(_do_replace, text)
 
+for file_path in glob.iglob('SpaCy_tok/SpaCy_sm/*.tsv'):
+    #transform path into a readable file
+    f_name = (file_path)
+    #print(f_name)
+    
+    # open the variable to be read and split into words
+    with open(f_name, 'r', encoding='utf8') as f:
+        # read and split into words to count word in file
+        text = f.read()
+        #print(text)
     result = (replace_tags(text))
     #print(result)
     

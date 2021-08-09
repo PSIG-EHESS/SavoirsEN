@@ -1,0 +1,32 @@
+train:
+  cmd: python -m spacy run train
+  script:
+    - python -m spacy train configs/config.cfg --output training/ --paths.train corpus/train.spacy
+      --paths.dev corpus/dev.spacy --training.eval_frequency 10 --training.max_steps
+      100 --gpu-id -1
+  deps:
+    - path: configs/config.cfg
+      md5: d849ab20d71f3f5d9d6a0995262145de
+    - path: corpus/train.spacy
+      md5: 9c5f4d2d94583705a8c03b77e9392466
+    - path: corpus/dev.spacy
+      md5: 224504840ce2d87145064c9e15515bb4
+  outs:
+    - path: training/model-best
+      md5: 25c78b7b0be2fb75ebf9242770458431
+  spacy_version: 3.1.0
+  spacy_git_version: 530b5d72f
+evaluate:
+  cmd: python -m spacy run evaluate
+  script:
+    - python -m spacy evaluate training/model-best corpus/dev.spacy --output training/metrics.json
+  deps:
+    - path: corpus/dev.spacy
+      md5: 224504840ce2d87145064c9e15515bb4
+    - path: training/model-best
+      md5: 25c78b7b0be2fb75ebf9242770458431
+  outs:
+    - path: training/metrics.json
+      md5: 8b6a8ee5b6b6dfd59ba5656130c1a6ae
+  spacy_version: 3.1.0
+  spacy_git_version: 530b5d72f

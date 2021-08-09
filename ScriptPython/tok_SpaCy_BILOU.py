@@ -4,15 +4,13 @@ import os
 import re
 # retrives file support
 import glob
-# make a table
-import pandas as pd
-# regular expression
-import re
-
 # SpaCy NLP
 import spacy
+# conll03 format BIOLU
 from spacy.training import offsets_to_biluo_tags
+# NLP french language
 from spacy.lang.fr import French
+# applying spaCy to the file
 from spacy.tokens import Doc
 
 try:
@@ -52,8 +50,7 @@ except OSError:
             results_file = "%s%s_SpaCy_bert.tsv"%(output_dir, os.path.splitext(os.path.basename(f_name))[0])
             print(results_file)
 
-
-            # save it as blabla_text.tok
+            # save it as blabla_.tsv
             count = 0
             with open(results_file, 'w', encoding='utf8') as fpout: 
                 for tok in words.split("|"):
